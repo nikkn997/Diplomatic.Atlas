@@ -15,5 +15,8 @@ for(const lang of ['en','ru','fr','es','ar','zh']){
  const html=sandbox.window.AtlasStudio.render({state:{lang}});
  assert.match(html,/data-rs-tab/);assert.match(html,/data-rs-case/);
  assert.ok(sandbox.window.ATLAS_I18N[lang].navStudio);
+ const titleByLanguage={en:'What do aggregate UN votes conceal?',ru:'Что скрывают общие итоги голосований ООН?',fr:'Que masquent les résultats agrégés des votes à l’ONU ?',es:'¿Qué ocultan los resultados agregados de las votaciones de la ONU?',ar:'ما الذي تخفيه النتائج الإجمالية للتصويت في الأمم المتحدة؟',zh:'联合国投票汇总结果掩盖了什么？'};
+ assert.ok(html.includes(titleByLanguage[lang]),'Prompt was not translated for '+lang);
+ if(lang!=='en')assert.ok(!html.includes(titleByLanguage.en),'English prompt leaked into '+lang);
 }
 console.log('Research Studio route, assets, six languages and evidence-only event connections: OK');
