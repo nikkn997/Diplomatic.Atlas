@@ -1,6 +1,295 @@
 {
-  "updated_at": "2026-11-24T16:17:06Z",
+  "updated_at": "2026-11-24T23:40:00Z",
   "items": [
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T22:24:23Z",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "Huawei признана виновной в краже коммерческой тайны, но оправдана за рэкет",
+          "summary": "Приговор был вынесен после многомесячного судебного разбирательства в Нью-Йорке.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Huawei reconnu coupable de vol de secrets commerciaux mais acquitté de racket",
+          "summary": "Le verdict fait suite à un procès d'un mois à New York.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Huawei se declaró culpable de robar secretos comerciales pero absuelto de hacer ruido",
+          "summary": "El veredicto sigue un juicio de meses en Nueva York.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "هواي) وجد مذنباً بسرقة الأسرار التجارية) لكن بُرئ من الإبتزاز",
+          "summary": "ويتبع الحكم محاكمة دامت شهرا في نيويورك.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "华伟犯窃取商业秘密罪 但被判勒索罪无罪",
+          "summary": "判决是在纽约进行长达数月的审判之后作出的。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T21:19:42Z",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "Генеральный прокурор США уклоняется от вопросов о расследовании Nvidia",
+          "summary": "Цена акций Nvidia упала на 7%, поскольку законодатели требуют ответов о причастности президента Дональда Трампа к восстановлению Хуана.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le procureur général des États-Unis ne pose pas de questions sur l'enquête de Nvidia",
+          "summary": "Le cours de l'action de Nvidia a chuté de 7% alors que les législateurs demandent des réponses sur l'implication du président Donald Trump dans la réintégration de Huang.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Fiscal General de EE.UU. hace preguntas sobre la investigación de Nvidia",
+          "summary": "El precio compartido de Nvidia ha caído 7% mientras los legisladores demandan respuestas sobre la participación del presidente Donald Trump en la reincorporación de Huang.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "المدعي العام الأمريكي (دودج) أسئلة عن تحقيق (نيفيديا)",
+          "summary": "لقد انخفض سعر حصة (نافيديا) بنسبة 7% بينما يطلب المشرعون إجابات عن مشاركة الرئيس (دونالد ترامب) في إعادة (هانغ)",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "美国总检察长回避有关Nvidia调查的问题",
+          "summary": "Nvidia的股价下跌了7%,因为立法者要求解答总统唐纳德·特朗普参与黄复健的问题.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T19:27:23Z",
+      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "ДР Конго заявляет, что военный самолет пропал без вести, поскольку повстанцы утверждают, что сбили самолет",
+          "summary": "Сообщается, что среди сбитого самолета есть пилот южноафриканского истребителя и офицер из Уганды.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "DR Congo dit que des avions militaires portés disparus comme des rebelles prétendent avoir abattu un avion",
+          "summary": "Un pilote de chasse sud-africain et un officier ougandais seraient parmi ceux à bord de l'avion abattu.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "DR Congo dice que aviones militares desaparecidos como rebeldes afirman disparar avión",
+          "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plano.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "يقول (كونغو) أن طائرة عسكرية مفقودة كمتمردين تدّعي إسقاط الطائرة",
+          "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "DR刚果说,军机失踪 因为叛军声称击落飞机",
+          "summary": "据报道,在被击落的飞机上有一名南非战斗机飞行员和一名乌干达军官。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T19:10:31Z",
+      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/342b/live/2203fe30-e82f-11f1-917e-35f1674fb52c.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "92-летний нигерийский монарх отстранен от должности после обвинений в сексуальном насилии",
+          "summary": "Эмир Даура является одним из самых известных монархов Нигерии, и политики часто пытаются заручиться его поддержкой.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Monarque nigérian, 92 ans, suspendu après une agression sexuelle",
+          "summary": "L'émir de Daura est l'un des monarques les plus connus du Nigeria, les politiciens essayant souvent de gagner son soutien.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الملكية النيجيرية، 92، مع وقف التنفيذ بعد مطالبات الاعتداء الجنسي",
+          "summary": "أمير (دورا) هو أحد أفضل الملوك النيجيريين مع السياسيين في كثير من الأحيان يحاولون الحصول على دعمه",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "尼日利亚君主,92岁,在性攻击要求后被停职",
+          "summary": "达乌拉的埃米尔是尼日利亚最著名的君主之一,政治家们经常试图争取他的支持.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T18:07:46Z",
+      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "Лидер индийской партии тараканов заявил, что ему запретили летать в Великобританию",
+          "summary": "Саурав Дас сказал, что иммиграционные власти в аэропорту Дели сообщили ему, что его паспорт был «помечен».",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le chef du parti « cockroach » de l'Inde dit qu'il a été arrêté de voler au Royaume-Uni",
+          "summary": "Sauvav Das a dit que les autorités de l'immigration à l'aéroport de Delhi lui ont dit que son passeport avait été \"frappé\".",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El líder del partido de la India \"cockroach\" dice que fue detenido de volar a Reino Unido",
+          "summary": "Saurav Das dijo que las autoridades de inmigración del aeropuerto de Delhi le dijeron que su pasaporte había sido \"flagged\".",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "قائد حزب الهند يقول انه توقف من الطيران الى المملكة المتحدة",
+          "summary": "Saurav قال داس أن سلطات الهجرة في مطار دلهي أخبرته أن جواز سفره قد تم تنبيهه",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "印度的\"口袋\"党领袖说他被阻止去英国",
+          "summary": "绍拉夫 达斯说,德里机场的移民当局告诉他,他的护照被\"封上\"了.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T17:04:00Z",
+      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e688/live/d1155630-e820-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "Зимбабве осудили в ЮАР за попытку воевать на Украине",
+          "summary": "По данным Украины, сотни людей из разных африканских стран были завербованы для борьбы за Россию.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Zimbabwéen condamné en Afrique du Sud pour tentative de lutte en Ukraine",
+          "summary": "Des centaines de personnes de différents pays africains ont été recrutées pour lutter pour la Russie, selon l'Ukraine.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Zimbabuense condenado en Sudáfrica por tratar de luchar en Ucrania",
+          "summary": "Cientos de personas de diferentes países africanos han sido reclutadas para luchar por Rusia, según Ucrania.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "زمبابوي أدين في جنوب أفريقيا بمحاولة القتال في أوكرانيا",
+          "summary": "وقد تم تجنيد مئات الأشخاص من مختلف البلدان الأفريقية للقتال من أجل روسيا، وفقا لما ذكرته أوكرانيا.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "津巴布韦在南非因企图在乌克兰作战被定罪",
+          "summary": "据乌克兰称,来自不同非洲国家的数百人被征召去为俄罗斯作战。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T16:49:07Z",
+      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "Экс-президент Франции Саркози и его жена Карла Бруни предстанут перед судом",
+          "summary": "Это последний случай с участием Николя Саркози, который стал первым французским экс-президентом, попавшим в тюрьму в прошлом году.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'ex-président français Sarkozy et l'épouse Carla Bruni seront jugés",
+          "summary": "C'est le dernier cas impliquant Nicolas Sarkozy qui est devenu le premier ex-président français à être emprisonné l'an dernier.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "expresidente francés Sarkozy y esposa Carla Bruni para enfrentar juicio",
+          "summary": "Es el último caso en el que Nicolas Sarkozy se convirtió en el primer ex presidente francés en ir a la cárcel el año pasado.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الرئيس الفرنسي السابق ساركوزي والزوجة كارلا بروني لمواجهة المحاكمة",
+          "summary": "إنها آخر قضية تتعلق بـ(نيكولاس ساركوزي) الذي أصبح أول رئيس فرنسي سابق في السجن العام الماضي",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "法国前总统萨科齐和妻子卡拉·布鲁尼接受审判",
+          "summary": "这是最近一起涉及尼古拉·萨科齐的案件,他成为去年第一个入狱的法国前总统。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
     {
       "source": "bbc",
       "publisher": "BBC News",
@@ -14,7 +303,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Израильский авиаудар убил начальника внутренней безопасности ХАМАСа в Газе",
@@ -56,7 +345,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Потери от мин в Сирии возросли через два года после войны",
@@ -98,7 +387,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Губернатора России задержали по редкому уголовному делу в отношении регионального лидера",
@@ -125,6 +414,201 @@
     {
       "source": "un",
       "publisher": "UN News",
+      "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168871",
+      "published": "2026-11-24T12:00:00Z",
+      "summary": "More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurity continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "World News in Brief: Вакцинный кризис в Йемене, помощь Украине, еще один сотрудник БАПОР убит",
+          "summary": "Более 364 000 человек были перемещены в Йемене с начала августа, поскольку продолжаются боевые действия и отсутствие безопасности, сообщило во вторник Управление ООН по координации гуманитарных вопросов (УКГВ).",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "World News in Brief: Crise des vaccins au Yémen, aide à l'Ukraine, un autre fonctionnaire de l'UNRWA tué",
+          "summary": "Plus de 364 000 personnes ont été déplacées au Yémen depuis le début du mois d'août alors que les combats et l'insécurité se poursuivent, a déclaré mardi le Bureau de la coordination des affaires humanitaires (OCHA).",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "World News in Brief: Vaccine crisis en Yemen, aid for Ukraine, another OOPS staffer killed",
+          "summary": "Más de 364.000 personas han sido desplazadas en el Yemen desde principios de agosto a medida que continúan los combates y la inseguridad, dijo el martes la Oficina de Coordinación de Asuntos Humanitarios de las Naciones Unidas.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "世界新闻简报:也门疫苗危机、援助乌克兰、近东救济工程处另一名工作人员遇害",
+          "summary": "联合国人道主义事务协调厅(人道协调厅)星期二说,自8月初以来,也门有364 000多人流离失所,因为战斗和不安全仍在继续。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168869",
+      "published": "2026-11-24T12:00:00Z",
+      "summary": "Decades of progress against AIDS, one of the greatest public health achievements in history, could go into reverse as international HIV funding is cut and campaigns against human rights and gender equality gain ground, the UN agency devoted to ending the pa...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "Десятилетия успехов в борьбе со СПИДом могут рухнуть, поскольку финансирование борьбы с ВИЧ истощается",
+          "summary": "Десятилетия прогресса в борьбе со СПИДом, одним из величайших достижений общественного здравоохранения в истории, могут пойти вспять, поскольку международное финансирование борьбы с ВИЧ сокращается, а кампании против прав человека и гендерного равенства набирают силу.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Des décennies de progrès dans la lutte contre le sida pourraient se terminer au fur et à mesure que le financement du VIH s'assèche",
+          "summary": "Des décennies de progrès dans la lutte contre le sida, l'une des plus grandes réalisations de l'histoire en matière de santé publique, pourraient s'inverser à mesure que le financement international du VIH est réduit et que les campagnes contre les droits de l'homme et l'égalité des...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Decenios de los avances contra el SIDA podrían desentrañarse a medida que la financiación del VIH se agota",
+          "summary": "Decenios de los progresos en la lucha contra el SIDA, uno de los mayores logros en la historia en materia de salud pública, podrían revertirse a medida que se reduzca la financiación internacional del VIH y se reduzcan las campañas contra los derechos humanos y la igualdad entre los géneros, el organismo de las Naciones Unidas dedicado a poner fin al...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "يمكن أن تتكشف عقود من المكاسب التي تحققت ضد الإيدز مع انخفاض التمويل المتعلق بفيروس نقص المناعة البشرية",
+          "summary": "ويمكن أن تتحول عقود من التقدم في مكافحة الإيدز، وهي واحدة من أعظم إنجازات الصحة العامة في التاريخ، مع توقف التمويل الدولي لفيروس نقص المناعة البشرية، وشن حملات ضد حقوق الإنسان والمساواة بين الجنسين، ووكالة الأمم المتحدة المكرسة لإنهاء هذا المرض.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "随着艾滋病毒供资耗尽,数十年防治艾滋病的成果可能会瓦解",
+          "summary": "数十年防治艾滋病的进展是历史上最大的公共卫生成就之一,随着国际艾滋病毒筹资的削减和反对人权和两性平等运动的深入开展,致力于结束父权的联合国机构有可能发生逆转.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168868",
+      "published": "2026-11-24T12:00:00Z",
+      "summary": "UN Deputy Secretary-General Amina Mohammed warned on Tuesday that another woman or girl would be killed by a partner or family member before she finished speaking, as she called for justice for survivors and consequences for perpetrators.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "«Слишком много неудач»: последний призыв заместителя главы ООН прекратить насилие в отношении женщин",
+          "summary": "Заместитель Генерального секретаря ООН Амина Мохаммед предупредила во вторник, что еще одна женщина или девочка будет убита партнером или членом семьи, прежде чем она закончит говорить, поскольку она призвала к справедливости для выживших и последствиям для преступников.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "« Trop d'échecs : dernier appel du chef adjoint de l'ONU pour mettre fin à la violence à l'égard des femmes",
+          "summary": "La Secrétaire générale adjointe de l'ONU, Amina Mohammed, a averti mardi qu'une autre femme ou fille serait tuée par un partenaire ou un membre de sa famille avant de prendre la parole, alors qu'elle demandait justice pour les survivants et les conséquences pour les auteurs.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "“Far demasiado fracaso”: Llamamiento final del subjefe de la ONU para poner fin a la violencia contra las mujeres",
+          "summary": "El Secretario General Adjunto de la ONU, Amina Mohammed, advirtió el martes que otra mujer o niña sería asesinada por un socio o miembro de la familia antes de terminar de hablar, ya que pidió justicia para los sobrevivientes y consecuencias para los autores.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "\" 太多的失败 \" :联合国副主任关于结束暴力侵害妇女行为的最后呼吁",
+          "summary": "联合国常务副秘书长Amina Mohammed星期二警告说,另一名妇女或女孩将在发言结束前被伴侣或家庭成员杀害,因为她呼吁为幸存者伸张正义,并对肇事者造成后果。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
+      "published": "2026-11-24T12:00:00Z",
+      "summary": "When the UN was founded in 1945, computers, the internet and satellites were the stuff of science fiction. Today, artificial intelligence (AI) is already assisting in targeting, drones are reshaping warfare and disinformation is spreading in unprecedented w...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "Совет Безопасности: Может ли разрешение конфликтов идти в ногу с ИИ и дронами, которые меняют ход войны?",
+          "summary": "Когда ООН была основана в 1945 году, компьютеры, интернет и спутники были предметом научной фантастики. Сегодня искусственный интеллект (ИИ) уже помогает в нацеливании, беспилотники меняют методы ведения войны, а дезинформация распространяется в беспрецедентных масштабах.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Conseil de sécurité VIVRE : La résolution des conflits peut-elle suivre le rythme de l'IA et des drones remodeler la guerre ?",
+          "summary": "Lorsque l'ONU a été fondée en 1945, les ordinateurs, l'Internet et les satellites étaient la matière de la science-fiction. Aujourd'hui, l'intelligence artificielle (AI) aide déjà à cibler, les drones remodelent la guerre et la désinformation se répand dans...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Consejo de Seguridad VIVO: ¿Puede la resolución de conflictos mantener el ritmo a medida que IA y drones reformen la guerra?",
+          "summary": "Cuando la ONU fue fundada en 1945, las computadoras, internet y satélites eran lo de la ciencia ficción. Hoy, la inteligencia artificial (AI) ya está ayudando a atacar, los drones están remodelando la guerra y la desinformación se está propagando en...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "مجلس الأمن حي: هل يمكن لحل النزاعات أن يواكب مع قيام منظمة العفو الدولية والطائرات بدون طيار بإعادة تشكيل الحرب؟",
+          "summary": "عندما تأسست الأمم المتحدة في عام 1945 كانت الحواسيب و الإنترنت و الأقمار الصناعية اليوم، الذكاء الاصطناعي يساعد بالفعل في الاستهداف، الطائرات بدون طيار تُعيد تشكيل الحرب والتضليل ينتشر في غير مسبوق...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "安全理事会现场直播:在AI和无人机重塑战争时,冲突的解决能否跟上步伐?",
+          "summary": "1945年联合国成立时,计算机,互联网和卫星都是科幻小说的内容. 今天,人工智能已经在协助瞄准目标,无人机正在重塑战争,而虚假信息在史无前例的w.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168865",
+      "published": "2026-11-24T12:00:00Z",
+      "summary": "Staff from the World Health Organization (WHO) and Ebola responders remain trapped in a hospital in Ituri province, Democratic Republic of the Congo (DRC), as heavy fighting continues in the vicinity, the UN agency said in an update on Tuesday.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "translations": {
+        "ru": {
+          "title": "ДР Конго: Углубляется обеспокоенность по поводу застрявших в ловушке работников Эбола из-за насилия в отношении женщин и девочек",
+          "summary": "Сотрудники Всемирной организации здравоохранения (ВОЗ) и службы реагирования на Эболу остаются в ловушке в больнице в провинции Итури, Демократическая Республика Конго (ДРК), поскольку в окрестностях продолжаются тяжелые бои, говорится в обновлении агентства ООН во вторник.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "RD Congo : La violence à l'égard des femmes et des filles s'intensifie dans la préoccupation des travailleurs piégés d'Ebola",
+          "summary": "Le personnel de l'Organisation mondiale de la santé (OMS) et les intervenants d'Ebola restent piégés dans un hôpital de la province de l'Ituri, en République démocratique du Congo (RDC), alors que de violents combats se poursuivent dans les environs.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "DR Congo: La preocupación por los trabajadores del Ébola atrapados mientras la violencia contra las mujeres y las niñas se profundiza",
+          "summary": "El personal de la Organización Mundial de la Salud (OMS) y los equipos de ébola siguen atrapados en un hospital en la provincia de Ituri, República Democrática del Congo (RDC), mientras continúan los intensos combates en las inmediaciones, dijo la agencia de las Naciones Unidas en una actualización el martes.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "DR 刚果:关注被困的埃博拉工作人员,因为暴力侵害妇女和女童行为加剧",
+          "summary": "世界卫生组织(世卫组织)和埃博拉应急人员仍困在刚果民主共和国伊图里省的一家医院,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
       "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168864",
       "published": "2026-11-24T12:00:00Z",
@@ -135,7 +619,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T15:57:17Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Колумбия: Гутерриш призывает к возобновлению приверженности мирному соглашению",
@@ -177,7 +661,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T15:57:17Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Пять женщин, убитых каждый час партнерами или членами семьи",
@@ -219,7 +703,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Слезы от бомбы в колумбийском городе ранили более 20 человек",
@@ -261,7 +745,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Дневник Папы Франциска показал, что он трижды видел дьявола",
@@ -303,7 +787,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Глава НАТО пообещал защититься от космической угрозы после сообщений российских ядерных спутников",
@@ -377,48 +861,6 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
-      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T10:48:27Z",
-      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
-      "translations": {
-        "ru": {
-          "title": "ДР Конго заявляет, что военный самолет пропал без вести, поскольку повстанцы утверждают, что сбили самолет",
-          "summary": "Сообщается, что среди сбитого самолета есть пилот южноафриканского истребителя и офицер из Уганды.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "DR Congo dit que des avions militaires portés disparus comme des rebelles prétendent avoir abattu un avion",
-          "summary": "Un pilote de chasse sud-africain et un officier ougandais seraient parmi ceux à bord de l'avion abattu.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "DR Congo dice que aviones militares desaparecidos como rebeldes afirman disparar avión",
-          "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plano.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "يقول (كونغو) أن طائرة عسكرية مفقودة كمتمردين تدّعي إسقاط الطائرة",
-          "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "DR刚果说,军机失踪 因为叛军声称击落飞机",
-          "summary": "据报道,在被击落的飞机上有一名南非战斗机飞行员和一名乌干达军官。",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
       "title": "Watch: Moment troops raid home and capture Mexican drug lord",
       "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T09:09:41Z",
@@ -429,7 +871,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Момент, когда войска нападают на дом и захватывают мексиканского наркобарона",
@@ -471,7 +913,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Чему возвращение Дженсена Хуана учит Си Цзиньпина о Трампе",
@@ -513,7 +955,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Экс-премьер Бангладеш Шейх Хасина планирует вернуться 16 декабря",
@@ -545,48 +987,6 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T05:33:07Z",
-      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
-      "translations": {
-        "ru": {
-          "title": "Лидер индийской партии тараканов заявил, что ему запретили летать в Великобританию",
-          "summary": "Саурав Дас сказал, что иммиграционные власти в аэропорту Дели сообщили ему, что его паспорт был «помечен».",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "Le chef du parti « cockroach » de l'Inde dit qu'il a été arrêté de voler au Royaume-Uni",
-          "summary": "Sauvav Das a dit que les autorités de l'immigration à l'aéroport de Delhi lui ont dit que son passeport avait été \"frappé\".",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "El líder del partido de la India \"cockroach\" dice que fue detenido de volar a Reino Unido",
-          "summary": "Saurav Das dijo que las autoridades de inmigración del aeropuerto de Delhi le dijeron que su pasaporte había sido \"flagged\".",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "قائد حزب الهند يقول انه توقف من الطيران الى المملكة المتحدة",
-          "summary": "Saurav قال داس أن سلطات الهجرة في مطار دلهي أخبرته أن جواز سفره قد تم تنبيهه",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "印度的\"口袋\"党领袖说他被阻止去英国",
-          "summary": "绍拉夫 达斯说,德里机场的移民当局告诉他,他的护照被\"封上\"了.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
       "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
       "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T01:21:41Z",
@@ -597,7 +997,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Веселье и аплодисменты, когда Дженсен Хуанг возвращается в офис Nvidia",
@@ -639,7 +1039,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Король Чарльз и Элтон Джон почтили память австралийской музыкальной легенды Молли Мелдрум",
@@ -681,7 +1081,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Отец, который обнаружил убийство дочери на Facebook, чувствует себя проигнорированным южноафриканской полицией",
@@ -723,7 +1123,7 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Бразилия просит комиссию по спорам о дополнительных пошлинах, введенных Соединенными Штатами",
@@ -765,7 +1165,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
+      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Возмущение после ареста отца и дочери в аэропорту Сиэтла",
@@ -807,7 +1207,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
       "translations": {
         "ru": {
           "title": "Жизель Пеликот «унижена» после обнаженных фотографий, отправленных в СМИ для продвижения книги",
@@ -891,7 +1290,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
       "translations": {
         "ru": {
           "title": "Что удар по российскому кораблю в Ливии говорит о распространении войны на Украине",
@@ -933,7 +1331,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
       "translations": {
         "ru": {
           "title": "Первая леди США Мелания Трамп приветствует рождественскую елку в Белом доме",
@@ -975,7 +1372,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
       "translations": {
         "ru": {
           "title": "Иранские власти пороли певицу, которая выступала без хиджаба, говорят юристы",
@@ -1017,7 +1413,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
       "translations": {
         "ru": {
           "title": "Комик выдает себя за танцевальные движения Трампа, высмеивает торговые переговоры на пресс-ужине в Канаде",
@@ -1059,7 +1454,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
       "translations": {
         "ru": {
           "title": "Взлет, падение и подъем Дженсена Хуанга",
@@ -1101,7 +1495,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
       "translations": {
         "ru": {
           "title": "Я хочу уничтожить капитализм, а не Францию. На улицах с французским ультралевым",
@@ -1143,7 +1536,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T15:57:17Z",
       "translations": {
         "ru": {
           "title": "Война в Газе разрушила 77 лет человеческого развития",
@@ -1185,7 +1577,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T15:57:17Z",
       "translations": {
         "ru": {
           "title": "Глава ООН призывает к переговорам о глобальной системе безопасности ИИ и предупреждает об историческом сдвиге власти",
@@ -1350,7 +1741,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
       "translations": {
         "ru": {
           "title": "Украина поделилась видео ударов по российским кораблям у берегов Ливии",
@@ -1392,7 +1782,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
       "translations": {
         "ru": {
           "title": "Пять выводов из неудачных переговоров по климату COP31",
@@ -1434,7 +1823,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
       "translations": {
         "ru": {
           "title": "Сан-Франциско переживает бум ИИ, но опасения по поводу аварии растут",
@@ -1476,7 +1864,6 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T16:17:06Z",
       "translations": {
         "ru": {
           "title": "Меры по содействию торговле помогают компенсировать рост новых торговых ограничений G20",
@@ -1804,6 +2191,20 @@
       "image": "",
       "category": "news",
       "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "Members review customs valuation notifications, launch new work on preshipment inspection",
+      "url": "https://www.wto.org/english/news_e/news26_e/val_20nov26_564_e.htm",
+      "published": "2026-11-20T00:00:00Z",
+      "summary": "WTO members reviewed compliance with notification obligations under the Customs Valuation Agreement at a meeting on 20 November, at which the Chair highlighted progress in new submissions, while noting persistent gaps. Members also agreed on further work re...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
       "flagCode": "",
       "imageCredit": "",
       "imageType": ""
@@ -2454,8 +2855,9 @@
     }
   ],
   "status": "partial",
-  "media_count": 29,
+  "media_count": 34,
   "sources": [
+    "un",
     "bbc",
     "ungeneva",
     "geneva_meetings",
