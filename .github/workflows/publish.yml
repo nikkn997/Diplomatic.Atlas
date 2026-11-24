@@ -67,6 +67,17 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Test original bundled application before replacing seed data
+        working-directory: site
+        run: |
+          npm run check
+          npm test
+          python -m unittest discover -s tests -p 'test_news_fetch.py' -v
+          python -m unittest discover -s tests -p 'test_events_fetch.py' -v
+          python -m unittest discover -s tests -p 'test_indicators_fetch.py' -v
+          python -m unittest discover -s tests -p 'test_translations.py' -v
+          python -m unittest discover -s tests -p 'test_story_photos.py' -v
+
       - name: Restore retained snapshots from earlier successful runs
         run: |
           mkdir -p site/data
@@ -128,16 +139,33 @@ jobs:
           else:print('WDI refresh not due yet.')
           PY
 
-      - name: Validate snapshots and website
+      - name: Validate refreshed snapshot schemas (including new publishers)
         working-directory: site
         run: |
           npm run check
-          npm test
-          python -m unittest discover -s tests -p 'test_news_fetch.py' -v
-          python -m unittest discover -s tests -p 'test_events_fetch.py' -v
-          python -m unittest discover -s tests -p 'test_indicators_fetch.py' -v
-          python -m unittest discover -s tests -p 'test_translations.py' -v
-          python -m unittest discover -s tests -p 'test_story_photos.py' -v
+          python - <<'PY'
+          import json, pathlib, datetime
+          root=pathlib.Path('data')
+          news=json.loads((root/'liveNews.json').read_text(encoding='utf-8'))
+          assert isinstance(news.get('items'),list)
+          keys=set()
+          for item in news['items']:
+              assert item.get('publisher') and item.get('title') and item.get('published') and item.get('url','').startswith('https://')
+              key=(item['url'],item['published'])
+              assert key not in keys, f'Duplicate article: {key[0]}'
+              keys.add(key)
+          indicators=json.loads((root/'indicators.json').read_text(encoding='utf-8'))
+          assert isinstance(indicators.get('countries'),dict)
+          for country in ('FRA','DEU'):
+              assert country in indicators['countries']
+              for metric in ('population','gdp'):
+                  row=indicators['countries'][country].get(metric)
+                  assert row and isinstance(row.get('value'),(int,float)) and row.get('value')>0, f'{country}.{metric}'
+                  assert str(row.get('source_url','')).startswith('https://'),f'{country}.{metric} source link missing'
+          for name in ('liveNews.js','liveEvents.js','indicators.js'):
+              assert (root/name).is_file(),name
+          print(f'Validated {len(news["items"])} new/retained news records and current WDI metrics.')
+          PY
 
       - name: Preserve new snapshots as versioned repository data
         id: persist
