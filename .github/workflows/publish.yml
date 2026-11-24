@@ -161,7 +161,14 @@ jobs:
               for metric in ('population','gdp'):
                   row=indicators['countries'][country].get(metric)
                   assert row and isinstance(row.get('value'),(int,float)) and row.get('value')>0, f'{country}.{metric}'
-                  assert str(row.get('source_url','')).startswith('https://'),f'{country}.{metric} source link missing'
+                  # WDI refresh records use the verified top-level World Bank source.
+                  # Seed records may additionally include a per-metric source_url.
+                  source_url=row.get('source_url')
+                  if source_url is not None:
+                      assert isinstance(source_url,str) and source_url.startswith('https://'),f'{country}.{metric} invalid source link'
+          assert 'World Bank' in indicators.get('source',''), 'Missing World Bank provenance'
+          assert indicators.get('indicators',{}).get('population')=='SP.POP.TOTL'
+          assert indicators.get('indicators',{}).get('gdp')=='NY.GDP.MKTP.CD'
           for name in ('liveNews.js','liveEvents.js','indicators.js'):
               assert (root/name).is_file(),name
           print(f'Validated {len(news["items"])} new/retained news records and current WDI metrics.')
