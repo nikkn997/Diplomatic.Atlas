@@ -1,1 +1,1 @@
-window.ATLAS_LIVE_EVENTS={"updated_at":"2026-11-24T15:57:24Z","status":"partial","sources":["un","ungeneva","geneva_meetings","who","wto"],"items":[],"method":"Meeting city extracted from official publisher headline only; no inferred participants, attendance or agreements."};
+window.ATLAS_LIVE_EVENTS={"updated_at":"2026-11-24T16:10:21Z","status":"partial","sources":["ungeneva","geneva_meetings","who","wto"],"items":[],"method":"Meeting city extracted from official publisher headline only; no inferred participants, attendance or agreements."};
