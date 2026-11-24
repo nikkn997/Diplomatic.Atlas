@@ -86,12 +86,12 @@ jobs:
           root=pathlib.Path('site')
           p=(root/'index.html').read_text()
           assert '<title>Diplomatic Atlas | International Relations Research Platform</title>' in p
-          assert 'src/app.js?v=20261124-studio-seo2' in p
-          assert 'src/studio.js?v=20261124-studio-seo2' in p
+          assert 'src/app.js?v=20261124-i18n3' in p
+          assert 'src/studio.js?v=20261124-i18n3' in p
           assert 'rel="canonical"' in p
           assert 'research-studio.html' in p
           assert 'Research Studio' in (root/'research-studio.html').read_text()
-          assert 'diplomatic-atlas-static-20261124-studio-seo2' in (root/'service-worker.js').read_text()
+          assert 'diplomatic-atlas-static-20261124-i18n3' in (root/'service-worker.js').read_text()
           ET.parse(root/'sitemap.xml')
           print('SEO title, unique URLs, cache-busting, and sitemap validated.')
           PY
