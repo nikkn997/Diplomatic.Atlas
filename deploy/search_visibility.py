@@ -13,7 +13,7 @@ import sys
 from xml.sax.saxutils import escape
 
 SITE = "https://nikkn997.github.io/Diplomatic.Atlas/"
-REV = "20261124-studio-seo2"
+REV = "20261124-i18n3"
 TITLE = "Diplomatic Atlas | International Relations Research Platform"
 DESC = ("Diplomatic Atlas is an independent international relations research "
         "and education project with a world atlas, sourced diplomatic events, "
