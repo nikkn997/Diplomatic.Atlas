@@ -352,6 +352,26 @@ jobs:
           if [ -d deploy/verification ]; then
             find deploy/verification -maxdepth 1 -type f \( -name 'google*.html' -o -name 'yandex_*.html' \) -exec cp -t public -- {} +
           fi
+          # Keep GitHub as a functional fallback, but identify the Cloudflare
+          # production URLs as the preferred search results. Preserve old
+          # verification files and browser-local research data.
+          python - <<'PY'
+          import pathlib, xml.etree.ElementTree as ET
+          root=pathlib.Path('public')
+          old='https://nikkn997.github.io/Diplomatic.Atlas/'
+          new='https://diplomatic-atlas.pages.dev/'
+          for name in ('index.html','research-studio.html'):
+              path=root/name
+              html=path.read_text(encoding='utf-8')
+              assert 'rel="canonical" href="'+old in html, 'Original canonical missing'
+              html=html.replace(old,new)
+              assert 'rel="canonical" href="'+new in html
+              path.write_text(html,encoding='utf-8')
+          path=root/'sitemap.xml'
+          path.write_text(path.read_text(encoding='utf-8').replace(old,new),encoding='utf-8')
+          assert all(x.text.startswith(new) for x in ET.parse(path).iter('{http://www.sitemaps.org/schemas/sitemap/0.9}loc'))
+          (root/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+new+'sitemap.xml\n',encoding='utf-8')
+          PY
           cp -R site/assets site/data site/src public/
           if [ -f site/PHOTO_CREDITS.md ]; then cp site/PHOTO_CREDITS.md public/; fi
           touch public/.nojekyll
