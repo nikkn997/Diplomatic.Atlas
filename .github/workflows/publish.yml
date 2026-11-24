@@ -158,11 +158,6 @@ jobs:
             git push
           fi
 
-      - name: Cache clearly labeled CC-licensed institutional reference photos
-        run: python site/scripts/fetch_reference_photos.py
-        timeout-minutes: 4
-        continue-on-error: true
-
       - name: Download seven audited CC BY 4.0 photos from related 2026 forums
         run: python site/scripts/build_story_photos.py
         timeout-minutes: 5
