@@ -137,6 +137,7 @@ jobs:
           python -m unittest discover -s tests -p 'test_events_fetch.py' -v
           python -m unittest discover -s tests -p 'test_indicators_fetch.py' -v
           python -m unittest discover -s tests -p 'test_translations.py' -v
+          python -m unittest discover -s tests -p 'test_story_photos.py' -v
 
       - name: Preserve new snapshots as versioned repository data
         id: persist
@@ -160,6 +161,11 @@ jobs:
       - name: Cache clearly labeled CC-licensed institutional reference photos
         run: python site/scripts/fetch_reference_photos.py
         timeout-minutes: 4
+        continue-on-error: true
+
+      - name: Download seven audited CC BY 4.0 photos from related 2026 forums
+        run: python site/scripts/build_story_photos.py
+        timeout-minutes: 5
         continue-on-error: true
 
       - name: Prepare static Pages site
