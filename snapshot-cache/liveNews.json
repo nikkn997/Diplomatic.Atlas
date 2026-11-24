@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-11-24T15:35:04Z",
+  "updated_at": "2026-11-24T15:41:51Z",
   "items": [
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T15:35:53Z",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
+      "translations": {
+        "ru": {
+          "title": "Израильский авиаудар убил начальника внутренней безопасности ХАМАСа в Газе",
+          "summary": "Наим Абу Нахель, который находился в этом положении всего два месяца, был мишенью в западном городе Газа, сообщает министерство внутренних дел Газы.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La frappe aérienne israélienne tue le chef de la sécurité intérieure du Hamas à Gaza",
+          "summary": "Naeem Abu Nahel, qui n'était en poste que depuis deux mois, a été pris pour cible dans l'ouest de la ville de Gaza.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El ataque aéreo israelí mata al jefe de seguridad interno de Hamás en Gaza",
+          "summary": "Naeem Abu Nahel, que sólo había estado en la posición durante dos meses, fue blanco en la ciudad occidental de Gaza, dice el ministerio interior de Gaza.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الهجوم الجوي الإسرائيلي يقتل رئيس الأمن الداخلي في حماس في غزة",
+          "summary": "نيم أبو نهل، الذي كان في الموقع لمدة شهرين فقط، كان مستهدفا في غرب مدينة غزة، وزارة داخلية غزة تقول.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "以色列空袭杀死哈马斯在加沙的内部安全主管",
+          "summary": "Naeem Abu Nahel在位仅两个月,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
     {
       "source": "bbc",
       "publisher": "BBC News",
@@ -14,7 +56,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Потери от мин в Сирии возросли через два года после войны",
@@ -56,7 +98,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Губернатора России задержали по редкому уголовному делу в отношении регионального лидера",
@@ -81,48 +123,6 @@
       }
     },
     {
-      "source": "bbc",
-      "publisher": "BBC News",
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T12:12:48Z",
-      "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
-      "translations": {
-        "ru": {
-          "title": "Израильский авиаудар убил начальника внутренней безопасности ХАМАСа в Газе",
-          "summary": "Наим Абу Нахель, который находился в этом положении всего два месяца, был мишенью в западном городе Газа, сообщает министерство внутренних дел Газы.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "La frappe aérienne israélienne tue le chef de la sécurité intérieure du Hamas à Gaza",
-          "summary": "Naeem Abu Nahel, qui n'était en poste que depuis deux mois, a été pris pour cible dans l'ouest de la ville de Gaza.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "El ataque aéreo israelí mata al jefe de seguridad interno de Hamás en Gaza",
-          "summary": "Naeem Abu Nahel, que sólo había estado en la posición durante dos meses, fue blanco en la ciudad occidental de Gaza, dice el ministerio interior de Gaza.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "الهجوم الجوي الإسرائيلي يقتل رئيس الأمن الداخلي في حماس في غزة",
-          "summary": "نيم أبو نهل، الذي كان في الموقع لمدة شهرين فقط، كان مستهدفا في غرب مدينة غزة، وزارة داخلية غزة تقول.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "以色列空袭杀死哈马斯在加沙的内部安全主管",
-          "summary": "Naeem Abu Nahel在位仅两个月,",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
       "source": "un",
       "publisher": "UN News",
       "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
@@ -135,7 +135,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T15:32:27Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Колумбия: Гутерриш призывает к возобновлению приверженности мирному соглашению",
@@ -177,7 +177,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T15:32:27Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Пять женщин, убитых каждый час партнерами или членами семьи",
@@ -219,7 +219,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Слезы от бомбы в колумбийском городе ранили более 20 человек",
@@ -261,7 +261,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Дневник Папы Франциска показал, что он трижды видел дьявола",
@@ -303,7 +303,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Глава НАТО пообещал защититься от космической угрозы после сообщений российских ядерных спутников",
@@ -345,7 +345,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Трамп столкнулся с негативной реакцией после того, как сказал, что «убедил» Nvidia восстановить генерального директора Дженсена Хуанга",
@@ -387,7 +387,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "ДР Конго заявляет, что военный самолет пропал без вести, поскольку повстанцы утверждают, что сбили самолет",
@@ -429,7 +429,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Момент, когда войска нападают на дом и захватывают мексиканского наркобарона",
@@ -471,7 +471,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Чему возвращение Дженсена Хуана учит Си Цзиньпина о Трампе",
@@ -513,7 +513,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Экс-премьер Бангладеш Шейх Хасина планирует вернуться 16 декабря",
@@ -555,7 +555,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Лидер индийской партии тараканов заявил, что ему запретили летать в Великобританию",
@@ -597,7 +597,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Веселье и аплодисменты, когда Дженсен Хуанг возвращается в офис Nvidia",
@@ -639,7 +639,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Король Чарльз и Элтон Джон почтили память австралийской музыкальной легенды Молли Мелдрум",
@@ -681,7 +681,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Отец, который обнаружил убийство дочери на Facebook, чувствует себя проигнорированным южноафриканской полицией",
@@ -723,7 +723,7 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Бразилия просит комиссию по спорам о дополнительных пошлинах, введенных Соединенными Штатами",
@@ -765,7 +765,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Возмущение после ареста отца и дочери в аэропорту Сиэтла",
@@ -807,7 +807,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Жизель Пеликот «унижена» после обнаженных фотографий, отправленных в СМИ для продвижения книги",
@@ -891,7 +891,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Что удар по российскому кораблю в Ливии говорит о распространении войны на Украине",
@@ -933,7 +933,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Первая леди США Мелания Трамп приветствует рождественскую елку в Белом доме",
@@ -975,7 +975,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Иранские власти пороли певицу, которая выступала без хиджаба, говорят юристы",
@@ -1017,7 +1017,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Комик выдает себя за танцевальные движения Трампа, высмеивает торговые переговоры на пресс-ужине в Канаде",
@@ -1059,7 +1059,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Взлет, падение и подъем Дженсена Хуанга",
@@ -1101,7 +1101,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Я хочу уничтожить капитализм, а не Францию. На улицах с французским ультралевым",
@@ -1143,7 +1143,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T15:32:27Z",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Война в Газе разрушила 77 лет человеческого развития",
@@ -1185,6 +1185,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
+      "imageCheckedAt": "2026-11-24T15:41:51Z",
       "translations": {
         "ru": {
           "title": "Глава ООН призывает к переговорам о глобальной системе безопасности ИИ и предупреждает об историческом сдвиге власти",
@@ -1349,7 +1350,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
       "translations": {
         "ru": {
           "title": "Украина поделилась видео ударов по российским кораблям у берегов Ливии",
@@ -1391,7 +1391,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
       "translations": {
         "ru": {
           "title": "Пять выводов из неудачных переговоров по климату COP31",
@@ -1433,7 +1432,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T15:35:04Z",
       "translations": {
         "ru": {
           "title": "Сан-Франциско переживает бум ИИ, но опасения по поводу аварии растут",
@@ -2454,6 +2452,7 @@
   "status": "partial",
   "media_count": 29,
   "sources": [
+    "un",
     "bbc",
     "ungeneva",
     "geneva_meetings",
