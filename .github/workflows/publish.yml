@@ -177,21 +177,41 @@ jobs:
       - name: Preserve new snapshots as versioned repository data
         id: persist
         run: |
-          mkdir -p snapshot-cache
+          # Make a safe copy outside the checkout before syncing with origin/main.
+          mkdir -p /tmp/atlas-refresh-snapshots
           for file in liveNews.json liveNews.js liveEvents.json liveEvents.js indicators.json indicators.js; do
-            cp "site/data/$file" "snapshot-cache/$file"
+            cp "site/data/$file" "/tmp/atlas-refresh-snapshots/$file"
           done
-          git add snapshot-cache
-          if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No new records; deployment not required."
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3 4; do
+            # The repo may have changed while RSS or translation was running.
+            # Never force-push: sync with current main and retry safely.
+            git fetch --no-tags origin main
+            git reset --hard FETCH_HEAD
+            mkdir -p snapshot-cache
+            for file in liveNews.json liveNews.js liveEvents.json liveEvents.js indicators.json indicators.js; do
+              cp "/tmp/atlas-refresh-snapshots/$file" "snapshot-cache/$file"
+            done
+            git add snapshot-cache
+            if git diff --cached --quiet; then
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+              echo "Latest snapshots already stored."
+              exit 0
+            fi
             git commit -m 'data: refresh news and venue snapshots [skip pages]'
-            git push
-          fi
+            if git push origin HEAD:main; then
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              echo "Snapshots preserved successfully."
+              exit 0
+            fi
+            echo "::warning::Remote branch changed while saving snapshots. Retrying ($attempt/4)."
+            sleep $((attempt * 2))
+          done
+          # The refreshed site can still be deployed; a temporary push conflict
+          # must never prevent readers from accessing the website.
+          echo "::warning::Snapshot persistence unsuccessful after 4 attempts; deploying current data without committing it."
+          echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Download seven audited CC BY 4.0 photos from related 2026 forums
         run: python site/scripts/build_story_photos.py
