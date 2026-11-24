@@ -58,3 +58,18 @@ Notes and portfolio entries remain in the browser's local storage. They do not s
 Source: `deploy/studio.js` and `deploy/studio.css`; installer `deploy/integrate_studio.py`; smoke test `deploy/test_studio.cjs`. The GitHub Pages workflow overlays the Studio files on top of the versioned website ZIP before deploying, so the user does not need to upload another ZIP.
 
 The project is independent and AI-assisted; do not describe unsubmitted research prompts as completed author publications.
+
+
+## Search visibility / indexing (owner action)
+
+The GitHub Actions build now publishes:
+- `https://nikkn997.github.io/Diplomatic.Atlas/sitemap.xml`
+- `https://nikkn997.github.io/Diplomatic.Atlas/research-studio.html` — a crawlable, independent Research Studio page
+- canonical URL, Open Graph and structured WebSite metadata on the home page
+- versioned app/CSS assets to reduce stale Service Worker navigation
+
+**Owner setup still required:** Create a **URL-prefix** property for `https://nikkn997.github.io/Diplomatic.Atlas/` in Google Search Console (https://search.google.com/search-console/welcome) and verify ownership using an HTML meta tag or verification file. Put the exact token/file into the site build, then submit `sitemap.xml` and request indexing. Repeat the corresponding verification and sitemap submission in Yandex Webmaster (https://webmaster.yandex.ru/). The code alone cannot register your account or guarantee ranking.
+
+**Technical note:** The `#studio` SPA fragment cannot be reliably indexed as its own search URL. `research-studio.html` is the dedicated crawlable page. `/Diplomatic.Atlas/robots.txt` is a portable companion file but is **not** the origin-root `https://nikkn997.github.io/robots.txt`; project-level robots directives do not control crawling of the whole GitHub Pages host.
+
+If the website still shows eight modules or "v1.11", reload `https://nikkn997.github.io/Diplomatic.Atlas/?v=112#studio` using a fresh tab or private window to bypass old cached JS. Do not delete user-local Research Studio drafts or Portfolio Log entries without exporting them first.
