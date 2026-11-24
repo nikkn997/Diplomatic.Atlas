@@ -3,6 +3,7 @@
 import datetime as dt
 import hashlib
 import json
+import os
 import pathlib
 import shutil
 import subprocess
@@ -36,8 +37,15 @@ assert '</body>' in html
 if '<h1' not in html.lower():
     html=html.replace('<body>','<body><main id="atlas-initial" style="padding:2rem"><h1>Diplomatic Atlas</h1><p>International relations research and education.</p><a href="./research-studio.html">Research Studio</a></main>',1)
 html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261124-live2"></script>\n</body>',1)
-# Keep the already indexed GitHub URL canonical during the parallel-host test.
-# No ownership tokens for the old host are included in this deployment.
+# Only the selected production project is eligible for indexing.
+primary = os.environ.get('ATLAS_PRIMARY_HOST') == '1'
+canonical = 'https://diplomatic-atlas.pages.dev/'
+old = 'https://nikkn997.github.io/Diplomatic.Atlas/'
+if primary:
+    html = html.replace(old, canonical)
+    for name in ('research-studio.html','sitemap.xml'):
+        path = SITE/name
+        path.write_text(path.read_text(encoding='utf-8').replace(old,canonical),encoding='utf-8')
 page.write_text(html,encoding='utf-8')
 # Live metadata must be network-first, including when an earlier service worker is installed.
 sw=SITE/'service-worker.js'
@@ -82,8 +90,21 @@ subprocess.run(['node','--check',str(worker)],check=True)
 shutil.copy2(worker,PUBLIC/'_worker.js')
 routes=['/refresh-status.json','/data/liveNews.json','/data/liveNews.js','/data/liveEvents.json','/data/liveEvents.js','/data/indicators.json','/data/indicators.js']
 (PUBLIC/'_routes.json').write_text(json.dumps({'version':1,'include':routes,'exclude':[]}),encoding='utf-8')
-# The new host remains a test mirror until the owner chooses the canonical URL.
-(PUBLIC/'robots.txt').write_text('User-agent: *\nAllow: /\n',encoding='utf-8')
-(PUBLIC/'_headers').write_text('/*\n  X-Robots-Tag: noindex\n/refresh-status.json\n  Cache-Control: no-cache\n/data/*\n  Cache-Control: no-cache\n/service-worker.js\n  Cache-Control: no-cache\n',encoding='utf-8')
+# Keep alternative hosts non-indexable. Publish only the chosen site's sitemap.
+if primary:
+    shutil.copy2(SITE/'sitemap.xml',PUBLIC/'sitemap.xml')
+    (PUBLIC/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+canonical+'sitemap.xml\n',encoding='utf-8')
+    verification=ROOT/'deploy'/'verification-cloudflare'
+    if verification.is_dir():
+        for path in verification.glob('*.html'):
+            if path.name.startswith(('google','yandex_','BingSiteAuth')):
+                shutil.copy2(path,PUBLIC/path.name)
+    assert 'rel="canonical" href="'+canonical+'"' in (PUBLIC/'index.html').read_text(encoding='utf-8')
+    assert all(loc.text.startswith(canonical) for loc in ET.parse(PUBLIC/'sitemap.xml').iter('{http://www.sitemaps.org/schemas/sitemap/0.9}loc'))
+else:
+    (PUBLIC/'robots.txt').write_text('User-agent: *\nAllow: /\n',encoding='utf-8')
+headers='' if primary else '/*\n  X-Robots-Tag: noindex\n'
+headers+='/refresh-status.json\n  Cache-Control: no-cache\n  X-Robots-Tag: noindex\n/data/*\n  Cache-Control: no-cache\n  X-Robots-Tag: noindex\n/service-worker.js\n  Cache-Control: no-cache\n'
+(PUBLIC/'_headers').write_text(headers,encoding='utf-8')
 assert (PUBLIC/'src/globe.js').is_file()
 print('Cloudflare preview build ready in public/. Live endpoints use Cloudflare KV; original GitHub deployment unaffected.')
