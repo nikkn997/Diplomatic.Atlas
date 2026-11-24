@@ -1,10 +1,10 @@
-# Diplomatic Atlas — v1.10
+# Diplomatic Atlas — v1.11
 
 Independent student research platform for international relations: interactive world atlas, 2D/3D source-linked diplomatic events, UN General Assembly voting explorer, country comparison and a negotiation simulator.
 
 ## Publish the website (one ZIP)
 
-1. Download **site-package.zip** from the latest ChatGPT release v1.10.
+1. Download **site-package.zip** from the latest ChatGPT release v1.11.
 2. Open this repository → **Add file → Upload files**, upload exactly **site-package.zip** to the root of `main`, and commit. Do not unpack the ZIP or upload an earlier release.
 3. Open **Settings → Pages → Build and deployment → Source**, select **GitHub Actions**.
 4. Open **Actions → Publish Diplomatic Atlas**. If the upload has not triggered it, choose **Run workflow**.
@@ -38,3 +38,7 @@ GitHub Pages is static hosting, not a continuously streaming real-time backend. 
 ## Methodology
 
 All geopolitical references are educational, not government positions or claims about alignment. Diplomatic Atlas is independent and **not affiliated with the UN**.
+
+## v1.11: distinct open-license photographs
+
+The previous repeated-headquarters fallback is disabled. The site first uses the publisher-supplied image when available. For seven specific 2026 IMF/World Bank Annual Meetings and COP31 stories, a unique **related-forum photograph** from Wikimedia Commons (sourced from the European Commission audiovisual service or Asian Development Bank) is assigned with photographer, exact Commons file link and CC BY 4.0 credit. It is **not represented as the photograph of that particular press briefing**. Any remaining story without a valid photo is shown as an editorial text card. The GitHub build checks Commons image metadata/license and attempts to cache the distinct JPEGs in site/assets/newsroom/stories before deployment; network access must succeed. Details: PHOTO_CREDITS.md within the site package.
