@@ -168,6 +168,7 @@ jobs:
           mkdir -p public
           cp site/index.html site/manifest.webmanifest site/service-worker.js public/
           cp -R site/assets site/data site/src public/
+          if [ -f site/PHOTO_CREDITS.md ]; then cp site/PHOTO_CREDITS.md public/; fi
           touch public/.nojekyll
 
       - name: Configure Pages
