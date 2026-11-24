@@ -1,0 +1,103 @@
+name: Publish Diplomatic Atlas
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - site-package.zip
+      - .github/workflows/publish.yml
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: diplomatic-atlas-pages
+  cancel-in-progress: false
+
+jobs:
+  verify-refresh-deploy:
+    if: github.event_name != 'push' || github.event.head_commit.message != '[skip pages]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Confirm website ZIP exists
+        run: test -s site-package.zip
+
+      - name: Extract only safe paths
+        run: |
+          python3 - <<'PY'
+          import pathlib, zipfile
+          archive = pathlib.Path('site-package.zip')
+          target = pathlib.Path('site')
+          target.mkdir(exist_ok=True)
+          with zipfile.ZipFile(archive) as z:
+              for info in z.infolist():
+                  p = pathlib.PurePosixPath(info.filename)
+                  if p.is_absolute() or '..' in p.parts or '\\' in info.filename:
+                      raise SystemExit('Unsafe ZIP member: ' + info.filename)
+                  if info.is_dir():
+                      continue
+                  dest = target.joinpath(*p.parts)
+                  dest.parent.mkdir(parents=True, exist_ok=True)
+                  with z.open(info) as src, dest.open('wb') as out:
+                      import shutil
+                      shutil.copyfileobj(src,out)
+          for required in ('index.html','package.json','src/app.js','scripts/update_news.py'):
+              assert (target/required).is_file(), f'Missing {required}'
+          PY
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Check application and data
+        working-directory: site
+        run: |
+          npm run check
+          npm test
+          python -m unittest discover -s tests -p 'test_news_fetch.py' -v
+          python -m unittest discover -s tests -p 'test_indicators_fetch.py' -v
+          python -m unittest discover -s tests -p 'test_events_fetch.py' -v
+
+      - name: Refresh available official feeds
+        working-directory: site
+        run: |
+          python scripts/update_news.py || echo "News refresh unavailable; retaining existing snapshot."
+          python scripts/update_events.py || echo "Event refresh unavailable; retaining existing snapshot."
+          python scripts/update_indicators.py || echo "Indicators unavailable; retaining existing snapshot."
+
+      - name: Prepare static Pages site
+        run: |
+          mkdir -p public
+          cp site/index.html site/manifest.webmanifest site/service-worker.js public/
+          cp -R site/assets site/data site/src public/
+          touch public/.nojekyll
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
