@@ -42,3 +42,19 @@ All geopolitical references are educational, not government positions or claims 
 ## v1.11: distinct open-license photographs
 
 The previous repeated-headquarters fallback is disabled. The site first uses the publisher-supplied image when available. For seven specific 2026 IMF/World Bank Annual Meetings and COP31 stories, a unique **related-forum photograph** from Wikimedia Commons (sourced from the European Commission audiovisual service or Asian Development Bank) is assigned with photographer, exact Commons file link and CC BY 4.0 credit. It is **not represented as the photograph of that particular press briefing**. Any remaining story without a valid photo is shown as an editorial text card. The GitHub build checks Commons image metadata/license and attempts to cache the distinct JPEGs in site/assets/newsroom/stories before deployment; network access must succeed. Details: PHOTO_CREDITS.md within the site package.
+
+## Research Studio — ninth section
+
+Open **https://nikkn997.github.io/Diplomatic.Atlas/#studio**.
+
+Research Studio is a source-first independent research workspace with three interconnected parts:
+
+- **Research Workshop:** five independent research questions; guided research methods; primary-source links where available; private notes; Markdown export. The prompts are **not** represented as published research.
+- **Diplomatic Connections Explorer:** choose a country and explore the curated, source-linked event timeline and a visual network of explicitly recorded participation or host location. An edge is not an alliance, agreement, voting position, or claim of diplomatic alignment.
+- **Portfolio Log:** record genuine milestones, publications and feedback with optional evidence URLs; export a Markdown evidence ledger. Entries are user-entered, **not independently verified**.
+
+Notes and portfolio entries remain in the browser's local storage. They do not synchronize across devices or publish publicly. Use **Export Markdown** to back up valuable work. The interface uses the six official UN languages; source texts and some research questions retain their original English wording when not translated.
+
+Source: `deploy/studio.js` and `deploy/studio.css`; installer `deploy/integrate_studio.py`; smoke test `deploy/test_studio.cjs`. The GitHub Pages workflow overlays the Studio files on top of the versioned website ZIP before deploying, so the user does not need to upload another ZIP.
+
+The project is independent and AI-assisted; do not describe unsubmitted research prompts as completed author publications.
