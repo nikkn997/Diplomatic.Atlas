@@ -18,6 +18,7 @@ function translate(value,lang){
 }
 window.AtlasLiveUI={translate};
 if(typeof document==='undefined')return;
+const newsIntro={"en":"International headlines with links to their original publishers. Sources are checked automatically; updates depend on availability. This is a news briefing, not a live broadcast.","ru":"Главные события международной повестки со ссылками на первоисточники. Ленты проверяются автоматически, а новые материалы появляются по мере их доступности. Это новостная сводка, а не прямой эфир.","fr":"L’actualité internationale avec des liens vers les sources originales. Les flux sont vérifiés automatiquement et les articles paraissent selon leur disponibilité. Il ne s’agit pas d’un direct.","es":"Actualidad internacional con enlaces a las fuentes originales. Las fuentes se comprueban automáticamente y las novedades se publican según su disponibilidad. No es una retransmisión en directo.","ar":"أبرز الأخبار الدولية مع روابط المصادر الأصلية. تُراجع المصادر تلقائيًا وتُعرض الأخبار حسب توافرها. هذه نشرة إخبارية وليست بثًا مباشرًا.","zh":"国际要闻均附原始来源链接。系统自动检查新闻源，并根据来源的可用性更新内容。这是新闻简报，而非直播。"};
 const knownNodes=new WeakMap();
 let timer=0, baseline='',latest=null,available=false,lastInteraction=Date.now(),busy=false;
 function language(){
@@ -35,7 +36,9 @@ function localize(root,l){
   const original=previous&&n.nodeValue===previous.rendered?previous.original:n.nodeValue;
   const trimmed=original.trim();
   if(!trimmed)continue;
-  const next=translate(trimmed,l);
+  const isNews=location.hash.replace(/^#/,'').split(/[/?]/)[0]==='news';
+  const technicalIntro=isNews&&trimmed.length>60&&/GitHub/i.test(trimmed)&&(/5|five|cinq|cinco|خمسة|五/.test(trimmed)||/RSS|headline|заголов|actualit|noticias|新闻|الأخبار/i.test(trimmed));
+  const next=technicalIntro?newsIntro[l]:translate(trimmed,l);
   const rendered=original.replace(trimmed,()=>next);
   if(rendered!==n.nodeValue)n.nodeValue=rendered;
   if(rendered!==original||previous)knownNodes.set(n,{original,rendered});
@@ -70,7 +73,7 @@ function schedule(){if(!timer)timer=setTimeout(()=>{timer=0;render();},50);}
 function safeIdleRefresh(){
  // Never reload research notes, portfolio, negotiation exercises, or an unknown route.
  const route=location.hash.replace(/^#/,'').split(/[/?]/)[0];
- if(!['news','briefing','signals','overview','observatory','atlas','compare','votes'].includes(route))return;
+ if(!['home','news','briefing','signals','overview','observatory','atlas','compare','votes'].includes(route))return;
  if(!available||document.visibilityState!=='visible'||Date.now()-lastInteraction<120000)return;
  if(document.activeElement?.matches('input,textarea,select,[contenteditable]'))return;
  if(window.getSelection()?.toString())return;
@@ -89,7 +92,7 @@ async function poll(){
  finally{busy=false;schedule();safeIdleRefresh();}
 }
 function start(){
- const root=document.querySelector('#screen');if(root)new MutationObserver(schedule).observe(root,{subtree:true,childList:true,characterData:true});
+ if(document.body)new MutationObserver(schedule).observe(document.body,{subtree:true,childList:true,characterData:true});
  for(const event of ['pointerdown','keydown','wheel','touchstart','change'])document.addEventListener(event,()=>{lastInteraction=Date.now();if(event==='change')schedule();},{passive:true});
  window.addEventListener('hashchange',()=>{lastInteraction=Date.now();schedule();});
  document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')poll();});
