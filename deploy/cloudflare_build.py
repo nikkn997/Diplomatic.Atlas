@@ -35,10 +35,15 @@ assert '</body>' in html
 # Supply a visible initial heading until the SPA replaces the body.
 if '<h1' not in html.lower():
     html=html.replace('<body>','<body><main id="atlas-initial" style="padding:2rem"><h1>Diplomatic Atlas</h1><p>International relations research and education.</p><a href="./research-studio.html">Research Studio</a></main>',1)
-html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261124-live1"></script>\n</body>',1)
+html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261124-live2"></script>\n</body>',1)
 # Keep the already indexed GitHub URL canonical during the parallel-host test.
 # No ownership tokens for the old host are included in this deployment.
 page.write_text(html,encoding='utf-8')
+# Live metadata must be network-first, including when an earlier service worker is installed.
+sw=SITE/'service-worker.js'
+swtext=sw.read_text(encoding='utf-8').replace('20261124-globe1','20261124-cloudlive2')
+swtext=swtext.replace('if(dynamic||freshAssets||event.request.mode',"if(dynamic||freshAssets||url.pathname.endsWith('/refresh-status.json')||url.pathname.endsWith('/live_intelligence.js')||event.request.mode")
+sw.write_text(swtext,encoding='utf-8')
 release=SITE/'data/release.js'
 release.write_text(release.read_text(encoding='utf-8').replace('v1.12','v1.13'),encoding='utf-8')
 for name in ('globe.js','studio.js','app.js','live_intelligence.js'):
@@ -71,8 +76,14 @@ for name in ('assets','data','src'):
     shutil.copytree(SITE/name,PUBLIC/name,dirs_exist_ok=True)
 if (SITE/'PHOTO_CREDITS.md').is_file():
     shutil.copy2(SITE/'PHOTO_CREDITS.md',PUBLIC/'PHOTO_CREDITS.md')
+# Advanced-mode Pages worker handles only live data, preserving all other static assets.
+worker=ROOT/'deploy/cloudflare_pages_worker.mjs'
+subprocess.run(['node','--check',str(worker)],check=True)
+shutil.copy2(worker,PUBLIC/'_worker.js')
+routes=['/refresh-status.json','/data/liveNews.json','/data/liveNews.js','/data/liveEvents.json','/data/liveEvents.js','/data/indicators.json','/data/indicators.js']
+(PUBLIC/'_routes.json').write_text(json.dumps({'version':1,'include':routes,'exclude':[]}),encoding='utf-8')
 # The new host remains a test mirror until the owner chooses the canonical URL.
 (PUBLIC/'robots.txt').write_text('User-agent: *\nAllow: /\n',encoding='utf-8')
 (PUBLIC/'_headers').write_text('/*\n  X-Robots-Tag: noindex\n/refresh-status.json\n  Cache-Control: no-cache\n/data/*\n  Cache-Control: no-cache\n/service-worker.js\n  Cache-Control: no-cache\n',encoding='utf-8')
 assert (PUBLIC/'src/globe.js').is_file()
-print('Cloudflare preview build ready in public/. Original GitHub deployment unaffected.')
+print('Cloudflare preview build ready in public/. Live endpoints use Cloudflare KV; original GitHub deployment unaffected.')
