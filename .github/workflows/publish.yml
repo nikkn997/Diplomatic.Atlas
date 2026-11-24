@@ -373,6 +373,9 @@ jobs:
           (root/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+new+'sitemap.xml\n',encoding='utf-8')
           PY
           cp -R site/assets site/data site/src public/
+          python deploy/legacy_live_bridge.py public
+          node --check public/src/live.js
+          node --check public/src/signals.js
           if [ -f site/PHOTO_CREDITS.md ]; then cp site/PHOTO_CREDITS.md public/; fi
           touch public/.nojekyll
 

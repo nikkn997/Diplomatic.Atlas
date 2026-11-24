@@ -82,7 +82,8 @@ function safeIdleRefresh(){
 async function poll(){
  if(busy)return;busy=true;
  try{
-  const response=await fetch('./refresh-status.json?check='+Date.now(),{cache:'no-store',credentials:'same-origin'});
+  const statusUrl=location.hostname==='nikkn997.github.io'?'https://diplomatic-atlas.pages.dev/refresh-status.json':'./refresh-status.json';
+  const response=await fetch(statusUrl+'?check='+Date.now(),{cache:'no-store',credentials:'omit'});
   if(!response.ok)throw new Error('HTTP '+response.status);
   const data=await response.json();
   if(typeof data.fingerprint!=='string'||!data.sources)throw new Error('Invalid refresh status');

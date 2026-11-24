@@ -5,14 +5,19 @@ const dataPaths=new Map([
  ['/data/liveEvents.json',['liveEvents',null]],['/data/liveEvents.js',['liveEvents','ATLAS_LIVE_EVENTS']],
  ['/data/indicators.json',['indicators',null]],['/data/indicators.js',['indicators','ATLAS_INDICATORS']]
 ]);
-function response(body,type,head){return new Response(head?null:body,{headers:{'content-type':type,'cache-control':'no-store','x-robots-tag':'noindex','x-content-type-options':'nosniff'}});}
+function response(body,type,head){return new Response(head?null:body,{headers:{'content-type':type,'cache-control':'no-store','x-robots-tag':'noindex','x-content-type-options':'nosniff','access-control-allow-origin':'*'}});}
 export default {
  async fetch(request,env){
   const url=new URL(request.url),head=request.method==='HEAD';
-  if((request.method!=='GET'&&!head)||(!dataPaths.has(url.pathname)&&url.pathname!=='/refresh-status.json'))return env.ASSETS.fetch(request);
+  if((request.method!=='GET'&&!head)||(!dataPaths.has(url.pathname)&&url.pathname!=='/refresh-status.json'&&url.pathname!=='/data/shared-live.js'))return env.ASSETS.fetch(request);
   try{
    const state=await env.ATLAS_LIVE.get('snapshot','json');
    if(!state)throw new Error('KV snapshot unavailable');
+   if(url.pathname==='/data/shared-live.js'){
+    const globals={liveNews:'ATLAS_LIVE_NEWS',liveEvents:'ATLAS_LIVE_EVENTS',indicators:'ATLAS_INDICATORS'};
+    const script=Object.entries(globals).filter(([key])=>state[key]).map(([key,name])=>'window.'+name+' = '+JSON.stringify(state[key]).replace(/</g,'\\u003c')+';\n').join('');
+    return response(script,'application/javascript; charset=utf-8',head);
+   }
    if(url.pathname==='/refresh-status.json'){
     const staticUrl=new URL('/refresh-status.json',request.url);
     const baseResponse=await env.ASSETS.fetch(new Request(staticUrl));

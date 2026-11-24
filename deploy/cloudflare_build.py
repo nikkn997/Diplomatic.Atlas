@@ -88,7 +88,7 @@ if (SITE/'PHOTO_CREDITS.md').is_file():
 worker=ROOT/'deploy/cloudflare_pages_worker.mjs'
 subprocess.run(['node','--check',str(worker)],check=True)
 shutil.copy2(worker,PUBLIC/'_worker.js')
-routes=['/refresh-status.json','/data/liveNews.json','/data/liveNews.js','/data/liveEvents.json','/data/liveEvents.js','/data/indicators.json','/data/indicators.js']
+routes=['/data/shared-live.js','/refresh-status.json','/data/liveNews.json','/data/liveNews.js','/data/liveEvents.json','/data/liveEvents.js','/data/indicators.json','/data/indicators.js']
 (PUBLIC/'_routes.json').write_text(json.dumps({'version':1,'include':routes,'exclude':[]}),encoding='utf-8')
 # Keep alternative hosts non-indexable. Publish only the chosen site's sitemap.
 if primary:
