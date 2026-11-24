@@ -67,6 +67,15 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install and validate Research Studio
+        run: |
+          cp deploy/studio.js site/src/studio.js
+          cp deploy/studio.css site/src/studio.css
+          python deploy/integrate_studio.py site
+          node --check site/src/studio.js
+          node --check site/src/app.js
+          node deploy/test_studio.cjs
+
       - name: Test original bundled application before replacing seed data
         working-directory: site
         run: |
