@@ -31,7 +31,7 @@ function language(){
 function localize(root,l){
  const walk=document.createTreeWalker(root,NodeFilter.SHOW_TEXT);
  for(let n=walk.nextNode();n;n=walk.nextNode()){
-  const parent=n.parentElement;if(!parent||parent.closest('textarea,input,script,style,code,pre,[contenteditable],#atlas-freshness'))continue;
+  const parent=n.parentElement;if(!parent||parent.closest('textarea,input,script,style,code,pre,[contenteditable],#atlas-freshness,.newsroom-editorial'))continue;
   const previous=knownNodes.get(n);
   const original=previous&&n.nodeValue===previous.rendered?previous.original:n.nodeValue;
   const trimmed=original.trim();
@@ -44,6 +44,29 @@ function localize(root,l){
   if(rendered!==original||previous)knownNodes.set(n,{original,rendered});
  }
 }
+
+const newsroomCopy={"en":["World Briefing","International news","The international agenda, with direct links to original reports.","Articles","Last source check","Source status","All available","Some unavailable","Unavailable","Awaiting check"],"ru":["Мировая повестка","Международные новости","Главные события мира со ссылками на оригинальные публикации.","Материалы","Последняя проверка","Статус источников","Доступны","Доступны частично","Недоступны","Ожидаем проверку"],"fr":["Actualité mondiale","Actualités internationales","L’actualité mondiale avec des liens vers les publications originales.","Articles","Dernière vérification","État des sources","Disponibles","Partiellement disponibles","Indisponibles","En attente"],"es":["Panorama mundial","Noticias internacionales","La actualidad mundial con enlaces a las publicaciones originales.","Artículos","Última comprobación","Estado de las fuentes","Disponibles","Disponibilidad parcial","No disponibles","Pendiente"],"ar":["الموجز العالمي","أخبار دولية","أبرز الأحداث العالمية مع روابط إلى المنشورات الأصلية.","المقالات","آخر فحص","حالة المصادر","متاحة","متاحة جزئياً","غير متاحة","بانتظار الفحص"],"zh":["全球简报","国际新闻","全球要闻，附原始报道链接。","文章","最近检查","来源状态","全部可用","部分可用","不可用","等待检查"]};
+const newsroomCSS=".newsroom-main{grid-template-columns:minmax(0,1fr)!important;min-height:0!important}.newsroom-main .newsroom-editorial.atlas-compact-news{display:grid!important;grid-template-columns:minmax(0,1fr) minmax(220px,.9fr);gap:12px 30px;align-content:center;min-height:0!important;padding:24px 30px!important;background:#152d34!important}.atlas-compact-news::before{display:none!important}.atlas-compact-news>.eyebrow{grid-column:1;grid-row:1;margin:0!important}.atlas-compact-news>h2{grid-column:1;grid-row:2;margin:0!important;font-size:clamp(30px,3vw,44px)!important;line-height:1.1!important;max-width:none!important}.atlas-compact-news>p:not(.eyebrow){grid-column:1;grid-row:3;margin:0!important;max-width:520px!important;font-size:13px!important}.atlas-compact-news .newsroom-wordmark{display:none!important}.atlas-news-metrics{grid-column:2;grid-row:1 / 4;display:grid;align-content:center;gap:10px;position:relative;min-width:0}.atlas-news-metrics>div{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.1fr);gap:12px;align-items:center;padding:9px 0;border-bottom:1px solid #ffffff20}.atlas-news-metrics span{font:600 11px/1.4 system-ui;color:#b3cac4}.atlas-news-metrics strong{font:600 13px/1.4 system-ui;color:#f3e4c8;overflow-wrap:anywhere;text-align:end}.newsroom-main .newsroom-feed-top{padding:18px!important}@media(max-width:700px){.newsroom-main .newsroom-editorial.atlas-compact-news{grid-template-columns:1fr;padding:22px!important;gap:10px}.atlas-news-metrics{grid-column:1;grid-row:4;margin-top:10px}.newsroom-main .newsroom-feed-top{padding:12px!important}}";
+function setText(el,value){if(el&&el.textContent!==value)el.textContent=value;}
+function enhanceNewsroom(root,l){
+ const panel=root.querySelector('.newsroom-editorial');if(!panel)return;
+ if(!document.getElementById('atlas-newsroom-style')){const style=document.createElement('style');style.id='atlas-newsroom-style';style.textContent=newsroomCSS;document.head.append(style);}
+ const copy=newsroomCopy[l]||newsroomCopy.en;
+ panel.classList.add('atlas-compact-news');
+ setText(panel.querySelector('.eyebrow'),copy[0]);
+ setText(panel.querySelector('h2'),copy[1]);
+ setText(panel.querySelector('p:not(.eyebrow)'),copy[2]);
+ let metrics=panel.querySelector('.atlas-news-metrics');
+ if(!metrics){metrics=document.createElement('div');metrics.className='atlas-news-metrics';for(let i=0;i<3;i++){const row=document.createElement('div');row.append(document.createElement('span'),document.createElement('strong'));metrics.append(row);}panel.append(metrics);}
+ const snapshot=latest?.sources?.liveNews||window.ATLAS_LIVE_NEWS||{};
+ const count=Number.isFinite(snapshot.count)?snapshot.count:Array.isArray(snapshot.items)?snapshot.items.length:null;
+ const date=new Date(latest?.checked_at||'');
+ const checked=Number.isNaN(date.getTime())?copy[9]:date.toLocaleString(l,{dateStyle:'short',timeStyle:'short'});
+ const status=snapshot.status==='success'?copy[6]:snapshot.status==='partial'?copy[7]:snapshot.status==='error'?copy[8]:copy[9];
+ const values=[count===null?'—':new Intl.NumberFormat(l).format(count),checked,status];
+ Array.from(metrics.children).forEach((row,i)=>{setText(row.children[0],copy[i+3]);setText(row.children[1],values[i]);});
+}
+
 function statusText(data,l){
  if(!data||!data.sources)return labels[l][8];
  return ['liveNews','liveEvents','indicators'].map((key,i)=>{
@@ -56,7 +79,7 @@ function statusText(data,l){
 }
 function render(){
  const root=document.querySelector('#screen');if(!root)return;
- const l=language();localize(root,l);
+ const l=language();localize(root,l);enhanceNewsroom(root,l);
  let bar=document.querySelector('#atlas-freshness');
  if(!bar||!root.contains(bar)){
   bar=document.createElement('aside');bar.id='atlas-freshness';bar.style.cssText='display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;padding:12px 20px;border-top:1px solid #d5d5c8;font:12px/1.6 system-ui,sans-serif;color:#526b66;background:#f1f1e8';

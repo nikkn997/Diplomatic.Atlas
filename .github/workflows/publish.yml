@@ -28,7 +28,7 @@ jobs:
     timeout-minutes: 25
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.first_deployment.outputs.page_url || steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -408,5 +408,15 @@ jobs:
           exit 1
       - name: Deploy
         if: steps.publication.outputs.needed == 'true'
+        id: first_deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Retry Pages publication if artifact lookup failed
+        if: steps.publication.outputs.needed == 'true' && steps.first_deployment.outcome == 'failure'
+        run: sleep 15
+
+      - name: Deploy retry
+        if: steps.publication.outputs.needed == 'true' && steps.first_deployment.outcome == 'failure'
         id: deployment
         uses: actions/deploy-pages@v4

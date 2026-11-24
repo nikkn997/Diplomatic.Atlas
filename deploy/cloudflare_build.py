@@ -36,7 +36,7 @@ assert '</body>' in html
 # Supply a visible initial heading until the SPA replaces the body.
 if '<h1' not in html.lower():
     html=html.replace('<body>','<body><main id="atlas-initial" style="padding:2rem"><h1>Diplomatic Atlas</h1><p>International relations research and education.</p><a href="./research-studio.html">Research Studio</a></main>',1)
-html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261124-live2"></script>\n</body>',1)
+html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261124-newsroom3"></script>\n</body>',1)
 # Only the selected production project is eligible for indexing.
 primary = os.environ.get('ATLAS_PRIMARY_HOST') == '1'
 canonical = 'https://diplomatic-atlas.pages.dev/'
@@ -49,7 +49,7 @@ if primary:
 page.write_text(html,encoding='utf-8')
 # Live metadata must be network-first, including when an earlier service worker is installed.
 sw=SITE/'service-worker.js'
-swtext=sw.read_text(encoding='utf-8').replace('20261124-globe1','20261124-cloudlive2')
+swtext=sw.read_text(encoding='utf-8').replace('20261124-globe1','20261124-newsroom3')
 swtext=swtext.replace('if(dynamic||freshAssets||event.request.mode',"if(dynamic||freshAssets||url.pathname.endsWith('/refresh-status.json')||url.pathname.endsWith('/live_intelligence.js')||event.request.mode")
 sw.write_text(swtext,encoding='utf-8')
 release=SITE/'data/release.js'

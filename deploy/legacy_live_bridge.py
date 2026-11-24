@@ -12,7 +12,7 @@ anchor='<script src="data/indicators.js"></script>'
 assert html.count(anchor)==1, 'Missing initial data script'
 # A failed network script leaves the previously loaded local snapshots intact.
 html=html.replace(anchor,anchor+'\n  <script src="'+host+'data/shared-live.js"></script>',1)
-html=html.replace('20261124-live1','20261124-shared1')
+html=html.replace('20261124-live1','20261124-newsroom3')
 index.write_text(html,encoding='utf-8')
 for name in ('live.js','signals.js'):
     path=root/'src'/name
