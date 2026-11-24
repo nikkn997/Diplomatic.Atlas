@@ -15,9 +15,7 @@ from xml.sax.saxutils import escape
 SITE = "https://nikkn997.github.io/Diplomatic.Atlas/"
 REV = "20261124-i18n3"
 TITLE = "Diplomatic Atlas | International Relations Research Platform"
-DESC = ("Diplomatic Atlas is an independent international relations research "
-        "and education project with a world atlas, sourced diplomatic events, "
-        "UN voting records, interactive simulations and a Research Studio.")
+DESC = ("Diplomatic Atlas: independent international relations research with a world atlas, UN voting records, diplomatic events and a Research Studio.")
 
 
 def replace_meta(page, attr, value, new_content):
@@ -74,6 +72,21 @@ def main(root):
             '<a href="./research-studio.html">Read about Research Studio</a>. '
             'Enable JavaScript for interactive features.</noscript>'
         )
+    # Provide actual, visible initial content in the app mount point, also
+    # useful to visitors without JS. The normal renderer replaces this
+    # content inside #screen; no persistent duplicate H1 or hidden SEO text.
+    if not re.search(r"<h1\b", page, re.I):
+        mount = re.search(r"<(?:main|div|section|article)\b[^>]*\sid\s*=\s*[\"']screen[\"'][^>]*>", page, re.I)
+        if mount:
+            fallback = ('<section class="atlas-initial-content" style="padding:2rem">'
+                        '<h1>Diplomatic Atlas</h1>'
+                        '<p>Independent international relations research and education. Explore a world atlas, '
+                        'documented diplomatic events, United Nations voting records and research tools.</p>'
+                        '<p><a href="./research-studio.html">Explore Research Studio</a></p></section>')
+            page = page[:mount.end()] + fallback + page[mount.end():]
+        else:
+            print("Warning: no recognized #screen mount point; static H1 requires review.")
+    assert 120 <= len(DESC) <= 160
     page_path.write_text(page, encoding="utf-8")
 
     release = root / "data/release.js"
