@@ -8,7 +8,7 @@ on:
       - 'deploy/**'
       - .github/workflows/publish.yml
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '2-57/5 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -202,6 +202,47 @@ jobs:
           print(f'Validated {len(news["items"])} new/retained news records and current WDI metrics.')
           PY
 
+      - name: Compare refreshed data with the last published version
+        id: publication
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          python - <<'PY'
+          import datetime as dt, hashlib, json, os, pathlib, urllib.request
+          root=pathlib.Path('site')
+          files=['index.html','service-worker.js','src/app.js','src/studio.js','src/studio.css',
+                 'data/liveNews.json','data/liveNews.js','data/liveEvents.json','data/liveEvents.js',
+                 'data/indicators.json','data/indicators.js']
+          h=hashlib.sha256()
+          for name in files:
+              h.update(name.encode()+b'\0'+(root/name).read_bytes()+b'\0')
+          digest=h.hexdigest()
+          status={'schema':1,'fingerprint':digest,'built_at':dt.datetime.now(dt.timezone.utc).isoformat(),
+                  'trigger':os.environ['EVENT_NAME'],'sources':{}}
+          for name in ('liveNews','liveEvents','indicators'):
+              data=json.loads((root/'data'/f'{name}.json').read_text())
+              status['sources'][name]={'updated_at':data.get('updated_at'),'status':data.get('status'),
+                  'count':len(data.get('items',data.get('countries',{})))}
+          (root/'refresh-status.json').write_text(json.dumps(status,ensure_ascii=False,indent=2)+'\n')
+          needed=True
+          if os.environ['EVENT_NAME']=='schedule':
+              try:
+                  url='https://nikkn997.github.io/Diplomatic.Atlas/refresh-status.json?check='+str(int(dt.datetime.now(dt.timezone.utc).timestamp()))
+                  req=urllib.request.Request(url,headers={'Cache-Control':'no-cache','Accept':'application/json','User-Agent':'DiplomaticAtlasRefresh/1.0'})
+                  with urllib.request.urlopen(req,timeout=15) as response:
+                      deployed=json.load(response)
+                  needed=deployed.get('fingerprint')!=digest
+              except Exception as error:
+                  print('Published version could not be verified; retrying publication:',error)
+          with open(os.environ['GITHUB_OUTPUT'],'a') as output:
+              output.write('needed='+str(needed).lower()+'\n')
+          with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as summary:
+              summary.write('## Refresh status\n\n'+ '\n'.join(
+                  f"- {name}: {record['count']} records, source timestamp {record['updated_at']}, status {record['status']}"
+                  for name,record in status['sources'].items())+'\n\nPublication needed: '+str(needed)+'\n')
+          print(json.dumps(status,ensure_ascii=False))
+          PY
+
       - name: Preserve new snapshots as versioned repository data
         id: persist
         run: |
@@ -242,16 +283,17 @@ jobs:
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Download seven audited CC BY 4.0 photos from related 2026 forums
+        if: steps.publication.outputs.needed == 'true'
         run: python site/scripts/build_story_photos.py
         timeout-minutes: 5
         continue-on-error: true
 
       - name: Prepare static Pages site
-        if: steps.persist.outputs.changed == 'true' || github.event_name != 'schedule'
+        if: steps.publication.outputs.needed == 'true'
         run: |
           mkdir -p public
           cp site/index.html site/manifest.webmanifest site/service-worker.js public/
-          cp site/research-studio.html site/sitemap.xml site/robots.txt public/
+          cp site/research-studio.html site/sitemap.xml site/robots.txt site/refresh-status.json public/
           # GitHub Pages deploys only public/, not the repository root.
           # Preserve owner-provided Search Console / Yandex HTML verification files.
           if [ -d deploy/verification ]; then
@@ -262,17 +304,17 @@ jobs:
           touch public/.nojekyll
 
       - name: Configure Pages
-        if: steps.persist.outputs.changed == 'true' || github.event_name != 'schedule'
+        if: steps.publication.outputs.needed == 'true'
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
-        if: steps.persist.outputs.changed == 'true' || github.event_name != 'schedule'
+        if: steps.publication.outputs.needed == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
       - name: Wait until Pages artifact is visible in GitHub API
-        if: steps.persist.outputs.changed == 'true' || github.event_name != 'schedule'
+        if: steps.publication.outputs.needed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -289,6 +331,6 @@ jobs:
           echo "::error::Pages artifact was uploaded but could not be indexed by the GitHub API."
           exit 1
       - name: Deploy
-        if: steps.persist.outputs.changed == 'true' || github.event_name != 'schedule'
+        if: steps.publication.outputs.needed == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
