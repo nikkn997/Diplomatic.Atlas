@@ -1,0 +1,2338 @@
+{
+  "updated_at": "2026-11-24T13:06:54Z",
+  "items": [
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T12:45:43Z",
+      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Губернатора России задержали по редкому уголовному делу в отношении регионального лидера",
+          "summary": "Глава Мурманской области Андрей Чибис стал первым губернатором, которого задержали на пять лет.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le gouverneur russe arrêté dans de rares affaires pénales contre un dirigeant régional",
+          "summary": "Andrei Chibis, chef de la région de Mourmansk, est le premier gouverneur à être détenu pendant cinq ans.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "محافظ روسي محتجز في قضية جنائية نادرة ضد زعيم إقليمي",
+          "summary": "(أندريه تشيبيس)، رئيس منطقة (مورمانسك) الشمالية في (روسيا) هو أول حاكم يُحتجز لمدة خمس سنوات",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "在针对地区领导人的罕见刑事案件中被拘留的俄罗斯省长",
+          "summary": "俄罗斯北部摩尔曼斯克地区的首领安德烈·奇比斯是第一位被关押了五年的州长.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T12:12:48Z",
+      "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Израильский авиаудар убил начальника внутренней безопасности ХАМАСа в Газе",
+          "summary": "Наим Абу Нахель, который находился в этом положении всего два месяца, был мишенью в западном городе Газа, сообщает министерство внутренних дел Газы.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La frappe aérienne israélienne tue le chef de la sécurité intérieure du Hamas à Gaza",
+          "summary": "Naeem Abu Nahel, qui n'était en poste que depuis deux mois, a été pris pour cible dans l'ouest de la ville de Gaza.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El ataque aéreo israelí mata al jefe de seguridad interno de Hamás en Gaza",
+          "summary": "Naeem Abu Nahel, que sólo había estado en la posición durante dos meses, fue blanco en la ciudad occidental de Gaza, dice el ministerio interior de Gaza.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الهجوم الجوي الإسرائيلي يقتل رئيس الأمن الداخلي في حماس في غزة",
+          "summary": "نيم أبو نهل، الذي كان في الموقع لمدة شهرين فقط، كان مستهدفا في غرب مدينة غزة، وزارة داخلية غزة تقول.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "以色列空袭杀死哈马斯在加沙的内部安全主管",
+          "summary": "Naeem Abu Nahel在位仅两个月,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T11:45:52Z",
+      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d18/live/326608e0-e7e9-11f1-8b26-c1adae33e7f2.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Слезы от бомбы в колумбийском городе ранили более 20 человек",
+          "summary": "Взрыв является последним в серии нападений на здания, в которых находятся силы безопасности и правительственные учреждения.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Des larmes de voiture à travers la ville colombienne ont blessé plus de 20 personnes",
+          "summary": "L'explosion est la dernière d'une série d'attaques contre des bâtiments abritant les forces de sécurité et les bureaux du gouvernement.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Bombas de coches a través de la ciudad colombiana hiriendo más de 20",
+          "summary": "La explosión es la última en una serie de ataques contra edificios que albergan a las fuerzas de seguridad y las oficinas gubernamentales.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "دموع قنابل السيارات عبر المدينة الكولومبية",
+          "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "汽车炸弹流出哥伦比亚城市 20多人受伤",
+          "summary": "爆炸是一系列袭击安全部队和政府办公室大楼事件的最新事件。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "url": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T11:10:57Z",
+      "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Дневник Папы Франциска показал, что он трижды видел дьявола",
+          "summary": "Опубликованные выдержки из дневника покойного понтифика утверждают, что одно из видений произошло «в чердаке хора» во время мессы.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le journal du pape François révèle qu'il a vu le diable trois fois",
+          "summary": "Des extraits publiés du journal de feu Pontiff affirment qu'une des visions s'est produite \"dans le loft de chœur\" pendant la messe.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El diario del Papa Francisco revela afirmaciones que vio al diablo tres veces",
+          "summary": "Extractos publicados del diario del fallecido pontífice afirman que una de las visiones sucedió \"en el loft del coro\" durante la misa.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "مذكرات بوب فرانسيس تكشف عن ادعاءات أنه رأى الشيطان ثلاث مرات",
+          "summary": "مقتطفات منشورة من مفكرة القطب الراحل تدّعي أن أحد الرؤى حدث \"في شقة الجوقة\" خلال الكتلة",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "Pope Francis的日记显示他见过魔鬼三次",
+          "summary": "发表于后期庞蒂夫的日记中的摘录称其中一幅视觉发生在弥撒期间的\"合唱楼\".",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T10:58:51Z",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Глава НАТО пообещал защититься от космической угрозы после сообщений российских ядерных спутников",
+          "summary": "Немецкие СМИ сообщили, что в ближайшие недели Россия планирует запустить в космос спутник с ядерной боеголовкой.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le chef de l'OTAN annonce sa défense contre la menace spatiale après les rapports de satellites nucléaires russes",
+          "summary": "Selon les médias allemands, la Russie prévoyait de lancer un satellite avec une ogive nucléaire dans l'espace dans les prochaines semaines.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Nato promete defensa contra la amenaza espacial después de los informes de satélites nucleares rusos",
+          "summary": "Los medios alemanes dijeron que Rusia planeaba lanzar un satélite con una ojiva nuclear en el espacio en las próximas semanas.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ناتو رئيس نذور الدفاع ضد تهديد الفضاء بعد تقارير السواتل النووية الروسية",
+          "summary": "وسائل الإعلام الألمانية قالت أن روسيا تخطط لإطلاق قمر صناعي برؤوس حربية نووية في الفضاء في الأسابيع القادمة",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "纳托酋长发誓在俄罗斯核卫星报告后防御空间威胁",
+          "summary": "德国媒体称,俄罗斯计划在未来几周内将一颗带有核弹头的卫星发射入太空.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T10:53:37Z",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Трамп столкнулся с негативной реакцией после того, как сказал, что «убедил» Nvidia восстановить генерального директора Дженсена Хуанга",
+          "summary": "Nvidia попала под давление президента Трампа, чтобы переназначить Хуана, чье возвращение помогло добавить 1 трлн долларов к стоимости акций компании.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Trump fait face à un contrecoup après avoir dit « convaincu » Nvidia de réintégrer le PDG Jensen Huang",
+          "summary": "Nvidia avait subi des pressions de la part du président Trump pour qu'il reconstitue Huang, dont le retour a contribué à ajouter 1 $tn à la valeur en actions de l'entreprise.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Trump se enfrenta a la reacción después de decir que 'convenció' Nvidia para reincorporar al CEO Jensen Huang",
+          "summary": "Nvidia había venido bajo presión del presidente Trump para volver a nombrar a Huang, cuyo regreso ayudó a añadir $1tn al valor de stock de la compañía.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "(ترامب) يواجه صدام بعد أن قال أنه أقنع (نيفيديا) بإعادة المدير التنفيذي (جينسن هوانغ)",
+          "summary": "(نيفيديا) تعرضت لضغوط من الرئيس (ترامب) ليعيد تعيين (هوانغ) الذي ساعدت عودته على إضافة دولار إلى قيمة أسهم الشركة",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "特朗普在表示\"说服\"恩维迪亚恢复CEOJensen Huang后面临反弹.",
+          "summary": "Nvidia受到特朗普总统的压力,要求重新任命黄克诚,黄克诚的复出帮助公司增加了1tn的股价.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T10:48:27Z",
+      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "ДР Конго заявляет, что военный самолет пропал без вести, поскольку повстанцы утверждают, что сбили самолет",
+          "summary": "Сообщается, что среди сбитого самолета есть пилот южноафриканского истребителя и офицер из Уганды.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "DR Congo dit que des avions militaires portés disparus comme des rebelles prétendent avoir abattu un avion",
+          "summary": "Un pilote de chasse sud-africain et un officier ougandais seraient parmi ceux à bord de l'avion abattu.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "DR Congo dice que aviones militares desaparecidos como rebeldes afirman disparar avión",
+          "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plano.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "يقول (كونغو) أن طائرة عسكرية مفقودة كمتمردين تدّعي إسقاط الطائرة",
+          "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "DR刚果说,军机失踪 因为叛军声称击落飞机",
+          "summary": "据报道,在被击落的飞机上有一名南非战斗机飞行员和一名乌干达军官。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Watch: Moment troops raid home and capture Mexican drug lord",
+      "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T09:09:41Z",
+      "summary": "Newly-released bodycam footage shows the moment troops detained 'El Chapo Isidro', who had managed to evade capture for years.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3d08/live/65108220-e7df-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Момент, когда войска нападают на дом и захватывают мексиканского наркобарона",
+          "summary": "На недавно выпущенных кадрах с камер видеонаблюдения видно, как войска задержали Эль Чапо Исидро, которому удалось избежать захвата в течение многих лет.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Watch: Les troupes de Moment rentrent et capturent le seigneur mexicain de la drogue",
+          "summary": "Des images de caméras de corps récemment diffusées montrent le moment où les troupes ont détenu 'El Chapo Isidro', qui avait réussi à échapper à la capture depuis des années.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Ver: Tropas de Momento allanan casa y capturan al narcotraficante mexicano",
+          "summary": "Las imágenes de la cámara de reciente liberación muestran el momento en que las tropas detenidas 'El Chapo Isidro', que habían logrado evadir la captura durante años.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "شاهدْ: قوّات متحركةِ تُهاجمُ بيتاً ويَأْسرُ سيد مخدّر مكسيكي",
+          "summary": "لقطات كاميرا مجروحة حديثا تظهر اللحظة التي اعتقلت فيها القوات (إل تشابو إيزيدرو) والتي نجحت في التهرب من القبض لسنوات",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "观察: 瞬间部队突袭回家 抓捕墨西哥毒枭",
+          "summary": "新放出的尸体相机镜头显示,部队拘留了\"El Chapo Isidro\"的一瞬间,他设法逃避了多年的抓捕.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T07:26:27Z",
+      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/47a8/live/2d61caf0-e7d5-11f1-939f-471cde339c0e.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Чему возвращение Дженсена Хуана учит Си Цзиньпина о Трампе",
+          "summary": "Возвращение Хуана во главе Nvidia не является гарантией облегчения для Пекина.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Ce que le retour de Jensen Huang enseigne au Chinois Xi sur Trump",
+          "summary": "Le retour de Huang à la tête de Nvidia n'est pas une garantie de secours pour Pékin.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Lo que el regreso de Jensen Huang enseña a Xi de China sobre Trump",
+          "summary": "Huang volviendo al frente de Nvidia no es garantía de alivio para Beijing.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ما تعلمه عودة (جينسن هوانغ) عن (ترامب)",
+          "summary": "(هوانغ) يعود إلى (نافيديا) ليس ضماناً لراحة (بكين)",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "Jensen Huang的归来让中国习近平了解特朗普",
+          "summary": "黄帝重掌恩维地亚,不能保证北京得到平息.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+      "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T06:23:01Z",
+      "summary": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5191/live/b1f565b0-e7c1-11f1-b55c-09f84acff1b4.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Экс-премьер Бангладеш Шейх Хасина планирует вернуться 16 декабря",
+          "summary": "Хасина несколько раз говорила о своем желании вернуться, но это первый раз, когда она назначила дату.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'ex-PM du Bangladesh Sheikh Hasina dit qu'elle prévoit de rentrer le 16 décembre",
+          "summary": "Hasina a parlé plusieurs fois de son désir de revenir, mais c'est la première fois qu'elle fixe une date.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "La ex-PM de Bangladesh Sheikh Hasina dice que planea regresar el 16 de diciembre",
+          "summary": "Hasina ha hablado varias veces de su deseo de regresar, pero esta es la primera vez que ha fijado una cita.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "رئيس وزراء بنغلاديش السابق الشيخ (هاسينا) تقول أنها تخطط للعودة في 16 كانون الأول/ديسمبر",
+          "summary": "لقد تحدثت هاسينا عدة مرات عن رغبتها في العودة، ولكن هذه هي المرة الأولى التي تحدد فيها موعدا.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "孟加拉国前人民党主席谢赫·哈西娜表示,她计划于12月16日回国。",
+          "summary": "哈西娜多次表示她希望回归,但这是她第一次设定约会.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T05:33:07Z",
+      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/82d4/live/df8de260-e7c4-11f1-998f-6307777df073.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Лидер индийской партии тараканов заявил, что ему запретили летать в Великобританию",
+          "summary": "Саурав Дас сказал, что иммиграционные власти в аэропорту Дели сообщили ему, что его паспорт был «помечен».",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le chef du parti « cockroach » de l'Inde dit qu'il a été arrêté de voler au Royaume-Uni",
+          "summary": "Sauvav Das a dit que les autorités de l'immigration à l'aéroport de Delhi lui ont dit que son passeport avait été \"frappé\".",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El líder del partido de la India \"cockroach\" dice que fue detenido de volar a Reino Unido",
+          "summary": "Saurav Das dijo que las autoridades de inmigración del aeropuerto de Delhi le dijeron que su pasaporte había sido \"flagged\".",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "قائد حزب الهند يقول انه توقف من الطيران الى المملكة المتحدة",
+          "summary": "Saurav قال داس أن سلطات الهجرة في مطار دلهي أخبرته أن جواز سفره قد تم تنبيهه",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "印度的\"口袋\"党领袖说他被阻止去英国",
+          "summary": "绍拉夫 达斯说,德里机场的移民当局告诉他,他的护照被\"封上\"了.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T01:21:41Z",
+      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a2c/live/cd1673f0-e804-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Веселье и аплодисменты, когда Дженсен Хуанг возвращается в офис Nvidia",
+          "summary": "Лили Джамали из BBC сообщает из штаб-квартиры Nvidia, где она оценивает реакцию на возвращение Хуанга после того, как Трамп сказал, что он заключил сделку.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Santé et applaudissements comme Jensen Huang revient au bureau de Nvidia",
+          "summary": "Lily Jamali de la BBC rapporte du siège de Nvidia, où elle mesure la réaction au retour de Huang après Trump dit avoir négocié un marché.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Saludos y aplausos mientras Jensen Huang regresa a la oficina de Nvidia",
+          "summary": "Lily Jamali de BBC reporta desde la sede de Nvidia, donde valora la reacción al regreso de Huang después de que Trump diga que ha negociado un trato.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "نخب وتصفيق عودة جينسين هوانغ إلى مكتب نفيديا",
+          "summary": "(بي بي سي) أبلغت (ليلي جامالي) من مقر (نافيديا) حيث تقيّم ردّة فعل عودة (هانغ) بعد أن قالت (ترامب) أنّه عقد صفقة",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "黄詹森回到恩维迪亚办公室时干杯并鼓掌",
+          "summary": "BBC的Lily Jamali从Nvidia总部报道,她在特朗普称他促成交易后,对黄帝归来的反应进行了度量.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T00:23:25Z",
+      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0cfc/live/c3bcfc70-e6ce-11f1-a9db-c39c38a2d17c.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Король Чарльз и Элтон Джон почтили память австралийской музыкальной легенды Молли Мелдрум",
+          "summary": "Промоутер и телеведущий десятилетиями определяли музыкальные вкусы австралийцев.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le roi Charles et Elton John rendent hommage à la légende musicale australienne Molly Meldrum",
+          "summary": "Le promoteur et le radiodiffuseur ont contribué à définir les goûts musicaux des Australiens pendant des décennies.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El rey Carlos y Elton John rinden homenaje a la leyenda de música australiana Molly Meldrum",
+          "summary": "El promotor y emisor ayudó a definir los gustos musicales de los australianos durante décadas.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الملك (تشارلز) و(إلتون جون) يشيدان بالأسطورة الموسيقية الأسترالية (مولي ميلدروم)",
+          "summary": "The promoter and broadcaster helped define the music whs of Australians for decades.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "查尔斯国王和埃尔顿约翰向澳大利亚音乐传奇莫利·梅尔德鲁姆致敬",
+          "summary": "推动者和播音员帮助定义了几十年来澳大利亚人的音乐口味.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+      "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T00:02:15Z",
+      "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2542/live/90680630-e737-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Отец, который обнаружил убийство дочери на Facebook, чувствует себя проигнорированным южноафриканской полицией",
+          "summary": "Южноафриканские общины сообщают Би-би-си о мерах, которые они принимают для обеспечения безопасности женщин после волны ужасных убийств.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Papa qui a découvert le meurtre de sa fille sur Facebook se sent ignoré par la police sud-africaine",
+          "summary": "Les communautés sud-africaines disent à la BBC qu'elles prennent des mesures pour protéger les femmes après une vague de meurtres horribles.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Papá que descubrió el asesinato de hija en Facebook se siente ignorado por la policía sudafricana",
+          "summary": "Las comunidades sudafricanas informan a la BBC de las medidas que están tomando para mantener a las mujeres a salvo después de una ola de asesinatos horribles.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "أبي الذي اكتشف مقتل ابنته في الفيسبوك يشعر بالتجاهل من شرطة جنوب أفريقيا",
+          "summary": "المجتمعات المحلية في جنوب أفريقيا تخبر هيئة الإذاعة البريطانية عن التدابير التي تتخذها للحفاظ على سلامة النساء بعد موجة من القتل الرهيب.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "在Facebook上发现女儿被谋杀的爸爸觉得被南非警方忽略了",
+          "summary": "南非社区告诉英国广播公司,他们正在采取措施,在恐怖的杀戮浪潮后保障妇女的安全。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "Brazil requests dispute panel regarding additional duties imposed by the United States",
+      "url": "https://www.wto.org/english/news_e/news26_e/dsb_24nov26_563_e.htm",
+      "published": "2026-11-24T00:00:00Z",
+      "summary": "At a meeting of the Dispute Settlement Body (DSB) on 24 November, members considered a request from Brazil for the establishment of a dispute panel to review additional US duties on products originating in Brazil as a result of two investigations by the Uni...",
+      "image": "https://www.wto.org/images/img_index/photos/gavel-and-scales-of-justice-on-a-desk-2026-09-22-07-31-15-utc_lg.jpg",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
+      "flagCode": "",
+      "imageCredit": "World Trade Organization",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Бразилия просит комиссию по спорам о дополнительных пошлинах, введенных Соединенными Штатами",
+          "summary": "На заседании органа по разрешению споров (DSB) 24 ноября члены рассмотрели просьбу Бразилии о создании группы по рассмотрению споров для рассмотрения дополнительных пошлин США на продукты, происходящие из Бразилии, в результате двух расследований, проведенных организацией.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le Brésil demande à un groupe spécial de connaître des droits supplémentaires imposés par les États-Unis",
+          "summary": "Lors d'une réunion de l'Organe de règlement des différends (ORD), le 24 novembre, les membres ont examiné une demande du Brésil en vue de la création d'un groupe spécial de règlement des différends chargé d'examiner les droits additionnels des États-Unis sur les produits originaires du Brésil à la suite de deux enquêtes...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Brasil solicita un panel de disputas sobre las obligaciones adicionales impuestas por los Estados Unidos",
+          "summary": "En una reunión del Órgano de Solución de Diferencias, celebrada el 24 de noviembre, los miembros examinaron una solicitud del Brasil de que se estableciera un grupo de debate para examinar las obligaciones adicionales de los Estados Unidos en relación con los productos originarios del Brasil como resultado de dos investigaciones realizadas por la...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "تطلب البرازيل إلى فريق المنازعات بشأن الواجبات الإضافية التي تفرضها الولايات المتحدة",
+          "summary": "وفي اجتماع لهيئة تسوية المنازعات، عقد في 24 تشرين الثاني/نوفمبر، نظر الأعضاء في طلب من البرازيل بإنشاء فريق نزاع لاستعراض واجبات الولايات المتحدة الإضافية على المنتجات الناشئة في البرازيل نتيجة تحقيقين أجراهما الاتحاد.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "巴西请求就美国规定的额外义务问题设立争端小组。",
+          "summary": "在11月24日的争端解决机构(DSB)一次会议上,成员们审议了巴西的请求,即设立一个争端小组,审查美国对Uni公司两次调查后产自巴西的产品的额外关税.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
+      "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T22:59:07Z",
+      "summary": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1167/live/142d5c60-e790-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Возмущение после ареста отца и дочери в аэропорту Сиэтла",
+          "summary": "Сотрудники ICE арестовали двух пассажиров, отца и дочь, когда они садились на рейс в Сиэтле в субботу.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Outrage après l'arrestation du père et de la fille de l'ICE à l'aéroport de Seattle",
+          "summary": "Les officiers de l'ICE ont arrêté deux passagers, un père et une fille, alors qu'ils embarquaient à Seattle samedi.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Extranjero después de la detención de ICE padre e hija en el aeropuerto de Seattle",
+          "summary": "Los oficiales de ICE arrestaron a dos pasajeros, un padre e hija, mientras viajaban en Seattle el sábado.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "غضب بعد إلقاء القبض على الأب وابنته في مطار سياتل",
+          "summary": "اعتقل ضابطان من الشرطة الدولية مسافرين، أب وابنة، لأنهم كانوا يستقلون رحلة في سياتل يوم السبت.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "ICE在西雅图机场逮捕父女之后的愤怒",
+          "summary": "ICE官员逮捕了两名乘客,一名父亲和女儿,因为他们星期六在西雅图登机.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T21:24:47Z",
+      "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b1cd/live/0fff68f0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Жизель Пеликот «унижена» после обнаженных фотографий, отправленных в СМИ для продвижения книги",
+          "summary": "Издатель эссе о принудительном контроле извиняется за «неприятное и неуместное общение».",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Gisèle Pelicot 'humilié' après des photos nues envoyées aux médias pour promouvoir le livre",
+          "summary": "L'éditeur d'un essai sur le contrôle coercitif s'excuse pour \"une communication malheureuse et inappropriée\".",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Gisèle Pelicot 'humiliated' después de las fotos desnudas enviadas a los medios para promover el libro",
+          "summary": "El editor de un ensayo sobre disculpas de control coercitivo por \"una comunicación desafortunada e inapropiada\".",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "(جيزيل بيليشوت) تم إهانته بعد إرسال صور عارية إلى وسائل الإعلام",
+          "summary": "ناشر مقالة عن السيطرة الإجبارية يعتذر عن اتصال سيء وغير لائق",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "Gisèle Pelicot在给媒体宣传书籍的裸照后,",
+          "summary": "一篇关于强制控制的文章的出版者对\"不幸而不当的沟通\"表示歉意.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T21:03:34Z",
+      "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/46f8/live/11f74480-e77a-11f1-978f-df545a5c5c20.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Британские санкции возглавили военные лидеры Мьянмы после решения о геноциде рохинджа",
+          "summary": "К Великобритании присоединились несколько других стран, признавших решение Международного суда о том, что Мьянма осуществила геноцид.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le Royaume-Uni sanctionne les dirigeants militaires du Myanmar après le génocide de Rohingya",
+          "summary": "Le Royaume-Uni est rejoint par plusieurs autres nations pour reconnaître une décision de la CIJ selon laquelle le Myanmar a commis un génocide.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El Reino Unido impone sanciones a los líderes militares de Myanmar después del fallo del genocidio de Rohingya",
+          "summary": "El Reino Unido se une a varias otras naciones para reconocer un fallo de la CIJ que Myanmar llevó a cabo el genocidio.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الجزاءات التي تفرضها المملكة المتحدة على كبار القادة العسكريين في ميانمار بعد حكم روهينغيا بالإبادة الجماعية",
+          "summary": "وانضمت إلى المملكة المتحدة عدة دول أخرى في الاعتراف بقرار من محكمة العدل الدولية بأن ميانمار نفذت الإبادة الجماعية.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "在罗辛亚种族灭绝统治后,",
+          "summary": "联合王国与其他一些国家一道承认国际法院关于缅甸实施种族灭绝的裁决。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T20:48:35Z",
+      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Что удар по российскому кораблю в Ливии говорит о распространении войны на Украине",
+          "summary": "Потопление Украиной российского линкора в порту в Ливии повышает ставки войны, пишет Фрэнк Гарднер.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Ce que frappe sur le navire russe en Libye dit de la propagation de la guerre en Ukraine",
+          "summary": "Le naufrage par l'Ukraine d'un navire de guerre russe dans un port de Libye soulève les enjeux de la guerre, écrit Frank Gardner.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Qué huelga en el barco ruso en Libia dice sobre la propagación de la guerra de Ucrania",
+          "summary": "El hundimiento de un buque de combate ruso en un puerto en Libia eleva las apuestas de la guerra un poco, escribe Frank Gardner.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "أي ضربة على السفينة الروسية في ليبيا تقول عن انتشار حرب أوكرانيا",
+          "summary": "غرق (أوكرانيا) سفينة حربية روسية في ميناء في (ليبيا) يزيد من مخاطر الحرب",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "在利比亚的俄舰受到的打击对乌克兰战争的蔓延有何影响?",
+          "summary": "乌克兰将一艘俄国战列舰沉入利比亚港口,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+      "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T18:49:19Z",
+      "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cda1/live/ad61f0f0-e76b-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Первая леди США Мелания Трамп приветствует рождественскую елку в Белом доме",
+          "summary": "Официальная рождественская елка Белого дома 2026 года представляет собой 18-футовую пихту с фермы Silent Night Evergreens в Эндеворе, штат Висконсин.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La Première Dame Melania Trump accueille l'arbre de Noël de la Maison Blanche cette année",
+          "summary": "L'arbre de Noël officiel de la Maison Blanche 2026 est un sapin de 18 pieds de Silent Night Evergreens, une ferme à Endeavor, Wisconsin.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Primera Dama Melania Trump acoge el árbol de Navidad de la Casa Blanca de este año",
+          "summary": "El árbol oficial de Navidad de la Casa Blanca 2026 es un abeto de 18 pies de Silent Night Evergreens, una granja en Endeavor, Wisconsin.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "السيدة الأولى ميلانيا ترامب ترحب بشجرة عيد الميلاد في البيت الأبيض",
+          "summary": "شجره عيد الميلاد في البيت الأبيض عام 2026 هي خطف ذو 18 قدماً من ليلة (إففرغرينس)، مزرعة في (إنديفور)، (ويسكونسن).",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "第一夫人梅拉尼亚·特朗普 欢迎今年的白宫圣诞树",
+          "summary": "2026年正月白宫圣诞树是一棵出自威斯康辛州Endeavor的农场\"寂静之夜\"(Silent Night Evergreens)的18英尺长的花花.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T18:04:20Z",
+      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Иранские власти пороли певицу, которая выступала без хиджаба, говорят юристы",
+          "summary": "Парасту Ахмади, три музыканта и продюсер получили 74 удара плетью в Куме.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les autorités iraniennes flog chanteur qui a joué sans hijab, avocats disent",
+          "summary": "Parastoo Ahmadi, trois musiciens et un producteur auraient reçu 74 coups de fouet à Qom.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Autoridades iraníes cantante de flog que realizó sin hijab, los abogados dicen",
+          "summary": "Parastoo Ahmadi, three musicians and a product were reportedly given 74 lashes in Qom.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "السلطات الإيرانية تهرّب المغني الذي أدّى بدون هيجاب، المحامين يقولون",
+          "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "律师们说,",
+          "summary": "据报告,三名音乐家和一名制片人在库姆被鞭打74下。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T17:14:50Z",
+      "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Комик выдает себя за танцевальные движения Трампа, высмеивает торговые переговоры на пресс-ужине в Канаде",
+          "summary": "Олицетворение, канадский комик Марк Крич, высмеял поиск президентом США нового пресс-секретаря и торговые переговоры между США и Канадой.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le comédien incarne les mouvements de danse de Trump, se moque des discussions commerciales au dîner de presse du Canada",
+          "summary": "L'imitateur, le comédien canadien Mark Critch, s'est amusé à la recherche d'un nouveau secrétaire de presse et de négociations commerciales entre les États-Unis et le Canada.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El comediante imita los movimientos de baile de Trump, charlas comerciales de mocks en Canadá",
+          "summary": "El imitador, el comediante canadiense Mark Critch, se divirtió en la búsqueda del presidente estadounidense de un nuevo secretario de prensa y conversaciones comerciales entre Estados Unidos y Canadá.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "(كوميديان) ينتحل حركات رقص (ترامب) ويسخر من المحادثات التجارية في (كندا)",
+          "summary": "المُنتَزِق، المُذَلِم الكوميدي الكندي مارك كريتش، سخرَ في بحثِ الرئيسِ الأمريكي عن سكرتير صحافي جديد ومُحادثات تجارية بين الولايات المتحدة وكندا",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "喜剧演员冒充特朗普的舞蹈动作,嘲弄在加拿大的贸易谈判 新闻晚宴",
+          "summary": "冒名顶替的加拿大喜剧演员马克·克里奇(Mark Critch)在美国总统寻找新新闻秘书和美加贸易谈判时,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T15:49:52Z",
+      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Взлет, падение и подъем Дженсена Хуанга",
+          "summary": "Через несколько дней после отставки, погрязнув в скандале внебрачных отношений, Дженсен Хуанг из Nvidia делает замечательное возвращение.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La montée, la baisse et la montée de Jensen Huang",
+          "summary": "Quelques jours après avoir démissionné alors que le scandale des affaires extra-conjugales était entaché, le Jensen Huang de Nvidia fait un retour remarquable.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El ascenso y la caída y el ascenso de Jensen Huang",
+          "summary": "Días después de dimitir mientras se miró en escándalo de asuntos extramatrimoniales, Jensen Huang de Nvidia está haciendo un retorno notable.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ارتفاع وسقوط وارتفاع مرة أخرى",
+          "summary": "بعد أيام من الإستقالة بينما تُجرّد فضيحة للشؤون خارج الزواج، (نافيديا) تعود بشكل ملحوظ.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "黄詹森的起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起起",
+          "summary": "辞职几天后 却陷入婚外情的丑闻 Nvidia的Jensen Huang 正在取得令人瞩目的回报",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+      "url": "https://www.bbc.co.uk/news/articles/cw074km48myeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T13:09:52Z",
+      "summary": "The BBC meets the far-left protesters French President Emmanuel Macron says are trying to bring down the Republic.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87ae/live/24717fd0-e73f-11f1-802a-678be58471bb.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Я хочу уничтожить капитализм, а не Францию. На улицах с французским ультралевым",
+          "summary": "Би-би-си встречается с крайне левыми протестующими, которые, по словам президента Франции Эммануэля Макрона, пытаются свергнуть Республику.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Je veux détruire le capitalisme, pas la France. Dans les rues avec l'ultra gauche française",
+          "summary": "La BBC rencontre les manifestants d'extrême gauche Le président français Emmanuel Macron dit qu'ils essaient de faire tomber la République.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Quiero destruir el capitalismo, no Francia: En las calles con la ultra izquierda francesa",
+          "summary": "La BBC se reúne con los manifestantes de extrema izquierda El presidente francés Emmanuel Macron dice que están tratando de derribar la República.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "أريد تدمير الرأسمالية وليس فرنسا في الشوارع مع الموجة الفرنسية",
+          "summary": "الـ(بي بي بي سي) يلتقي بالمتظاهرين المتطرفين الرئيس الفرنسي (إيمانويل ماكرون) يقول أنهم يحاولون إسقاط الجمهورية",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "\"我想摧毁资本主义,而不是法国\": 在街上与法国超左翼",
+          "summary": "英国广播公司与法国总统埃马纽埃尔·麦克龙(Emmanuel Macron)说,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Gaza war has undone 77 years of human development, UN warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168862",
+      "published": "2026-11-23T12:00:00Z",
+      "summary": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in G...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Война в Газе разрушила 77 лет человеческого развития",
+          "summary": "Заместитель главы ООН призвал возобновить международную поддержку решения израильско-палестинского конфликта с двумя государствами в понедельник, предупредив, что палестинцы продолжают сталкиваться с насилием, перемещением и тяжелыми условиями жизни, несмотря на прекращение огня в октябре 2025 года.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La guerre de Gaza a annulé 77 ans de développement humain, l'ONU met en garde",
+          "summary": "Le chef adjoint de l'ONU a demandé un soutien international renouvelé pour une solution de deux États au conflit israélo-palestinien lundi, avertissant que les Palestiniens continuent à faire face à la violence, aux déplacements et aux conditions de vie terribles malgré le cessez-le-feu d'octobre 2025 à G...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "La guerra de Gaza ha deshecho 77 años de desarrollo humano, advierte ONU",
+          "summary": "El jefe adjunto de la ONU instó a que se renovara el apoyo internacional para una solución biestatal al conflicto entre Israel y Palestina el lunes, advirtiendo que los palestinos siguen enfrentando violencia, desplazamiento y condiciones de vida difíciles a pesar de la cesación del fuego del...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "إن حرب غزة قد تخلت عن 77 عاما من التنمية البشرية، وتحذر الأمم المتحدة",
+          "summary": "وحث نائب رئيس الأمم المتحدة على تجديد الدعم الدولي للتوصل إلى حل على أساس وجود دولتين للنزاع بين إسرائيل وفلسطين يوم الاثنين، محذرا من أن الفلسطينيين ما زالوا يواجهون العنف والتشريد والظروف المعيشية المؤلمة على الرغم من وقف إطلاق النار في زاي في تشرين الأول/أكتوبر 2025.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "联合国警告说,加沙战争结束了77年的人类发展。",
+          "summary": "联合国副首长促请国际社会再次支持以巴冲突的两国解决方案,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168861",
+      "published": "2026-11-23T12:00:00Z",
+      "summary": "UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilateral framework for managing the risks of artificial intelligence (AI), warning that the technology is driving “the biggest transfer of power in the his...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Глава ООН призывает к переговорам о глобальной системе безопасности ИИ и предупреждает об историческом сдвиге власти",
+          "summary": "Генеральный секретарь ООН Антониу Гутерриш в понедельник призвал государства-члены начать обсуждение многосторонней основы управления рисками искусственного интеллекта (ИИ), предупредив, что технология стимулирует «самую большую передачу власти в его стране».",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le chef de l'ONU appelle à des discussions sur le cadre mondial de sécurité de l'IA, met en garde contre le changement historique du pouvoir",
+          "summary": "Le Secrétaire général de l'ONU, António Guterres, a appelé lundi les États membres à entamer des discussions sur un cadre multilatéral pour la gestion des risques de l'intelligence artificielle (IA), avertissant que la technologie est à...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El jefe de la ONU insta a las conversaciones sobre el marco global de seguridad de la IA, advierte de cambios históricos en el poder",
+          "summary": "El lunes el Secretario General de la ONU António Guterres pidió a los Estados Miembros que iniciaran conversaciones sobre un marco multilateral para gestionar los riesgos de la inteligencia artificial (AI), advirtiendo que la tecnología está impulsando “la mayor transferencia de poder...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "يحث رئيس الأمم المتحدة على إجراء محادثات بشأن الإطار العالمي للسلامة في مجال التنفيذ، ويحذر من التحول التاريخي في السلطة",
+          "summary": "ودعا الأمين العام للأمم المتحدة أنطونيو غوتيريس يوم الاثنين الدول الأعضاء إلى بدء مناقشات بشأن إطار متعدد الأطراف لإدارة مخاطر الاستخبارات الاصطناعية، محذرا من أن التكنولوجيا تقود &quot; أكبر نقل للسلطة في ...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "联合国首长敦促就全球AI安全框架举行会谈,警告权力的历史性转移。",
+          "summary": "联合国秘书长安东尼奥·古特雷斯星期一呼吁会员国开始讨论管理人工智能风险的多边框架,并警告说,该技术正在推动“他......的最大权力转移......",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168859",
+      "published": "2026-11-23T12:00:00Z",
+      "summary": "As winter sets in, the Security Council held a high stakes meeting Monday to discuss how Russian attacks on Ukraine's energy grid are leaving civilians without heat, power and water. It will also look at how strikes on Black Sea shipping threaten grain supp...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Зимние атаки на энергосистему Украины и судоходство в Черном море угрожают жизни и мировым поставкам продовольствия",
+          "summary": "По мере приближения зимы Совет Безопасности провел в понедельник заседание с высокими ставками, чтобы обсудить, как российские атаки на энергосистему Украины оставляют гражданских лиц без тепла, энергии и воды. Он также рассмотрит, как удары по черноморскому судоходству угрожают поставкам зерна.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Conseil de sécurité LIVE : Les attaques hivernales contre le réseau électrique ukrainien et le transport maritime de la mer Noire menacent des vies et des approvisionnements alimentaires mondiaux",
+          "summary": "Alors que l'hiver commence, le Conseil de sécurité s'est réuni lundi pour discuter de la façon dont les attaques russes contre le réseau énergétique ukrainien laissent des civils sans chaleur, ni électricité ni eau. Il examinera également comment les grèves sur le transport maritime de la mer Noire menacent...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Consejo de Seguridad LIVE: Los ataques de invierno contra la red eléctrica de Ucrania y el transporte marítimo del Mar Negro amenazan vidas y alimentos globales",
+          "summary": "Como se establece en invierno, el Consejo de Seguridad celebró una reunión de alto riesgo el lunes para discutir cómo los ataques rusos contra la red energética de Ucrania están dejando civiles sin calor, poder y agua. También mirará cómo las huelgas en el transporte marítimo del Mar Negro amenazan el...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "هجمات الشتاء على شبكة الطاقة الأوكرانية والشحن البحري للبحر الأسود تهدد الأرواح والإمدادات الغذائية العالمية",
+          "summary": "ومع اقتراب الشتاء، عقد مجلس الأمن جلسة عالية المخاطر يوم الاثنين لمناقشة كيف أن الهجمات الروسية على شبكة الطاقة الأوكرانية تترك المدنيين دون حرارة أو قوة أو ماء. سينظر أيضاً إلى كيف تُهدد الإضرابات على سفينة (البحر الأسود) سقف الحبوب...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "安全理事会实况:冬季袭击乌克兰电网和黑海航运威胁生命和全球粮食供应",
+          "summary": "随着冬季的到来,安全理事会星期一举行了一次重大利益会议,以讨论俄罗斯对乌克兰能源网的攻击如何使平民没有热能、电力和水。 它还将研究对黑海航运的打击如何威胁粮食供应......",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168858",
+      "published": "2026-11-23T12:00:00Z",
+      "summary": "Heavy fighting near a hospital in Ituri province in the Democratic Republic of the Congo (DRC) has disrupted the vital work of Ebola responders and forced emergency teams to take cover for more than 24 hours.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-24T13:06:54Z",
+      "translations": {
+        "ru": {
+          "title": "Тяжелые бои в Итури заманивают в ловушку реагировавших на Эболу в ДР Конго: ВОЗ",
+          "summary": "Тяжелые бои возле больницы в провинции Итури в Демократической Республике Конго (ДРК) нарушили жизненно важную работу служб реагирования на Эболу и заставили аварийные группы укрываться более 24 часов.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "De violents combats en Ituri pièges RD Congo Ebola répondeurs: OMS",
+          "summary": "De violents combats près d'un hôpital de la province de l'Ituri en République démocratique du Congo (RDC) ont perturbé le travail vital des intervenants d'Ebola et contraint les équipes d'urgence à se couvrir pendant plus de 24 heures.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Luchas pesadas en Ituri trampas DR Congo Ebola responders: OMS",
+          "summary": "Los intensos combates cerca de un hospital en la provincia de Ituri en la República Democrática del Congo (RDC) han interrumpido la labor vital de los equipos de emergencia y de emergencia forzados a cubrir durante más de 24 horas.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "قتال ثقيل في مصاعد إيبولا في إيتوري",
+          "summary": "وأدى القتال الثقيل بالقرب من مستشفى في مقاطعة إيتوري في جمهورية الكونغو الديمقراطية إلى تعطيل العمل الحيوي الذي يقوم به مستجيبو إيبولا وأفرقة الطوارئ القسرية للتغطية لأكثر من 24 ساعة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "伊图里的激烈战斗陷阱 DR 刚果埃博拉应对者:世卫组织",
+          "summary": "刚果民主共和国伊图里省一家医院附近发生激烈战斗,干扰了埃博拉应急人员的重要工作,迫使应急小组24小时以上进行掩护。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Libya: UN mission urges probe into Benghazi port attacks",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168857",
+      "published": "2026-11-23T12:00:00Z",
+      "summary": "The UN Support Mission in Libya (UNSMIL) has called for an independent investigation into attacks carried out at Benghazi port and off the coast of the eastern city on Sunday.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "translations": {
+        "ru": {
+          "title": "Ливия: миссия ООН призывает расследовать нападения в порту Бенгази",
+          "summary": "Миссия ООН по поддержке в Ливии (МООНПЛ) призвала провести независимое расследование нападений, совершенных в порту Бенгази и у побережья восточного города в воскресенье.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Libye: la mission des Nations Unies exhorte à enquêter sur les attaques au port de Benghazi",
+          "summary": "La Mission d'appui des Nations Unies en Libye (MINUL) a appelé à une enquête indépendante sur les attaques menées dimanche au port de Benghazi et au large des côtes de la ville orientale.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Libia: Misión de las Naciones Unidas insta a la sonda en ataques portuarios de Benghazi",
+          "summary": "La Misión de Apoyo de las Naciones Unidas en Libia (UNSMIL) ha pedido una investigación independiente de los ataques realizados en el puerto de Benghazi y frente a la costa de la ciudad oriental el domingo.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ليبيا: تحث بعثة الأمم المتحدة على التحقيق في هجمات ميناء بنغازي",
+          "summary": "ودعت بعثة الأمم المتحدة للدعم في ليبيا إلى إجراء تحقيق مستقل في الهجمات التي نفذت في ميناء بنغازي وخارج ساحل المدينة الشرقية يوم الأحد.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "利比亚:联合国特派团敦促调查班加西港口袭击",
+          "summary": "联合国利比亚支助团(联利支助团)要求独立调查星期日在班加西港和东部城市外海岸进行的袭击。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Ukraine shares video of strikes on Russian ships off Libya",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T11:34:10Z",
+      "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "translations": {
+        "ru": {
+          "title": "Украина поделилась видео ударов по российским кораблям у берегов Ливии",
+          "summary": "Президент Зеленский сказал, что военный корабль России был потоплен, а российский грузовой корабль также пострадал.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'Ukraine partage la vidéo des frappes sur les navires russes au large de la Libye",
+          "summary": "Le président Zelensky a dit qu'un navire de guerre russe a été coulé, avec un cargo russe également touché.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Ucrania comparte video de huelgas en buques rusos fuera de Libia",
+          "summary": "El presidente Zelensky dijo que un buque de guerra ruso estaba hundido, con un buque de carga ruso también golpeó.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "تتقاسم أوكرانيا أشرطة فيديو لإضرابات على السفن الروسية من ليبيا",
+          "summary": "الرئيس (زيلينسكي) قال أن سفينة حربية روسية قد غرقت، مع ضرب سفينة شحن روسية أيضاً.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "乌克兰分享俄罗斯船只在利比亚出海被袭击的视频",
+          "summary": "泽连斯基总统说一艘俄罗斯军舰被击沉,一艘俄罗斯货船也遇袭.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T06:33:50Z",
+      "summary": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "translations": {
+        "ru": {
+          "title": "Пять выводов из неудачных переговоров по климату COP31",
+          "summary": "Саммит COP31 в Анталье стал самым продолжительным климатическим саммитом в истории ООН.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Cinq reprises des négociations sur le climat ratées COP31",
+          "summary": "Le sommet de la COP31 à Antalya a été la plus longue conférence sur le climat de l'histoire de l'ONU.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Cinco tomas de las conversaciones climáticas fallidas COP31",
+          "summary": "La cumbre COP31 en Antalya fue las conversaciones climáticas más largas de la historia de la ONU.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "خمسة مداخل من محادثات المناخ الفاشلة",
+          "summary": "The COP31 Summit in Antalya was the longest-running climate talks in UN history.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "气候谈判失败的5人",
+          "summary": "在安塔利亚举行的COP31峰会是联合国历史上持续时间最长的气候会谈。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23T00:08:00Z",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "translations": {
+        "ru": {
+          "title": "Сан-Франциско переживает бум ИИ, но опасения по поводу аварии растут",
+          "summary": "Сотрудники ИИ в эпицентре отрасли — Сан-Франциско — опасаются, что сектор перегревается.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "San Francisco profite d'un boom de l'IA, mais s'inquiète d'un crash",
+          "summary": "Les employés de l'IA dans l'épicentre de l'industrie - San Francisco - craignent que le secteur soit surchauffé.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "San Francisco está disfrutando de un boom de AI, pero las preocupaciones acerca de un accidente están creciendo",
+          "summary": "Los empleados de AI en el epicentro de la industria - San Francisco - se preocupan de que el sector esté sobrecalentado.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "سان فرانسيسكو يستمتع بازدهار AI، ولكن القلق حول تحطم ينمو",
+          "summary": "موظفون في مركز الصناعة سان فرانسيسكو قلقون من أن القطاع مسخن",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "旧金山正在享受AI的兴起 但坠机的担忧却在增加",
+          "summary": "AI员工在该行业的震中 - 旧金山 - 担心该部门过热.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "Trade-facilitating measures help offset rise in new G20 trade restrictions",
+      "url": "https://www.wto.org/english/news_e/news26_e/tmg20_23nov26_559_e.htm",
+      "published": "2026-11-23T00:00:00Z",
+      "summary": "The number of tariff increases and other non-facilitating trade measures introduced by G20 economies rose sharply in the first half of 2026, and the stockpile of such measures reached a record level, according to the WTO's latest report on G20 trade measure...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "translations": {
+        "ru": {
+          "title": "Меры по содействию торговле помогают компенсировать рост новых торговых ограничений G20",
+          "summary": "В первой половине 2026 года резко возросло количество повышений тарифов и других не способствующих торговле мер, введенных экономиками G20, а запасы таких мер достигли рекордного уровня, говорится в последнем докладе ВТО о торговой мере G20.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les mesures de facilitation du commerce contribuent à compenser la hausse des nouvelles restrictions commerciales du G20",
+          "summary": "Le nombre d'augmentations tarifaires et d'autres mesures commerciales non facilitantes introduites par les économies du G20 a fortement augmenté au cours de la première moitié de 2026, et le stock de ces mesures a atteint un niveau record, selon le dernier rapport de l'OMC sur les mesures commerciales du G20...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Las medidas de facilitación del comercio ayudan a compensar el aumento de las nuevas restricciones comerciales del G20",
+          "summary": "El número de aumentos arancelarios y otras medidas comerciales no facilitadoras introducidas por las economías del G20 aumentó notablemente en la primera mitad de 2026, y el arsenal de esas medidas alcanzó un nivel sin precedentes, según el último informe de la OMC sobre la medida comercial del G20...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "وتساعد تدابير تيسير التجارة في التعويض عن القيود التجارية الجديدة لمجموعة العشرين",
+          "summary": "وارتفع عدد الزيادات في التعريفات الجمركية وغيرها من التدابير التجارية غير الميسرة التي أدخلتها اقتصادات مجموعة العشرين ارتفاعاً حاداً في النصف الأول من عام 2026، ووصلت مخزون هذه التدابير إلى مستوى قياسي، وفقاً لآخر تقرير لمنظمة التجارة العالمية عن التدبير التجاري لمجموعة العشرين.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "贸易便利化措施有助于抵消20国集团新的贸易限制增加",
+          "summary": "根据世贸组织关于20国集团贸易措施的最新报告,2026年上半年,20国集团经济体实行的关税增加和其他非便利贸易措施的数量急剧上升,此类措施的库存达到创纪录水平. .",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "EU launches safeguard investigation into certain composite input materials",
+      "url": "https://www.wto.org/english/news_e/news26_e/safe_eec_23nov26_561_e.htm",
+      "published": "2026-11-23T00:00:00Z",
+      "summary": "On 23 November 2026, the European Union notified the WTO’s Committee on Safeguards that it had initiated, on the same day (23 November 2026), a safeguard investigation into imports of certain composite input materials.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "translations": {
+        "ru": {
+          "title": "ЕС начинает расследование в отношении некоторых композитных материалов",
+          "summary": "23 ноября 2026 года Европейский союз уведомил Комитет ВТО по гарантиям о том, что в тот же день (23 ноября 2026 года) он инициировал расследование в отношении импорта некоторых композитных исходных материалов.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'UE lance une enquête de sauvegarde sur certains matériaux d'entrée composites",
+          "summary": "Le 23 novembre 2026, l'Union européenne a notifié au Comité des garanties de l'OMC qu'elle avait ouvert, le même jour (23 novembre 2026), une enquête de sauvegarde sur les importations de certains intrants composites.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "La UE pone en marcha la investigación de ciertos materiales de insumos compuestos",
+          "summary": "El 23 de noviembre de 2026, la Unión Europea notificó al Comité de Salvaguardias de la OMC que había iniciado, el mismo día (23 de noviembre de 2026), una investigación de salvaguardia de las importaciones de determinados materiales de insumos compuestos.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "عمليات الإطلاق التي يقوم بها الاتحاد الأوروبي تضمن التحقيق في بعض مواد المدخلات المركبة",
+          "summary": "وفي 23 تشرين الثاني/نوفمبر 2026، أبلغ الاتحاد الأوروبي لجنة الضمانات التابعة لمنظمة التجارة العالمية بأنها شرعت، في اليوم نفسه (23 تشرين الثاني/نوفمبر 2026)، في إجراء تحقيق ضماني في واردات بعض مواد المدخلات المركبة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "欧盟发射保障对某些复合投入材料的调查",
+          "summary": "2026年11月23日,欧洲联盟通知世贸组织保障委员会,它已于同日(2026年11月23日)开始对进口某些复合投入材料进行保障调查。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "Agriculture group meeting weighs trends in global food market trade",
+      "url": "https://www.wto.org/english/news_e/news26_e/fsec_23nov26_562_e.htm",
+      "published": "2026-11-23T00:00:00Z",
+      "summary": "Current conditions in global agricultural commodities were the focus of a meeting of the Agricultural Market Information System (AMIS) Global Food Market Information Group, held at WTO headquarters in Geneva on 23-24 November. The AMIS, launched by the G20...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "translations": {
+        "ru": {
+          "title": "Совещание группы по сельскому хозяйству взвешивает тенденции в мировой торговле продуктами питания",
+          "summary": "Текущие условия в глобальных сельскохозяйственных товарах были в центре внимания встречи Глобальной информационной группы по продовольственному рынку (AMIS), состоявшейся в штаб-квартире ВТО в Женеве 23-24 ноября. AMIS, запущенный G20",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La réunion du groupe Agriculture évalue les tendances du commerce mondial des produits alimentaires",
+          "summary": "La situation actuelle des produits agricoles mondiaux a fait l'objet d'une réunion du Groupe d'information sur le Système d'information sur les marchés agricoles (AMIS), qui s'est tenue au siège de l'OMC à Genève les 23 et 24 novembre. L'AMIS, lancée par le G20...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "La reunión del grupo agrícola pesa las tendencias del comercio mundial de alimentos",
+          "summary": "Las condiciones actuales de los productos básicos agrícolas mundiales fueron el centro de una reunión del Grupo Mundial de Información sobre Mercados Agrícolas, celebrada en la sede de la OMC en Ginebra los días 23 y 24 de noviembre. El AMIS, lanzado por el G20...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "اجتماع المجموعات الزراعية يزن الاتجاهات في التجارة العالمية في أسواق الأغذية",
+          "summary": "وتمثلت الظروف الراهنة في السلع الأساسية الزراعية العالمية في تركيز اجتماع للفريق العالمي للمعلومات المتعلقة بسوق الأغذية التابع لنظام المعلومات الزراعية، عقد في مقر منظمة التجارة العالمية في جنيف في الفترة من 23 إلى 24 تشرين الثاني/نوفمبر. الـ \"أى إس\" ، الذي أطلقته مجموعة العشرين",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "农业小组会议衡量全球粮食市场贸易的趋势",
+          "summary": "全球农业商品的现状是11月23日至24日在日内瓦世贸组织总部举行的农产品市场信息系统全球粮食市场信息小组会议的重点。 20国集团发起的非盟驻苏特派团...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22T22:37:43Z",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "translations": {
+        "ru": {
+          "title": "\"Опасность все время кажется большей\": Украинцы ищут пропавших без вести после российских ударов",
+          "summary": "Корреспондент Би-би-си Сара Рейнсфорд сообщает со сцены обрушения жилого дома в Киевской области Украины.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le danger semble toujours plus grand : Les Ukrainiens cherchent disparu après les grèves russes",
+          "summary": "Sarah Rainsford de la BBC rapporte de la scène d'un immeuble résidentiel effondré dans la région de Kiev en Ukraine.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "\"El hambre parece mayor todo el tiempo\": Los ucranianos buscan perderse después de huelgas rusas",
+          "summary": "Sarah Rainsford de la BBC reporta desde la escena de un edificio residencial colapsado en la región de Kiev de Ucrania.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "\"الرجل يبدو أكبر طوال الوقت\" الأوكرانيون يبحثون عن المفقودين بعد الضربات الروسية",
+          "summary": "تقارير (سارة رينزفورد) من موقع مبنى سكني منهار في منطقة (أوكرانيا)",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "\"危险似乎总是更大\": 乌克兰人在俄罗斯罢工后寻找失踪",
+          "summary": "BBC的\"莎拉·雷恩斯福德\"(Sarah Rainsford)报道了乌克兰基辅地区一座倒塌的住宅建筑的现场.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168856",
+      "published": "2026-11-22T12:00:00Z",
+      "summary": "Secretary-General António Guterres on Sunday expressed deep disappointment over the collapse of COP31 climate negotiations, using a visit to Barbados to call for stronger action on fossil fuels, climate finance and support for vulnerable nations.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
+      "published": "2026-11-22T12:00:00Z",
+      "summary": "For five years, Zahra cared for an elderly woman in Iran and earned enough to get by. Now back in Herat, western Afghanistan, the 28-year-old trained midwife is unemployed. She lives with her parents and siblings, apart from her six-year-old son, who lives...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168855",
+      "published": "2026-11-22T12:00:00Z",
+      "summary": "COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” s...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "ungeneva",
+      "publisher": "UN Geneva",
+      "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
+      "url": "https://www.ungeneva.org/en/news-media/news/2026/11/125000/cop31-ends-without-climate-pact-un-chief-warns-there-no-ambiguity",
+      "published": "2026-11-22T00:00:00Z",
+      "summary": "The UN reported that COP31 concluded in Antalya without an overarching climate pact after negotiations on fossil fuels and finance.",
+      "category": "climate",
+      "image": "",
+      "flagCode": "",
+      "locationLabel": "Antalya, Türkiye"
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+      "published": "2026-11-21T12:00:00Z",
+      "summary": "When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her clinic. Both were later looted and destroyed.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "published": "2026-11-21T12:00:00Z",
+      "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168854",
+      "published": "2026-11-20T12:00:00Z",
+      "summary": "UN Secretary-General António Guterres is heading to Barbados to co-host a special summit on artificial intelligence (AI) safety on Monday, aimed at closing the gap between accelerating risks and many countries’ capacity to deal with the pace of development.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168853",
+      "published": "2026-11-20T12:00:00Z",
+      "summary": "A day after the UN’s highest court found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Bazar, Bangladesh, urging the world to turn the landmark judgement into action.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168849",
+      "published": "2026-11-20T12:00:00Z",
+      "summary": "Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168847",
+      "published": "2026-11-20T12:00:00Z",
+      "summary": "Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168846",
+      "published": "2026-11-20T12:00:00Z",
+      "summary": "The World Food Programme (WFP) will require $12.1 billion to assist 91 million people next year but warned that millions more will go hungry as funding shortfalls continue and another global food crisis looms.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "COP31: Countries demand stronger climate deal amid deadlock in Antalya",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
+      "published": "2026-11-20T12:00:00Z",
+      "summary": "A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate finance. With the summit due to close on Friday, tensions are rising as activ...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168844",
+      "published": "2026-11-20T12:00:00Z",
+      "summary": "Aid and development agencies in Afghanistan warned on Friday of an escalating “assault” on the rights and freedoms of women and girls that is preventing growing numbers from accessing vital medical care.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "ungeneva",
+      "publisher": "UN Geneva",
+      "title": "Experts of the Committee against Torture Commend Norway’s Ban on Conversion Therapy, Raise Questions on the Identification of Torture Survivors in the Asylum Process and the Use of Mechanical Restraints in Psychiatric Institutions",
+      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/examen-de-la-norvege-au-comite-contre-la-torture-les-experts-du",
+      "published": "2026-11-19T20:09:08Z",
+      "summary": "The Committee against Torture today concluded its consideration of the ninth periodic report of Norway, with Committee Experts commending Norway’s progress on gender, including amending the Penal Code to ban conversion therapy, while raising questions on id...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Battle to control GPS and radio signals raises civilian safety concerns",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168843",
+      "published": "2026-11-19T12:00:00Z",
+      "summary": "From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions. But these signals are increasingly being blocked or faked – and civilians are payin...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Peacekeeping: With 500 paternity and child support claims unresolved, UN scales up accountability",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168842",
+      "published": "2026-11-19T12:00:00Z",
+      "summary": "The UN is adding new accountability measures to better support children fathered by peacekeepers, the Under-Secretary-General for Management Strategy, Policy and Compliance, Catherine Pollard, announced Thursday.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "‘Losing the battle’: AI hands predators new ways to target children",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168841",
+      "published": "2026-11-19T12:00:00Z",
+      "summary": "Artificial intelligence (AI) is handing predators and criminal groups new ways to groom, extort and exploit children, while efforts to protect them are failing to keep pace, senior UN officials warned on Thursday.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
+      "published": "2026-11-19T12:00:00Z",
+      "summary": "A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "No government approval needed to form or join a group, UN rights committee says",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168837",
+      "published": "2026-11-19T12:00:00Z",
+      "summary": "People do not need their government’s permission to form or join an association, the UN Human Rights Committee said on Thursday, issuing new guidance as civic space shrinks around the world.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168836",
+      "published": "2026-11-19T12:00:00Z",
+      "summary": "The International Court of Justice, the principal judicial organ of the UN, delivered its judgment on Thursday in the case of The Gambia v. Myanmar on the application of the Genocide Convention, finding Myanmar responsible for the crime against the country’...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "Panama submits request to join Expansion of the Information Technology Agreement",
+      "url": "https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
+      "published": "2026-11-19T00:00:00Z",
+      "summary": "Panama has submitted a request to join the 2015 Expansion of the Information Technology Agreement (ITA II), the Chair of the Committee of Participants on the Expansion of Trade in Information Technology Products, Mr Shih-Chun Weng of Chinese Taipei, informe...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "Applications open for WIPO-WTO Executive Programme on Intellectual Property Issues",
+      "url": "https://www.wto.org/english/news_e/news26_e/trip_19nov26_557_e.htm",
+      "published": "2026-11-19T00:00:00Z",
+      "summary": "The Secretariat of the World Intellectual Property Organization (WIPO) and the Secretariat of the World Trade Organization (WTO) are now accepting applications for the WIPO-WTO Executive Programme on Intellectual Property Issues for Senior Government Offici...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "Spotlight on trade fundamentals at annual WTO student event",
+      "url": "https://www.wto.org/english/news_e/news26_e/stud_19nov26_558_e.htm",
+      "published": "2026-11-19T00:00:00Z",
+      "summary": "Over 200 students joined policymakers, executives and thought leaders on 18 November at the WTO to discuss trade fundamentals at the WTO's annual student-only event on trade, titled WTO 101: Trade Rules!. Now in its third year, the event saw spirited discus...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "ungeneva",
+      "publisher": "UN Geneva",
+      "title": "In Dialogue with the Republic of Moldova, Experts of the Committee against Torture Praise Protection Measures for Ukrainian Refugees, Ask about the Accommodation of Asylum Seekers and Prison Overcrowding",
+      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/examen-de-la-republique-de-moldova-au-comite-contre-la-torture",
+      "published": "2026-11-18T18:49:09Z",
+      "summary": "The Committee against Torture today concluded its consideration of the fourth periodic report of the Republic of Moldova, with Committee Experts praising the State’s protection measures for Ukrainian refugees and raising questions about the accommodation of...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "COP31 deadlock persists as countries launch new ‘climate reality check’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168833",
+      "published": "2026-11-18T12:00:00Z",
+      "summary": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit’s toughest questions: who pays, how fast the world...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Patients running out of options as antibiotics stop working against common infections",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168832",
+      "published": "2026-11-18T12:00:00Z",
+      "summary": "Common bacteria are becoming highly resistant to front-line and even “last-resort” antibiotics, the UN World Health Organization (WHO) said on Wednesday, warning that the situation today is worse than it was in 2019.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Dozens more children killed in Yemen amid escalating hostilities",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168830",
+      "published": "2026-11-18T12:00:00Z",
+      "summary": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "Trade Policy Review: Peru",
+      "url": "https://www.wto.org/english/tratop_e/tpr_e/tpr_per_18nov26_e.htm",
+      "published": "2026-11-18T00:00:00Z",
+      "summary": "The sixth review of the trade policies and practices of Peru takes place on 18 and 20 November 2026. The basis for the review is a report by the WTO Secretariat and a report by the Government of Peru.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+      "published": "2026-11-17T12:00:00Z",
+      "summary": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168827",
+      "published": "2026-11-17T12:00:00Z",
+      "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO) said...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "COP31: The push to protect warming oceans reaches the negotiating table",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168824",
+      "published": "2026-11-17T12:00:00Z",
+      "summary": "From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ways to protect nature at COP31 on Tuesday. Yet turning innovation into actio...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168823",
+      "published": "2026-11-17T12:00:00Z",
+      "summary": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "New trade-restrictive measures surge but WTO members step up trade facilitation efforts",
+      "url": "https://www.wto.org/english/news_e/news26_e/tmwto_17nov26_552_e.htm",
+      "published": "2026-11-17T00:00:00Z",
+      "summary": "The pace of newly-introduced tariffs and other non-facilitating measures rose sharply in the first half of 2026, while the stockpile of such measures reached a record level, according to the WTO Director-General's latest annual overview of developments in t...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "who",
+      "publisher": "World Health Organization",
+      "title": "Governments make over 230 new pledges to prevent violence against children",
+      "url": "https://www.who.int/news/item/17-11-2026-governments-make-over-230-new-pledges-to-prevent-violence-against-children",
+      "published": "2026-11-17T00:00:00Z",
+      "summary": "WHO reported more than 230 new government commitments ahead of the global conference on ending violence against children in Manila.",
+      "category": "health",
+      "image": "",
+      "flagCode": "",
+      "locationLabel": "Manila, Philippines"
+    },
+    {
+      "source": "worldbank",
+      "publisher": "World Bank",
+      "title": "World Bank Group Puts Jobs at the Center of Climate Investment at COP31",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/17/world-bank-group-puts-jobs-at-the-center-of-climate-investment-at-cop31",
+      "published": "2026-11-17T00:00:00Z",
+      "summary": "At COP31 in Antalya, the World Bank Group highlighted climate finance and job creation projects.",
+      "category": "climate",
+      "image": "",
+      "flagCode": "",
+      "locationLabel": "Antalya, Türkiye"
+    },
+    {
+      "source": "worldbank",
+      "publisher": "World Bank",
+      "title": "World Bank Group Explores Regulated Stablecoins to Modernize Payments",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/11/17/world-bank-group-explores-regulated-stablecoins-to-modernize-payments-redirect-res",
+      "published": "2026-11-17T00:00:00Z",
+      "summary": "The World Bank Group announced that it would explore regulated stablecoin infrastructure for development-related payments.",
+      "category": "economy",
+      "image": "",
+      "flagCode": "",
+      "locationLabel": "Washington, United States"
+    },
+    {
+      "source": "ungeneva",
+      "publisher": "UN Geneva",
+      "title": "Committee against Torture Opens Eighty-Fifth Session in Geneva",
+      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-contre-la-torture-ouvre-les-travaux-de-sa-85e-session",
+      "published": "2026-11-16T11:46:58Z",
+      "summary": "The Committee against Torture this morning opened its eighty-fifth session, which is being held in Geneva from 16 November to 5 December. During the session, the Committee will review efforts by Angola, Belize, Norway and the Republic of Moldova to implemen...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "ungeneva",
+      "publisher": "UN Geneva",
+      "title": "New Permanent Representative of Israel Presents Credentials to the Director-General of the United Nations Office at Geneva",
+      "url": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/11/new-permanent-representative-israel-presents",
+      "published": "2026-11-16T08:48:51Z",
+      "summary": "Jonathan Peled, the new Permanent Representative of Israel to the United Nations Office at Geneva, today presented his credentials to Tatiana Valovaya, the Director-General of the United Nations Office at Geneva.Prior to his appointment in Geneva, Mr. Peled...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "DDG Nordquist: Global trade is adapting, not retreating",
+      "url": "https://www.wto.org/english/news_e/news26_e/ddgjn_16nov26_555_e.htm",
+      "published": "2026-11-16T00:00:00Z",
+      "summary": "Global trade has demonstrated remarkable resilience despite geopolitical tensions, supply chain disruptions and trade restrictions, with businesses adapting through diversification and new trading partnerships, Deputy Director-General DJ Nordquist said at t...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "ungeneva",
+      "publisher": "UN Geneva",
+      "title": "Committee on Economic, Social and Cultural Rights Concludes Eightieth Session after Adopting Concluding Observations on Reports of Austria, Eswatini, Mexico and Pakistan",
+      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-des-droits-economiques-sociaux-et-culturels-acheve-sa",
+      "published": "2026-11-13T17:48:28Z",
+      "summary": "The Committee on Economic, Social and Cultural Rights this afternoon concluded its eightieth session after adopting concluding observations on the reports of Austria, Eswatini, Mexico and Pakistan under the International Covenant on Economic, Social and Cul...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "who",
+      "publisher": "World Health Organization",
+      "title": "Member States reiterate commitment to finalize Pandemic Agreement PABS Annex by May 2027",
+      "url": "https://www.who.int/news/item/13-11-2026-member-states-reiterate-commitment-to-finalize-pandemic-agreement-pabs-annex-by-may-2027",
+      "published": "2026-11-13T00:00:00Z",
+      "summary": "Member States reaffirmed their timetable for completing the pathogen access and benefit-sharing annex to the WHO Pandemic Agreement.",
+      "category": "health",
+      "image": "",
+      "flagCode": "",
+      "locationLabel": "Geneva, Switzerland"
+    },
+    {
+      "source": "ungeneva",
+      "publisher": "UN Geneva",
+      "title": "New Permanent Representative of Malawi Presents Credentials to the Director-General of the United Nations Office at Geneva",
+      "url": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/11/new-permanent-representative-malawi-presents",
+      "published": "2026-11-10T11:59:32Z",
+      "summary": "Ambumulire Nellie Itimu Phiri, the new Permanent Representative of Malawi to the United Nations Office at Geneva, today presented her credentials to Tatiana Valovaya, the Director-General of the United Nations Office at Geneva.Prior to her appointment to Ge...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "ungeneva",
+      "publisher": "UN Geneva",
+      "title": "Le nouveau Représentant permanent d’El Salvador présente ses lettres de créance",
+      "url": "https://www.ungeneva.org/fr/news-media/presentation-of-credentials/2026/11/le-nouveau-representant-permanent-del-salvador",
+      "published": "2026-11-10T11:42:52Z",
+      "summary": "M. Agustín Vásquez Gómez a présenté aujourd’hui à Mme Tatiana Valovaya, Directrice générale de l’Office des Nations Unies à Genève, les pouvoirs l’accréditant comme Représentant permanent de la République d’El Salvador auprès de l’Office.Avant sa nomination...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "ungeneva",
+      "publisher": "UN Geneva",
+      "title": "Seventh Review Conference of the High Contracting Parties to the Convention on Certain Conventional Weapons (CCW)",
+      "url": "https://www.ungeneva.org/en/news-media/press-release/2026/11/seventh-review-conference-high-contracting-parties-convention",
+      "published": "2026-11-10T09:29:14Z",
+      "summary": "UNITED NATIONS OFFICE IN GENEVA, 10 November 2026 – The Seventh Review Conference of the High Contracting Parties to the Convention on Certain Conventional Weapons (CCW) will be held at the Palais des Nations in Geneva from 16 - 20 November 2026 under the p...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "ungeneva",
+      "publisher": "UN Geneva",
+      "title": "Human Rights Committee and Committee on Economic, Social and Cultural Rights Celebrate Sixtieth Anniversaries of their Covenants",
+      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-des-droits-economiques-sociaux-et-culturels-et-le",
+      "published": "2026-11-06T19:02:23Z",
+      "summary": "The Human Rights Committee and the Committee on Economic, Social and Cultural Rights this afternoon held an event to mark the sixtieth anniversaries of their respective Covenants, the International Covenant on Civil and Political Rightsand the International...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "ungeneva",
+      "publisher": "UN Geneva",
+      "title": "Experts of the Committee on Economic, Social and Cultural Rights Welcome Austria’s Expansion of Housing First Services, Raise Questions on Access to the Labour Market for Asylum Seekers and the Education of Minority Children",
+      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/examen-de-lautriche-au-comite-des-droits-economiques-sociaux-et",
+      "published": "2026-11-06T14:29:02Z",
+      "summary": "The Committee on Economic, Social and Cultural Rights today concluded its consideration of the fifth periodic report of Austria, during which it reviewed the State party’s efforts to implement the International Covenant on Economic, Social and Cultural Righ...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "geneva_meetings",
+      "publisher": "UN Geneva Meetings",
+      "title": "Committee on Economic, Social and Cultural Rights Commends Mexico for Progress in Reducing Poverty, Asks about Measures to Protect Human Rights Defenders and Reduce the Gender Wage Gap",
+      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/examen-du-mexique-au-comite-des-droits-economiques-sociaux-et",
+      "published": "2026-11-05T19:29:11Z",
+      "summary": "The Committee on Economic, Social and Cultural Rights today concluded its review of the seventh periodic report of Mexico under the International Covenant on Economic, Social and Cultural Rights, with Committee Experts commending the State’s progress in red...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva Meetings",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "geneva_meetings",
+      "publisher": "UN Geneva Meetings",
+      "title": "Human Rights Committee Adopts Reports on Follow-Up to Concluding Observations Concerning Bolivia, Iraq, Luxembourg, Togo and Uruguay",
+      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/human-rights-committee-adopts-reports-follow-concluding",
+      "published": "2026-11-05T17:20:59Z",
+      "summary": "The Human Rights Committee today adopted reports on follow-up to concluding observations concerning Bolivia, Iraq, Luxembourg, Togo and Uruguay. Yvonne Donders, Committee Expert and the Special Rapporteur on follow-up to concluding observations, said that a...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva Meetings",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "geneva_meetings",
+      "publisher": "UN Geneva Meetings",
+      "title": "In Dialogue with Pakistan, Experts of the Committee on Economic, Social and Cultural Rights Welcome Law Raising the Age of Marriage to 18, Ask about Bonded Labour and Rebuilding Efforts after the 2022 and 2025 Floods",
+      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/dialogue-pakistan-experts-committee-economic-social-and-cultural",
+      "published": "2026-11-04T14:52:36Z",
+      "summary": "The Committee on Economic, Social and Cultural Rights today concluded its review of the second periodic report of Pakistan under the International Covenant on Economic, Social and Cultural Rights, with Committee Experts welcoming the State’s 2025 legal amen...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva Meetings",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "geneva_meetings",
+      "publisher": "UN Geneva Meetings",
+      "title": "Committee on Economic, Social and Cultural Rights Commends Eswatini’s HIV Response, Raises Questions on the 2021 Civil Unrest and High Rates of Youth Unemployment",
+      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/committee-economic-social-and-cultural-rights-commends-eswatinis",
+      "published": "2026-11-03T15:26:49Z",
+      "summary": "The Committee on Economic, Social and Cultural Rights today concluded its review of the initial report of Eswatini on the State party’s efforts to implement the provisions of the International Covenant on Economic, Social and Cultural Rights, with Committee...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN Geneva Meetings",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "worldbank",
+      "publisher": "World Bank",
+      "title": "More and Better Jobs Key to Putting Poverty Reduction Back on Track",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/26/more-and-better-jobs-key-to-putting-poverty-reduction-back-on-track",
+      "published": "2026-10-26T00:00:00Z",
+      "summary": "World Bank analysis highlighted job creation as central to sustainable poverty reduction.",
+      "category": "economy",
+      "image": "",
+      "flagCode": "",
+      "locationLabel": "Washington, United States"
+    },
+    {
+      "source": "worldbank",
+      "publisher": "World Bank",
+      "title": "World Bank Group launches first digital strategy to expand access and create jobs",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
+      "published": "2026-10-20T00:00:00Z",
+      "summary": "The World Bank Group launched its first digital strategy in Seoul, focused on digital access, services, skills and jobs.",
+      "category": "economy",
+      "image": "",
+      "flagCode": "KOR",
+      "locationLabel": "Seoul, Republic of Korea"
+    },
+    {
+      "source": "imf",
+      "publisher": "International Monetary Fund",
+      "title": "IMF IMFC Press Briefing",
+      "url": "https://mediacenter.imf.org/news/imf-imfc-press-briefing/s/6c812df6-f0e8-4a3b-b663-22c9e888b440",
+      "published": "2026-10-17T00:00:00Z",
+      "summary": "At the IMF Annual Meeting in Bangkok, the IMFC chair and IMF managing director addressed growth, debt, conflicts and AI-related policy risks.",
+      "category": "economy",
+      "image": "",
+      "flagCode": "THA",
+      "locationLabel": "Bangkok, Thailand"
+    },
+    {
+      "source": "imf",
+      "publisher": "International Monetary Fund",
+      "title": "IMF Western Hemisphere Press Briefing",
+      "url": "https://mediacenter.imf.org/news/imf-western-hemisphere-press-briefing/s/72a4399e-0926-434c-826e-e684bfa95b3d",
+      "published": "2026-10-16T00:00:00Z",
+      "summary": "The IMF’s Western Hemisphere Department briefed from Bangkok on regional growth, inflation, trade, investment and debt pressures.",
+      "category": "economy",
+      "image": "",
+      "flagCode": "THA",
+      "locationLabel": "Bangkok, Thailand"
+    },
+    {
+      "source": "imf",
+      "publisher": "International Monetary Fund",
+      "title": "IMF Fiscal Monitor Press Briefing",
+      "url": "https://mediacenter.imf.org/news/imf-fiscal-monitor-press-briefing/s/a86f20e4-944a-44d2-8453-aaac954ee802",
+      "published": "2026-10-16T00:00:00Z",
+      "summary": "The IMF Fiscal Affairs Department outlined rising fiscal risks, energy-shock pressures and tax reform priorities at the Bangkok meetings.",
+      "category": "economy",
+      "image": "",
+      "flagCode": "THA",
+      "locationLabel": "Bangkok, Thailand"
+    },
+    {
+      "source": "imf",
+      "publisher": "International Monetary Fund",
+      "title": "IMF Middle East and Central Asia Department Press Briefing",
+      "url": "https://mediacenter.imf.org/news/imf-middle-east-and-central-asia-department-press-briefing/s/56766665-b5a3-4df2-8fd0-5c79b8bd9a97",
+      "published": "2026-10-15T00:00:00Z",
+      "summary": "An IMF press briefing in Bangkok covered growth, inflation and regional vulnerability across the Middle East and Central Asia.",
+      "category": "economy",
+      "image": "",
+      "flagCode": "THA",
+      "locationLabel": "Bangkok, Thailand"
+    },
+    {
+      "source": "imf",
+      "publisher": "International Monetary Fund",
+      "title": "IMF Asia Pacific Department Press Briefing",
+      "url": "https://mediacenter.imf.org/news/imf-asia-pacific-department-press-briefing/s/bbb3be9e-4560-44ee-9467-a437b643d42e",
+      "published": "2026-10-15T00:00:00Z",
+      "summary": "The IMF’s Asia and Pacific Department briefed from Bangkok on regional resilience, technology-driven growth and policy priorities.",
+      "category": "economy",
+      "image": "",
+      "flagCode": "THA",
+      "locationLabel": "Bangkok, Thailand"
+    },
+    {
+      "source": "who",
+      "publisher": "World Health Organization",
+      "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
+      "url": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
+      "published": "2026-10-10T07:49:45Z",
+      "summary": "Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving access to life-saving data: the SCORE for Health Data Technic...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Health Organization",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
+    },
+    {
+      "source": "who",
+      "publisher": "World Health Organization",
+      "title": "WHO releases new guidance to prevent heat-related illness at mass gatherings",
+      "url": "https://www.who.int/news/item/30-09-2026-who-releases-new-guidance-to-prevent-heat-related-illness-at-mass-gatherings",
+      "published": "2026-09-30T00:00:00Z",
+      "summary": "WHO published evidence-based guidance to help organizers prevent and manage heat-related illness at mass gatherings as extreme heat risks intensify.",
+      "category": "health",
+      "image": "",
+      "flagCode": "CHE",
+      "locationLabel": "Geneva, Switzerland"
+    },
+    {
+      "source": "who",
+      "publisher": "World Health Organization",
+      "title": "WHO reports latest global trends in cholera, meningitis and plague",
+      "url": "https://www.who.int/news/item/29-09-2026-who-reports-latest-global-trends-in-cholera--meningitis-and-plague",
+      "published": "2026-09-29T00:00:00Z",
+      "summary": "WHO updated the global picture for cholera, meningitis and plague, highlighting disease surveillance and response needs.",
+      "category": "health",
+      "image": "",
+      "flagCode": "CHE",
+      "locationLabel": "Geneva, Switzerland"
+    },
+    {
+      "source": "who",
+      "publisher": "World Health Organization",
+      "title": "World leaders renew commitment to protect the world from future pandemics",
+      "url": "https://www.who.int/news/item/25-09-2026-world-leaders-renew-commitment-to-protect-the-world-from-future-pandemics",
+      "published": "2026-09-25T00:00:00Z",
+      "summary": "Member states renewed commitments on pandemic preparedness during the UN General Assembly week, according to WHO.",
+      "category": "multilateral",
+      "image": "",
+      "flagCode": "USA",
+      "locationLabel": "New York, United States"
+    }
+  ],
+  "status": "partial",
+  "media_count": 24,
+  "sources": [
+    "un",
+    "bbc",
+    "ungeneva",
+    "geneva_meetings",
+    "who",
+    "wto"
+  ]
+}
