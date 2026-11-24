@@ -1,10 +1,10 @@
-# Diplomatic Atlas — v1.9
+# Diplomatic Atlas — v1.10
 
 Independent student research platform for international relations: interactive world atlas, 2D/3D source-linked diplomatic events, UN General Assembly voting explorer, country comparison and a negotiation simulator.
 
 ## Publish the website (one ZIP)
 
-1. Download **site-package.zip** from the latest ChatGPT release v1.9.
+1. Download **site-package.zip** from the latest ChatGPT release v1.10.
 2. Open this repository → **Add file → Upload files**, upload exactly **site-package.zip** to the root of `main`, and commit. Do not unpack the ZIP or upload an earlier release.
 3. Open **Settings → Pages → Build and deployment → Source**, select **GitHub Actions**.
 4. Open **Actions → Publish Diplomatic Atlas**. If the upload has not triggered it, choose **Run workflow**.
@@ -25,7 +25,7 @@ The configured workflow attempts to check these eight RSS feeds every **five min
 - IAEA: https://www.iaea.org/feeds/topnews
 - Council of the EU: https://www.consilium.europa.eu/en/rss/pressreleases.ashx/
 
-Feed URLs are configured, but their live response and publisher photo availability must be confirmed after deployment. Archived, source-attributed news is retained in `snapshot-cache/liveNews.json`. New items are kept when feeds subsequently omit them.
+Photos: article-specific publisher images are preferred. When unavailable, the GitHub build downloads four CC-licensed, clearly labelled institutional archive photographs from Wikimedia Commons (not photographs of the story event). License and author details are recorded in PHOTO_CREDITS.md and on each card. Publisher-image availability must still be confirmed after deployment. Archived, source-attributed news is retained in `snapshot-cache/liveNews.json`. New items are kept when feeds subsequently omit them.
 
 ### Diplomatic Signals: automatic 2D / 3D map updates
 
