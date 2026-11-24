@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - site-package.zip
+      - 'deploy/**'
       - .github/workflows/publish.yml
   schedule:
     - cron: '*/5 * * * *'
@@ -77,6 +78,23 @@ jobs:
           node --check site/src/app.js
           node deploy/test_studio.cjs
 
+      - name: Search visibility and cache migration
+        run: |
+          python deploy/search_visibility.py site
+          python - <<'PY'
+          import pathlib,xml.etree.ElementTree as ET
+          root=pathlib.Path('site')
+          p=(root/'index.html').read_text()
+          assert '<title>Diplomatic Atlas | International Relations Research Platform</title>' in p
+          assert 'src/app.js?v=20261124-studio-seo2' in p
+          assert 'src/studio.js?v=20261124-studio-seo2' in p
+          assert 'rel="canonical"' in p
+          assert 'research-studio.html' in p
+          assert 'Research Studio' in (root/'research-studio.html').read_text()
+          assert 'diplomatic-atlas-static-20261124-studio-seo2' in (root/'service-worker.js').read_text()
+          ET.parse(root/'sitemap.xml')
+          print('SEO title, unique URLs, cache-busting, and sitemap validated.')
+          PY
       - name: Test original bundled application before replacing seed data
         working-directory: site
         run: |
@@ -233,6 +251,7 @@ jobs:
         run: |
           mkdir -p public
           cp site/index.html site/manifest.webmanifest site/service-worker.js public/
+          cp site/research-studio.html site/sitemap.xml site/robots.txt public/
           cp -R site/assets site/data site/src public/
           if [ -f site/PHOTO_CREDITS.md ]; then cp site/PHOTO_CREDITS.md public/; fi
           touch public/.nojekyll
@@ -248,6 +267,7 @@ jobs:
           path: public
 
       - name: Wait until Pages artifact is visible in GitHub API
+        if: steps.persist.outputs.changed == 'true' || github.event_name != 'schedule'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
