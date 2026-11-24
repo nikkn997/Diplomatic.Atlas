@@ -32,6 +32,9 @@ for name in ('integrate_studio.py','search_visibility.py'):
 page=SITE/'index.html'
 html=page.read_text(encoding='utf-8')
 assert '</body>' in html
+# Supply a visible initial heading until the SPA replaces the body.
+if '<h1' not in html.lower():
+    html=html.replace('<body>','<body><main id="atlas-initial" style="padding:2rem"><h1>Diplomatic Atlas</h1><p>International relations research and education.</p><a href="./research-studio.html">Research Studio</a></main>',1)
 html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261124-live1"></script>\n</body>',1)
 # Keep the already indexed GitHub URL canonical during the parallel-host test.
 # No ownership tokens for the old host are included in this deployment.
