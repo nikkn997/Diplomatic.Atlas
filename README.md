@@ -1,23 +1,40 @@
-# Diplomatic Atlas
+# Diplomatic Atlas — v1.9
 
-Independent international-relations research website with interactive country atlas, sourced diplomatic events, UN voting records, country comparisons, a negotiation simulator and a multilingual world briefing.
+Independent student research platform for international relations: interactive world atlas, 2D/3D source-linked diplomatic events, UN General Assembly voting explorer, country comparison and a negotiation simulator.
 
-## Publish v1.8 (one file)
+## Publish the website (one ZIP)
 
-1. Download the **site-package.zip** supplied in ChatGPT (v1.8).
-2. In this repo: **Add file → Upload files**, drag **site-package.zip** into the root, choose the `main` branch and commit.
-3. Open **Settings → Pages → Build and deployment → Source → GitHub Actions**.
-4. Open **Actions → Publish Diplomatic Atlas**, use **Run workflow** if needed.
-5. After successful deployment, the site should be at: https://nikkn997.github.io/Diplomatic.Atlas/
+1. Download **site-package.zip** from the latest ChatGPT release v1.9.
+2. Open this repository → **Add file → Upload files**, upload exactly **site-package.zip** to the root of `main`, and commit. Do not unpack the ZIP or upload an earlier release.
+3. Open **Settings → Pages → Build and deployment → Source**, select **GitHub Actions**.
+4. Open **Actions → Publish Diplomatic Atlas**. If the upload has not triggered it, choose **Run workflow**.
+5. Once the workflow succeeds, the public site will be: https://nikkn997.github.io/Diplomatic.Atlas/
 
-Do not upload a nested project folder or rename the ZIP; the workflow checks for `site-package.zip` exactly.
+**The site is not published until the ZIP is present and a deployment succeeds.**
 
-## Automated updates and language support
+## Fully automated, source-linked updates
 
-The scheduled workflow (about every six hours, subject to GitHub scheduling and upstream availability) fetches publisher RSS updates, confirmed geographic event pins and World Bank indicators. Images are displayed only when supplied by publishers and available for use; not every story provides an image.
+The configured workflow attempts to check these eight RSS feeds every **five minutes** (GitHub schedule delays/omissions are possible):
 
-The news section has a curated translated archive in all six UN languages. For newer English-language news, the workflow attempts **free offline Argos Translate models** for Russian, French, Spanish, Arabic and Chinese. When translation is unavailable, an explicit English-original label appears. Translations are unofficial and original source links are preserved.
+- UN News: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+- BBC World: https://feeds.bbci.co.uk/news/world/rss.xml
+- UN Geneva press items: https://www.ungeneva.org/news-media/press-items-list/rss.xml
+- UN Geneva meeting summaries: https://www.ungeneva.org/news-media/meeting-summaries-list/rss.xml
+- WHO: https://www.who.int/rss-feeds/news-english.xml
+- WTO: https://www.wto.org/library/rss/latest_news_e.xml
+- IAEA: https://www.iaea.org/feeds/topnews
+- Council of the EU: https://www.consilium.europa.eu/en/rss/pressreleases.ashx/
 
-Capitals use CLDR-based exonyms and curated conventional translations. This is not a live political-position dataset.
+Feed URLs are configured, but their live response and publisher photo availability must be confirmed after deployment. Archived, source-attributed news is retained in `snapshot-cache/liveNews.json`. New items are kept when feeds subsequently omit them.
 
-The project has no affiliation with the United Nations.
+### Diplomatic Signals: automatic 2D / 3D map updates
+
+The same news refresh checks official institutional headlines for a clearly specified city of **talks, summit, meeting, conference or negotiations**. Only headlines with a recognized city and source URL become map pins with approximate city-centre coordinates. They appear on both 2D and 3D after publication. **No diplomatic attendee or inter-country line is automatically invented from a headline.** Original sources and qualification are displayed. The retained file is `snapshot-cache/liveEvents.json`.
+
+World Bank indicators are refreshed about every six hours. Free Argos Translate is attempted for new publisher headings when translation models can be obtained; otherwise the English original is labeled.
+
+GitHub Pages is static hosting, not a continuously streaming real-time backend. Some feeds publish late or omit photographs. Publisher media may have reuse restrictions; show original links and attributions. GitHub Actions with standard GitHub-hosted runners is free for public repositories, subject to platform limitations.
+
+## Methodology
+
+All geopolitical references are educational, not government positions or claims about alignment. Diplomatic Atlas is independent and **not affiliated with the UN**.
