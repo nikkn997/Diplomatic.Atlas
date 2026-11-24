@@ -13,7 +13,7 @@ import sys
 from xml.sax.saxutils import escape
 
 SITE = "https://nikkn997.github.io/Diplomatic.Atlas/"
-REV = "20261124-i18n3"
+REV = "20261124-globe1"
 TITLE = "Diplomatic Atlas | International Relations Research Platform"
 DESC = ("Diplomatic Atlas: independent international relations research with a world atlas, UN voting records, diplomatic events and a Research Studio.")
 
@@ -60,7 +60,7 @@ def main(root):
 
     # Versioned asset URLs bypass the old service worker's cache-first lookup.
     # They are stable across frequent RSS-only refreshes, avoiding pointless asset downloads.
-    for asset in ("src/app.js", "src/studio.js", "src/studio.css", "data/release.js"):
+    for asset in ("src/app.js", "src/globe.js", "src/studio.js", "src/studio.css", "data/release.js"):
         page = page.replace('"' + asset + '"', '"' + asset + "?v=" + REV + '"')
 
     if "research-studio.html" not in page:
@@ -104,7 +104,7 @@ def main(root):
     # Network-first for changed program files, retain offline fallback.
     sw = sw.replace(
         "if(dynamic||event.request.mode==='navigate'){",
-        "const freshAssets=/\\/(?:src\\/(?:app|studio)\\.(?:js|css)|data\\/release\\.js)$/.test(url.pathname);\n"
+        "const freshAssets=/\\/(?:src\\/(?:app|globe|studio)\\.(?:js|css)|data\\/release\\.js)$/.test(url.pathname);\n"
         "  if(dynamic||freshAssets||event.request.mode==='navigate'){"
     )
     swpath.write_text(sw, encoding="utf-8")

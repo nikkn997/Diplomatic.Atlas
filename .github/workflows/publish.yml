@@ -69,6 +69,27 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install improved shared globe and test pointer projection
+        run: |
+          cp deploy/globe.js site/src/globe.js
+          node --check site/src/globe.js
+          node - <<'JS'
+          const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+          const handlers={};
+          const sandbox={window:{},performance:{now:()=>0}};
+          vm.runInNewContext(fs.readFileSync('site/src/globe.js','utf8'),sandbox);
+          const globe=Object.create(sandbox.window.AtlasGlobe.prototype);
+          Object.assign(globe,{yaw:0,pitch:0,radius:.78,opts:{},draw(){},canvas:{addEventListener:(n,f)=>handlers[n]=f,setPointerCapture(){},getBoundingClientRect:()=>({width:800,height:600})}});
+          globe.events();
+          const event=(x,y)=>({clientX:x,clientY:y,pointerId:1,button:0,isPrimary:true});
+          handlers.pointerdown(event(100,100));handlers.pointermove(event(120,100));
+          assert.ok(globe.project(0,0).x>400,'Landmark must move right when dragged right');
+          handlers.pointermove(event(120,120));
+          assert.ok(globe.project(0,0).y>300,'Landmark must move down when dragged down');
+          handlers.pointercancel(event(120,120));assert.equal(globe.drag,false);
+          console.log('Globe drag direction and canceled pointer: OK');
+          JS
+
       - name: Install and validate Research Studio
         run: |
           cp deploy/studio.js site/src/studio.js
@@ -86,12 +107,12 @@ jobs:
           root=pathlib.Path('site')
           p=(root/'index.html').read_text()
           assert '<title>Diplomatic Atlas | International Relations Research Platform</title>' in p
-          assert 'src/app.js?v=20261124-i18n3' in p
-          assert 'src/studio.js?v=20261124-i18n3' in p
+          assert 'src/app.js?v=20261124-globe1' in p
+          assert 'src/studio.js?v=20261124-globe1' in p
           assert 'rel="canonical"' in p
           assert 'research-studio.html' in p
           assert 'Research Studio' in (root/'research-studio.html').read_text()
-          assert 'diplomatic-atlas-static-20261124-i18n3' in (root/'service-worker.js').read_text()
+          assert 'diplomatic-atlas-static-20261124-globe1' in (root/'service-worker.js').read_text()
           ET.parse(root/'sitemap.xml')
           print('SEO title, unique URLs, cache-busting, and sitemap validated.')
           PY
@@ -242,7 +263,7 @@ jobs:
           import datetime as dt, hashlib, json, os, pathlib, urllib.request
           root=pathlib.Path('site')
           files=['index.html','service-worker.js','src/app.js','src/studio.js','src/studio.css',
-                 'src/live_intelligence.js','data/release.js',
+                 'src/live_intelligence.js','src/globe.js','data/release.js',
                  'data/liveNews.json','data/liveNews.js','data/liveEvents.json','data/liveEvents.js',
                  'data/indicators.json','data/indicators.js']
           h=hashlib.sha256()
