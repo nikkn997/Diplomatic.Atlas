@@ -157,6 +157,11 @@ jobs:
             git push
           fi
 
+      - name: Cache clearly labeled CC-licensed institutional reference photos
+        run: python site/scripts/fetch_reference_photos.py
+        timeout-minutes: 4
+        continue-on-error: true
+
       - name: Prepare static Pages site
         if: steps.persist.outputs.changed == 'true' || github.event_name != 'schedule'
         run: |
