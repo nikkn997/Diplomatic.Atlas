@@ -95,6 +95,37 @@ jobs:
           ET.parse(root/'sitemap.xml')
           print('SEO title, unique URLs, cache-busting, and sitemap validated.')
           PY
+      - name: Install Live Intelligence localization and freshness monitor
+        run: |
+          cp deploy/live_intelligence.js site/src/live_intelligence.js
+          node --check site/src/live_intelligence.js
+          node - <<'JS'
+          const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+          const sandbox={window:{}};
+          vm.runInNewContext(fs.readFileSync('site/src/live_intelligence.js','utf8'),sandbox);
+          const translate=sandbox.window.AtlasLiveUI.translate;
+          for(const lang of ['ru','fr','es','ar','zh']){
+            assert.notEqual(translate('UN Forum on Business and Human Rights opens in Geneva',lang),'UN Forum on Business and Human Rights opens in Geneva');
+            assert.notEqual(translate('01 / UNITED NATIONS',lang),'01 / UNITED NATIONS');
+            assert.notEqual(translate('UN Digital Library',lang),'UN Digital Library');
+          }
+          assert.equal(translate('UN Digital Library','en'),'UN Digital Library');
+          assert.equal(translate('BBC News','ru'),'BBC News');
+          console.log('Targeted localization tested for six languages.');
+          JS
+          python - <<'PY'
+          import pathlib
+          root=pathlib.Path('site')
+          index=root/'index.html'
+          html=index.read_text(encoding='utf-8')
+          assert '</body>' in html
+          html=html.replace('</body>', '<script src="src/live_intelligence.js?v=20261124-live1"></script>\n</body>',1)
+          index.write_text(html,encoding='utf-8')
+          release=root/'data/release.js'
+          content=release.read_text(encoding='utf-8')
+          release.write_text(content.replace('v1.12','v1.13'),encoding='utf-8')
+          PY
+
       - name: Test original bundled application before replacing seed data
         working-directory: site
         run: |
@@ -211,6 +242,7 @@ jobs:
           import datetime as dt, hashlib, json, os, pathlib, urllib.request
           root=pathlib.Path('site')
           files=['index.html','service-worker.js','src/app.js','src/studio.js','src/studio.css',
+                 'src/live_intelligence.js','data/release.js',
                  'data/liveNews.json','data/liveNews.js','data/liveEvents.json','data/liveEvents.js',
                  'data/indicators.json','data/indicators.js']
           h=hashlib.sha256()
