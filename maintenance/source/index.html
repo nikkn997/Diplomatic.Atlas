@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#142b30">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Diplomatic Atlas — Global Research Lab">
+  <meta property="og:description" content="Explore source-linked diplomatic events, international data and interactive negotiation scenarios.">
+  <meta name="description" content="Diplomatic Atlas — independent international relations research and education project. Interactive cartography, country profiles, official UN voting records, and fictional negotiation exercises.">
+  <title>Diplomatic Atlas — Release 1.11</title>
+  <link rel="icon" href="assets/images/mark.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Cormorant+Garamond:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#screen">Skip to content</a>
+  <noscript>Diplomatic Atlas requires JavaScript for its interactive maps and educational tools.</noscript>
+  <script src="data/world.js"></script>
+  <script src="data/countries.js"></script>
+  <script src="data/capitals.js"></script>
+  <script src="data/strings.js"></script>
+  <script src="data/additions.js"></script>
+  <script src="data/release.js"></script>
+  <script src="data/events.js"></script>
+  <script src="data/liveEvents.js"></script>
+  <script src="data/votes.js"></script>
+  <script src="data/earthTexture.js"></script>
+  <script src="data/liveNews.js"></script>
+  <script src="data/newsArchive.js"></script>
+  <script src="data/storyPhotos.js"></script>
+  <script src="data/newsTranslations.js"></script>
+  <script src="data/indicators.js"></script>
+  <script src="src/globe.js"></script>
+  <script src="src/signals.js"></script>
+  <script src="src/live.js"></script>
+  <script src="src/app.js"></script>
+  <script src="src/command.js"></script>
+  <script>if((location.protocol==='https:'||location.hostname==='localhost')&&'serviceWorker' in navigator){window.addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js').catch(()=>{}));}</script>
+</body>
+</html>
