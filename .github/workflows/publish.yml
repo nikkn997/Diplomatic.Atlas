@@ -7,11 +7,11 @@ on:
       - site-package.zip
       - .github/workflows/publish.yml
   schedule:
-    - cron: '17 */6 * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -23,7 +23,7 @@ jobs:
   verify-refresh-deploy:
     if: github.event_name != 'push' || github.event.head_commit.message != '[skip pages]'
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 25
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -67,42 +67,98 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Check application and data
+      - name: Restore retained snapshots from earlier successful runs
+        run: |
+          mkdir -p site/data
+          for file in liveNews.json liveNews.js liveEvents.json liveEvents.js indicators.json indicators.js; do
+            if [ -s "snapshot-cache/$file" ]; then
+              cp "snapshot-cache/$file" "site/data/$file"
+            fi
+          done
+
+      - name: Refresh news from eight publisher and institutional feeds
+        id: news
+        run: |
+          cp site/data/liveNews.json /tmp/atlas-before-news.json
+          (cd site && python scripts/update_news.py) || echo "RSS unavailable; retaining previous snapshot."
+          if cmp -s /tmp/atlas-before-news.json site/data/liveNews.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Extract source-qualified geographic meeting pins
+        run: |
+          (cd site && python scripts/update_events.py --from-news-snapshot) || echo "No new city-verified meeting locations."
+
+      - name: Cache free translation models
+        if: steps.news.outputs.changed == 'true'
+        uses: actions/cache@v4
+        with:
+          path: ~/.local/share/argos-translate
+          key: argos-unofficial-language-models-v1
+          restore-keys: argos-unofficial-language-models-
+
+      - name: Install optional free translation engine
+        if: steps.news.outputs.changed == 'true'
+        run: python -m pip install --disable-pip-version-check 'argostranslate>=1.10,<2'
+        timeout-minutes: 5
+        continue-on-error: true
+
+      - name: Translate new publisher headlines when offline models exist
+        if: steps.news.outputs.changed == 'true'
+        working-directory: site
+        run: python scripts/update_translations.py --install-models
+        timeout-minutes: 10
+        continue-on-error: true
+
+      - name: Refresh World Bank data only if six hours old
+        run: |
+          python - <<'PY'
+          import pathlib,json,datetime as dt,subprocess
+          p=pathlib.Path('site/data/indicators.json')
+          last=None
+          try:
+              value=json.loads(p.read_text()).get('updated_at')
+              if value:last=dt.datetime.fromisoformat(value.replace('Z','+00:00'))
+          except (OSError,ValueError,TypeError):pass
+          now=dt.datetime.now(dt.timezone.utc)
+          if last is None or now-last>=dt.timedelta(hours=6):
+              subprocess.run(['python','scripts/update_indicators.py'],cwd='site',check=False)
+          else:print('WDI refresh not due yet.')
+          PY
+
+      - name: Validate snapshots and website
         working-directory: site
         run: |
           npm run check
           npm test
           python -m unittest discover -s tests -p 'test_news_fetch.py' -v
-          python -m unittest discover -s tests -p 'test_indicators_fetch.py' -v
           python -m unittest discover -s tests -p 'test_events_fetch.py' -v
+          python -m unittest discover -s tests -p 'test_indicators_fetch.py' -v
           python -m unittest discover -s tests -p 'test_translations.py' -v
 
-      - name: Refresh available official feeds
-        working-directory: site
+      - name: Preserve new snapshots as versioned repository data
+        id: persist
         run: |
-          python scripts/update_news.py || echo "News refresh unavailable; retaining existing snapshot."
-          python scripts/update_events.py || echo "Event refresh unavailable; retaining existing snapshot."
-          python scripts/update_indicators.py || echo "Indicators unavailable; retaining existing snapshot."
-
-      - name: Cache optional offline translation models
-        uses: actions/cache@v4
-        with:
-          path: ~/.local/share/argos-translate
-          key: argos-offline-models-v1
-          restore-keys: argos-offline-models-
-
-      - name: Install optional free translation engine
-        run: python -m pip install --disable-pip-version-check 'argostranslate>=1.10,<2'
-        timeout-minutes: 7
-        continue-on-error: true
-
-      - name: Translate newly retrieved headlines into five languages
-        working-directory: site
-        run: python scripts/update_translations.py --install-models
-        timeout-minutes: 15
-        continue-on-error: true
+          mkdir -p snapshot-cache
+          for file in liveNews.json liveNews.js liveEvents.json liveEvents.js indicators.json indicators.js; do
+            cp "site/data/$file" "snapshot-cache/$file"
+          done
+          git add snapshot-cache
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No new records; deployment not required."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'data: refresh news and venue snapshots [skip pages]'
+            git push
+          fi
 
       - name: Prepare static Pages site
+        if: steps.persist.outputs.changed == 'true' || github.event_name != 'schedule'
         run: |
           mkdir -p public
           cp site/index.html site/manifest.webmanifest site/service-worker.js public/
@@ -110,13 +166,16 @@ jobs:
           touch public/.nojekyll
 
       - name: Configure Pages
+        if: steps.persist.outputs.changed == 'true' || github.event_name != 'schedule'
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
+        if: steps.persist.outputs.changed == 'true' || github.event_name != 'schedule'
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
       - name: Deploy
+        if: steps.persist.outputs.changed == 'true' || github.event_name != 'schedule'
         id: deployment
         uses: actions/deploy-pages@v4
