@@ -1,20 +1,104 @@
 {
-  "updated_at": "2026-11-25T05:41:19Z",
+  "updated_at": "2026-11-25T10:32:25Z",
   "items": [
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+      "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T07:26:54Z",
+      "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "translations": {
+        "ru": {
+          "title": "Зимбабве выдало ордер на арест сына Роберта Мугабе из-за пропущенной даты суда",
+          "summary": "Сын бывшего президента Зимбабве Роберта Мугабе в последнее время столкнулся с многочисленными юридическими проблемами.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le Zimbabwe délivre un mandat d'arrêt pour le fils de Robert Mugabe sur la date du procès manqué",
+          "summary": "Le fils de l'ancien président du Zimbabwe, Robert Mugabe, a récemment connu de multiples problèmes juridiques.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Zimbabue emite orden de arresto para el hijo de Robert Mugabe sobre la fecha de la corte perdida",
+          "summary": "El hijo del ex presidente de Zimbabwe Robert Mugabe ha enfrentado múltiples problemas legales en el pasado reciente.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "أمر إعتقال (زمبابوي) لإبن (روبرت موغابي) على موعد المحكمة",
+          "summary": "ابن رئيس زمبابوي السابق الراحل روبرت موغابي واجه مشاكل قانونية متعددة في الماضي القريب",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "津巴布韦对罗伯特·穆加贝的儿子发出逮捕令,因为错过了开庭日期",
+          "summary": "津巴布韦已故前总统罗伯特·穆加贝之子近日遭遇多重法律麻烦.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T07:08:22Z",
+      "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb6d/live/6e173110-e899-11f1-801d-b916df288324.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "translations": {
+        "ru": {
+          "title": "Двое детей из шести погибли после авиакатастрофы у побережья Миссисипи",
+          "summary": "Дайверы обнаружили тела четырех взрослых и двух мальчиков в возрасте 8 и 10 лет в фюзеляже.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Deux enfants parmi six morts après un accident d'avion au large de la côte du Mississippi",
+          "summary": "Les plongeurs ont trouvé les corps de quatre adultes et deux garçons, âgés de 8 et 10 ans, dans le fuselage, a déclaré la Garde côtière américaine.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Dos niños entre seis muertos después del accidente aéreo en la costa de Mississippi",
+          "summary": "Divers encontró los cuerpos de cuatro adultos y dos chicos, de 8 y 10 años, en el fuselaje, dijo la Guardia Costera de Estados Unidos.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "طفلان من بين ستة موتى بعد تحطم طائرة على ساحل ميسيسيبي",
+          "summary": "وجد (ديفرز) جثث أربعة من الكبار وطفلين، تتراوح أعمارهم بين 8 و10 سنوات، في النسيج، قال خفر السواحل الأمريكي.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "在密西西比州海岸空难后 六人中有两名儿童丧生",
+          "summary": "美国海岸警卫队说,潜水员在机身中发现了4名成年人和2名8岁和10岁男孩的尸体。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
       "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T04:49:55Z",
-      "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+      "published": "2026-11-25T06:36:00Z",
+      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Килмар Абрего Гарсия покидает США и отправляется в Испанию, заканчивая битву за депортацию Трампа",
@@ -41,6 +125,48 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
+      "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T06:00:36Z",
+      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "translations": {
+        "ru": {
+          "title": "Спустя четыре года после крушения огромного астероида космический корабль вернулся, чтобы оценить ущерб.",
+          "summary": "Миссия изучает астероид, намеренно сбитый с курса сталкивающимся космическим кораблем.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Quatre ans après un énorme accident d'astéroïde, un vaisseau spatial est revenu pour évaluer les dommages",
+          "summary": "La mission étudie un astéroïde délibérément renversé par un vaisseau en collision.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Cuatro años después de un enorme accidente de asteroides, una nave espacial ha regresado para evaluar el daño",
+          "summary": "La misión está estudiando un asteroide deliberadamente derribado por una nave espacial colisionante.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "بعد أربع سنوات من تحطم الكويكب الضخم، عادت مركبة فضائية الآن لتقييم الضرر",
+          "summary": "المُهمّة تُدرسُ a كويكب مُتعمد أَسقطَ مِنْ المسارِ مِن قِبل a مركبة فضائية متطوّرة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "巨型小行星坠毁四年后 一艘飞船已经返回评估损坏情况",
+          "summary": "该任务正在研究一颗小行星被一个碰撞航天器故意撞断航线.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
       "title": "US attorney general dodges questions about Nvidia investigation",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T03:44:07Z",
@@ -51,7 +177,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Генеральный прокурор США уклоняется от вопросов о расследовании Nvidia",
@@ -93,7 +219,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Китайская космическая миссия стартовала с первым пакистанским астронавтом на борту",
@@ -125,7 +251,7 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
       "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T02:59:27Z",
       "summary": "The verdict follows a months-long trial in New York.",
@@ -135,7 +261,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Huawei признана виновной в краже коммерческой тайны, но оправдана за рэкет",
@@ -167,7 +293,7 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
+      "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
       "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T01:51:43Z",
       "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
@@ -177,7 +303,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Ложь, маскировка и сумки для серфинга: как ревнивый полицейский Сиднея пытался скрыть двойное убийство",
@@ -209,7 +335,7 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "title": "Thomas Markle charged in US for possessing child sex abuse images",
       "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T01:40:42Z",
       "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
@@ -219,7 +345,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Томас Маркл обвиняется в США в хранении изображений сексуального насилия над детьми",
@@ -251,6 +377,48 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
+      "title": "Trump's rescue of Nvidia's Huang brings political risks",
+      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T01:03:05Z",
+      "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c9b4/live/d081e3d0-e8a4-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "translations": {
+        "ru": {
+          "title": "Спасение Трампом Хуана из Nvidia несет политические риски",
+          "summary": "Заступничество президента США по восстановлению гендиректора Дженсена Хуанга неразрывно связано с их судьбой.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le sauvetage du Huang de Nvidia par Trump présente des risques politiques",
+          "summary": "L'intercession du président américain pour rétablir le PDG Jensen Huang a inextricablement lié leur sort.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El rescate de Trump por Huang de Nvidia conlleva riesgos políticos",
+          "summary": "La intercesión del presidente estadounidense para reincorporar al CEO Jensen Huang ha vinculado inextricablemente sus destinos.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "إنقاذ (ترامب) من (هونغ) لـ(نيفيديا) يجلب مخاطر سياسية",
+          "summary": "تنازل الرئيس الأمريكي لإعادة الرئيس التنفيذي (جينسن هوانغ) قد ربط مصيرهم بشكل لا ينفصم",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "特朗普营救恩维迪亚的黄帅带来政治风险",
+          "summary": "美国总统为恢复CEO黄詹森的交涉 使他们的命运密不可分",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
       "title": "The rising cost of putting food on the table in India",
       "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T01:02:13Z",
@@ -261,7 +429,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Рост цен на продукты питания в Индии",
@@ -303,7 +471,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Выстрел в лицо в 15: Жизнь, разрушенная десятилетием конфликта в Камеруне",
@@ -340,7 +508,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Столкновение политических взглядов отражает раскол Испании перед выборами",
@@ -372,7 +540,7 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
       "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T00:56:51Z",
       "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
@@ -382,7 +550,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Собственные данные России показывают почти 500 000 смертей в войне на Украине.",
@@ -424,7 +592,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Моя семья умерла в Украине. Моя мама обвинила войска Зеленского - правда сложная",
@@ -456,7 +624,49 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "title": "US preparing to unveil plan for new tariffs on global trading partners",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T00:38:01Z",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "translations": {
+        "ru": {
+          "title": "США готовятся представить план новых тарифов для глобальных торговых партнеров",
+          "summary": "Новые пошлины ударят по многим крупнейшим торговым партнерам Америки, включая Китай и ЕС.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les États-Unis se préparent à dévoiler leur plan de nouveaux tarifs sur les partenaires commerciaux mondiaux",
+          "summary": "Les nouveaux prélèvements toucheraient un grand nombre des plus grands partenaires commerciaux américains, y compris la Chine et l'UE.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Estados Unidos se prepara para revelar un plan para nuevos aranceles sobre socios comerciales globales",
+          "summary": "Los nuevos impuestos golpearían a muchos de los mayores socios comerciales de Estados Unidos, incluyendo China y la UE.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الولايات المتحدة تستعد لوضع خطة لكشف تعريفات جديدة على الشركاء التجاريين العالميين",
+          "summary": "الجذام الجديدة ستضرب العديد من أكبر شركاء أمريكا التجاريين بما فيهم الصين والاتحاد الأوروبي",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "美国准备公布全球贸易伙伴新关税计划",
+          "summary": "新税将打击美国许多最大的贸易伙伴,包括中国和欧盟。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
       "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T23:05:11Z",
       "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
@@ -466,7 +676,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Связанная с Китаем сеть использует подделки ИИ, чтобы очернить кандидатов на выборах в Тайване, сообщает BBC Verify",
@@ -508,7 +718,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Эти северокорейцы говорят, что за ними шпионили, избивали и сажали в тюрьму за то, что они христиане.",
@@ -540,7 +750,7 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Watch: Flock of turkeys chases woman on Massachusetts sidewalk",
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
       "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T22:07:30Z",
       "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
@@ -550,7 +760,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Стая индеек преследует женщину на тротуаре Массачусетса",
@@ -634,7 +844,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "92-летний нигерийский монарх отстранен от должности после обвинений в сексуальном насилии",
@@ -671,7 +881,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Лидер индийской партии тараканов заявил, что ему запретили летать в Великобританию",
@@ -755,7 +965,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Экс-президент Франции Саркози и его жена Карла Бруни предстанут перед судом",
@@ -797,7 +1007,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Израильский авиаудар убил начальника внутренней безопасности ХАМАСа в Газе",
@@ -839,7 +1049,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Потери от мин в Сирии возросли через два года после войны",
@@ -918,7 +1128,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "World News in Brief: Вакцинный кризис в Йемене, помощь Украине, еще один сотрудник БАПОР убит",
@@ -955,7 +1165,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Десятилетия успехов в борьбе со СПИДом могут рухнуть, поскольку финансирование борьбы с ВИЧ истощается",
@@ -997,7 +1207,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "«Слишком много неудач»: последний призыв заместителя главы ООН прекратить насилие в отношении женщин",
@@ -1034,7 +1244,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Совет Безопасности: Может ли разрешение конфликтов идти в ногу с ИИ и дронами, которые меняют ход войны?",
@@ -1076,7 +1286,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "ДР Конго: Углубляется обеспокоенность по поводу застрявших в ловушке работников Эбола из-за насилия в отношении женщин и девочек",
@@ -1113,7 +1322,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "Колумбия: Гутерриш призывает к возобновлению приверженности мирному соглашению",
@@ -3338,7 +3546,7 @@
     }
   ],
   "status": "partial",
-  "media_count": 46,
+  "media_count": 51,
   "sources": [
     "un",
     "bbc",
