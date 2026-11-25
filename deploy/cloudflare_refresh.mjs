@@ -23,7 +23,7 @@ export function parseFeed(xml,key,now=Date.now()){
   const title=plain(tag(item,'title'));
   const link=plain(tag(item,'link'))||Array.from(item.matchAll(/<link\b[^>]*>/gi)).map(x=>x[0]).filter(x=>!attr(x,'rel')||attr(x,'rel')==='alternate').map(x=>attr(x,'href')).find(Boolean)||'';
   const url=safe(link,allowed);
-  const t=Date.parse(plain(tag(item,'pubDate')||tag(item,'published')||tag(item,'updated')));
+  const rawDate=plain(tag(item,'pubDate')||tag(item,'published')||tag(item,'dc:date')||tag(item,'dcterms:issued')||tag(item,'date'));const t=Date.parse(rawDate);const timePrecision=/\d{1,2}:\d{2}/.test(rawDate)&&!(/T00:00:00(?:Z|[+-]00:00)$/.test(rawDate))?'time':'date';
   if(!url||title.length<12||title.length>240||!Number.isFinite(t)||t>now+86400000||t<now-62*86400000)continue;
   const description=plain(tag(item,'description')||tag(item,'summary')||tag(item,'content:encoded'));
   const summary=description.length>260?description.slice(0,257)+'...':description;
@@ -36,7 +36,7 @@ export function parseFeed(xml,key,now=Date.now()){
     if(!/\.(jpg|jpeg|png|webp|avif)(\?|$)|\/image[s]?\/|\/sites\/default\/files\/|\/media\/|\/resources\/|ichef\.bbci/i.test(link))continue;
     if(!image||w>width){image=link;width=w;}
   }
-  result.push({source:key,publisher,title,url,published:iso(t),summary,image,category:'news',locationLabel:publisher,flagCode:'',imageCredit:image?publisher:'',imageType:image?'publisher RSS media':''});
+  result.push({source:key,publisher,title,url,published:iso(t),timePrecision,summary,image,category:'news',locationLabel:publisher,flagCode:'',imageCredit:image?publisher:'',imageType:image?'publisher RSS media':''});
  }
  return result;
 }
@@ -78,7 +78,7 @@ async function refresh(env){
    const text=await r.text();
    return {key,items:parseFeed(text,key,now)};
  }));
- const ok=[],rows=[];for(const r of settled)if(r.status==='fulfilled'){ok.push(r.value.key);rows.push(...r.value.items);}
+ const ok=[],rows=[],diagnostics={};for(const [i,r] of settled.entries()){const key=Object.keys(FEEDS)[i];if(r.status==='fulfilled'){const count=r.value.items.length;diagnostics[key]={status:count?'ok':'empty',count};if(count)ok.push(key);rows.push(...r.value.items);}else diagnostics[key]={status:'error',count:0,reason:String(r.reason).slice(0,160)};}
  // Existing snapshots from the original research pipeline supply translations and indicators.
  // They are optional and never overwrite newer RSS records.
  let base=previous;
@@ -98,7 +98,7 @@ async function refresh(env){
   try{const r=await fetch('https://raw.githubusercontent.com/nikkn997/Diplomatic.Atlas/main/snapshot-cache/indicators.json',{cf:{cacheTtl:300},signal:AbortSignal.timeout(12000)});if(r.ok){const d=await r.json();if(d.countries&&d.source&&d.updated_at&&d.updated_at>=indicators.updated_at)indicators=d;}}catch{}
   base={...base,indicator_checked_at:iso(now)};
  }
- const next={...base,liveNews,liveEvents,indicators,checked_at:iso(now),failed_sources:Object.keys(FEEDS).filter(k=>!ok.includes(k))};
+ const next={...base,liveNews:{...liveNews,diagnostics},liveEvents,indicators,checked_at:iso(now),failed_sources:Object.keys(FEEDS).filter(k=>!ok.includes(k))};
  await env.ATLAS_LIVE.put('snapshot',JSON.stringify(next));
  console.log(JSON.stringify({checked_at:next.checked_at,successful:ok,failed:next.failed_sources,news:liveNews.items.length,events:liveEvents.items.length}));
 }
