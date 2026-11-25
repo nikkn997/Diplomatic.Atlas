@@ -116,7 +116,7 @@ async function poll(){
  finally{busy=false;schedule();safeIdleRefresh();}
 }
 function start(){
- if(document.body)new MutationObserver(schedule).observe(document.body,{subtree:true,childList:true,characterData:true});
+ if(document.body)new MutationObserver(schedule).observe(document.documentElement,{subtree:true,childList:true,characterData:true});
  for(const event of ['pointerdown','keydown','wheel','touchstart','change'])document.addEventListener(event,()=>{lastInteraction=Date.now();if(event==='change')schedule();},{passive:true});
  window.addEventListener('hashchange',()=>{lastInteraction=Date.now();schedule();});
  document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible')poll();});

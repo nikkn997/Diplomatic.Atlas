@@ -5,6 +5,7 @@ import hashlib
 import json
 import os
 import pathlib
+import re
 import shutil
 import subprocess
 import sys
@@ -35,17 +36,31 @@ apptext=app.read_text(encoding='utf-8')
 apptext=apptext.replace("studio:'studio',signals:","studio:'studio',about:'about',signals:")
 apptext=apptext.replace("switch(state.route){","switch(state.route){case'about':break;")
 apptext=apptext.replace("studio:'navStudio'})","studio:'navStudio',about:'about'})")
+apptext=apptext.replace(",['studio','navStudio','09']",'')
+apptext=apptext.replace("studio:'studio',","studio:'home',")
+apptext=apptext.replace("case'studio':screen.innerHTML=window.AtlasStudio.render({state});window.AtlasStudio.init({state});break;",'')
+start=apptext.index('<section class="tool-section">')
+end=apptext.index('</section>',start)+len('</section>')
+tools=apptext[start:end].replace('<section class="tool-section">','<section class="tool-section da-home-modules" id="da-home-modules">',1)
+tools=tools.replace('</div></section>',"${sectionCard('about',8,'about','aboutText','research')}</div></section>",1)
+apptext=apptext[:start]+apptext[end:]
+anchor=apptext.index('<div class="metrics">',apptext.index('function renderHome()'))
+apptext=apptext[:anchor]+tools+apptext[anchor:]
+apptext=apptext.replace('<a class="btn outline" href="#sim">','<button type="button" class="btn outline" data-da-explore>').replace("${esc(t('simulate'))} <span>↗</span></a>","${esc(t('modulesTitle'))} <span>↓</span></button>",1)
+apptext=apptext.replace("<a href=\"#research\">${esc(t('readmore'))}","<a href=\"#about\">${esc(t('readmore'))}")
+assert "['studio','navStudio','09']" not in apptext
+assert 'da-home-modules' in apptext
 app.write_text(apptext,encoding='utf-8')
 page=SITE/'index.html'
 html=page.read_text(encoding='utf-8')
 assert '</body>' in html
 # Supply a visible initial heading until the SPA replaces the body.
 if '<h1' not in html.lower():
-    html=html.replace('<body>','<body><main id="atlas-initial" style="padding:2rem"><h1>Diplomatic Atlas</h1><p>International relations research and education.</p><a href="./research-studio.html">Research Studio</a></main>',1)
-html=html.replace('src/live.js"','src/live.js?v=20261125-live16"')
+    html=html.replace('<body>','<body><main id="atlas-initial" style="padding:2rem"><h1>Diplomatic Atlas</h1><p>International relations research and education.</p><a href="./#research">Research Library</a></main>',1)
+html=html.replace('src/live.js"','src/live.js?v=20261125-home17"')
 html=html.replace('</head>','<link rel="stylesheet" href="src/atlas_extra.css">\n</head>')
-html=html.replace('</body>','<script src="src/atlas_extra.js?v=20261125-16"></script>\n</body>')
-html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261125-live16"></script>\n</body>',1)
+html=html.replace('</body>','<script src="src/atlas_extra.js?v=20261125-17"></script>\n</body>')
+html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261125-home17"></script>\n</body>',1)
 # Only the selected production project is eligible for indexing.
 primary = os.environ.get('ATLAS_PRIMARY_HOST') == '1'
 canonical = 'https://diplomatic-atlas.pages.dev/'
@@ -56,13 +71,21 @@ if primary:
         path = SITE/name
         path.write_text(path.read_text(encoding='utf-8').replace(old,canonical),encoding='utf-8')
 page.write_text(html,encoding='utf-8')
+(SITE/'research-studio.html').write_text('<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url=./"><title>Diplomatic Atlas</title></head><body><a href="./">Diplomatic Atlas</a></body></html>',encoding='utf-8')
+xml=ET.parse(SITE/'sitemap.xml')
+ns='{http://www.sitemaps.org/schemas/sitemap/0.9}'
+ET.register_namespace('',ns[1:-1])
+for node in list(xml.getroot()):
+    if (node.findtext(ns+'loc') or '').endswith('/research-studio.html'): xml.getroot().remove(node)
+xml.write(SITE/'sitemap.xml',encoding='utf-8',xml_declaration=True)
 # Live metadata must be network-first, including when an earlier service worker is installed.
 sw=SITE/'service-worker.js'
-swtext=sw.read_text(encoding='utf-8').replace('20261124-globe1','20261125-live16')
+swtext=re.sub(r"const CACHE='[^']+';", "const CACHE='diplomatic-atlas-static-home17';",sw.read_text(encoding='utf-8'))
 swtext=swtext.replace('if(dynamic||freshAssets||event.request.mode',"if(dynamic||freshAssets||url.pathname.endsWith('/refresh-status.json')||url.pathname.endsWith('/live_intelligence.js')||event.request.mode")
+swtext=swtext.replace("if(dynamic||freshAssets||", "if(dynamic||freshAssets||url.pathname.endsWith('/data/research-live.json')||url.pathname.includes('/src/atlas_extra.')||")
 sw.write_text(swtext,encoding='utf-8')
 release=SITE/'data/release.js'
-release.write_text(release.read_text(encoding='utf-8').replace('v1.12','v1.16').replace('v1.13','v1.16'),encoding='utf-8')
+release.write_text(release.read_text(encoding='utf-8').replace('v1.12','v1.17').replace('v1.13','v1.17'),encoding='utf-8')
 for name in ('globe.js','studio.js','app.js','live_intelligence.js','live.js','atlas_extra.js'):
     subprocess.run(['node','--check',str(SITE/'src'/name)],check=True)
 subprocess.run(['node',str(ROOT/'deploy/test_studio.cjs')],check=True,cwd=ROOT)
