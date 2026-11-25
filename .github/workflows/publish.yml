@@ -376,6 +376,24 @@ jobs:
           python deploy/legacy_live_bridge.py public
           node --check public/src/live.js
           node --check public/src/signals.js
+          # Old public entry points now point to Cloudflare; keep the original
+          # application reachable on the same origin for local notes/export.
+          python - <<'PY'
+          import pathlib, html, json, re
+          root=pathlib.Path('public')
+          new='https://diplomatic-atlas.pages.dev/'
+          old=root/'index.html'
+          legacy=old.read_text(encoding='utf-8')
+          legacy=re.sub(r'<meta name="robots" content="[^"]*">','<meta name="robots" content="noindex, follow">',legacy,count=1)
+          (root/'legacy.html').write_text(legacy,encoding='utf-8')
+          for name,destination in (('index.html',new),('research-studio.html',new+'research-studio.html')):
+              target=html.escape(destination,quote=True)
+              js='location.replace('+json.dumps(destination)+'+location.search+location.hash);'
+              page='<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Diplomatic Atlas — New address</title><link rel="canonical" href="'+target+'"><script>'+js+'</script><meta http-equiv="refresh" content="0; url='+target+'"></head><body><main><h1>Diplomatic Atlas has moved</h1><p><a href="'+target+'">Continue to Diplomatic Atlas</a></p><p><a href="./legacy.html">Previous workspace / local export</a></p></main></body></html>'
+              (root/name).write_text(page,encoding='utf-8')
+              assert 'http-equiv="refresh"' in page and target in page
+          print('Cloudflare migration: both legacy entry points forward; local workspace retained at legacy.html')
+          PY
           if [ -f site/PHOTO_CREDITS.md ]; then cp site/PHOTO_CREDITS.md public/; fi
           touch public/.nojekyll
 
