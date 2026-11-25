@@ -1,44 +1,39 @@
 {
-  "updated_at": "2026-11-24T23:40:00Z",
+  "updated_at": "2026-11-25T05:41:19Z",
   "items": [
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T22:24:23Z",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T04:49:55Z",
+      "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
-          "title": "Huawei признана виновной в краже коммерческой тайны, но оправдана за рэкет",
-          "summary": "Приговор был вынесен после многомесячного судебного разбирательства в Нью-Йорке.",
+          "title": "Килмар Абрего Гарсия покидает США и отправляется в Испанию, заканчивая битву за депортацию Трампа",
+          "summary": "Его депортация в Сальвадор и возвращение в США стали ярким моментом в дебатах по иммиграционной повестке президента Дональда Трампа.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "fr": {
-          "title": "Huawei reconnu coupable de vol de secrets commerciaux mais acquitté de racket",
-          "summary": "Le verdict fait suite à un procès d'un mois à New York.",
+          "title": "Kilmar Ábrego García quitte les USA pour l'Espagne, mettant fin à la bataille de déportation Trump",
+          "summary": "Son expulsion vers El Salvador et son retour aux États-Unis sont devenus un point d'éclair dans le débat sur le programme d'immigration du président Donald Trump.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "es": {
-          "title": "Huawei se declaró culpable de robar secretos comerciales pero absuelto de hacer ruido",
-          "summary": "El veredicto sigue un juicio de meses en Nueva York.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "هواي) وجد مذنباً بسرقة الأسرار التجارية) لكن بُرئ من الإبتزاز",
-          "summary": "ويتبع الحكم محاكمة دامت شهرا في نيويورك.",
+          "title": "Kilmar Ábrego García abandona Estados Unidos para España, terminando la batalla de deportación de Trump",
+          "summary": "Su deportación a El Salvador y su regreso a Estados Unidos se convirtió en un punto de inflexión en el debate sobre la agenda de inmigración del presidente Donald Trump.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "zh": {
-          "title": "华伟犯窃取商业秘密罪 但被判勒索罪无罪",
-          "summary": "判决是在纽约进行长达数月的审判之后作出的。",
+          "title": "Kilmar Ábrego García离开美国前往西班牙,结束川普驱逐战",
+          "summary": "他被驱逐到萨尔瓦多并返回美国成为关于唐纳德·特朗普总统移民议程的争论的热点.",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -48,7 +43,7 @@
       "publisher": "BBC News",
       "title": "US attorney general dodges questions about Nvidia investigation",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T21:19:42Z",
+      "published": "2026-11-25T03:44:07Z",
       "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
       "category": "news",
@@ -56,7 +51,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "Генеральный прокурор США уклоняется от вопросов о расследовании Nvidia",
@@ -88,6 +83,505 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
+      "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+      "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T03:28:37Z",
+      "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4b78/live/6330c460-e889-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Китайская космическая миссия стартовала с первым пакистанским астронавтом на борту",
+          "summary": "Китай запустил свою космическую миссию Шэньчжоу-24, чтобы доставить трех астронавтов на свою космическую станцию Тяньгун.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Moment La mission spatiale chinoise décolle avec le premier astronaute pakistanais à bord",
+          "summary": "La Chine a lancé sa mission spatiale Shenzhou-24 pour amener trois astronautes à sa station spatiale de Tiangong.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Misión espacial china Moment se levanta con el primer astronauta pakistaní a bordo",
+          "summary": "China lanzó su misión espacial Shenzhou-24 para llevar a tres astronautas a su estación espacial Tiangong.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "بعثة فضائية صينية متنقلة مع أول رائد فضاء باكستاني على متن الطائرة",
+          "summary": "وأطلقت الصين مهمتها الفضائية Shenzhou-24 لجلب ثلاثة رواد فضائيين إلى محطة تانغونغ الفضائية التابعة لها.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "中国太空飞行时刻 与巴基斯坦第一位宇航员一起升空",
+          "summary": "中国发射神舟24号太空任务,将三名宇航员送抵其天宫空间站.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T02:59:27Z",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Huawei признана виновной в краже коммерческой тайны, но оправдана за рэкет",
+          "summary": "Приговор был вынесен после многомесячного судебного разбирательства в Нью-Йорке.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Huawei reconnu coupable de vol de secrets commerciaux mais acquitté de racket",
+          "summary": "Le verdict fait suite à un procès d'un mois à New York.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Huawei se declaró culpable de robar secretos comerciales pero absuelto de hacer ruido",
+          "summary": "El veredicto sigue un juicio de meses en Nueva York.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "هواي) وجد مذنباً بسرقة الأسرار التجارية) لكن بُرئ من الإبتزاز",
+          "summary": "ويتبع الحكم محاكمة دامت شهرا في نيويورك.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "华伟犯窃取商业秘密罪 但被判勒索罪无罪",
+          "summary": "判决是在纽约进行长达数月的审判之后作出的。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Lies, a disguise and surfboard bags: how a jealous Sydney policeman tried to cover up double murder",
+      "url": "https://www.bbc.co.uk/news/articles/cmrrg749d02do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T01:51:43Z",
+      "summary": "Beau Lamarre was on Wednesday found guilty of murdering his ex Jesse Baird, and Baird's new partner Luke Davies.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92ff/live/1284fd50-e871-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Ложь, маскировка и сумки для серфинга: как ревнивый полицейский Сиднея пытался скрыть двойное убийство",
+          "summary": "Бо Ламарр был признан виновным в убийстве своего бывшего Джесси Бэрда и нового партнера Бэрда Люка Дэвиса.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Des mensonges, un déguisement et des sacs de planche de surf : comment un policier jaloux de Sydney a tenté de dissimuler le double meurtre",
+          "summary": "Beau Lamarre a été reconnu coupable mercredi d'avoir tué son ex Jesse Baird et le nouvel associé de Baird Luke Davies.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Lies, un disfraz y bolsas de surf: cómo un policía celoso de Sydney trató de encubrir el doble asesinato",
+          "summary": "Beau Lamarre fue declarado culpable de asesinar a su ex Jesse Baird, y el nuevo compañero de Baird Luke Davies.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الأكاذيب، أكياس التنكر والتزلج: كيف حاول شرطي غيور (سيدني) تغطية جريمة قتل مزدوجة",
+          "summary": "كان (بو لامار) يوم الأربعاء مذنباً بقتل زوجته السابقة (جيسي بيرد) وشريك (بيرد) الجديد (لوك ديفيز)",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "谎言、伪装和冲浪板袋:一个嫉妒的悉尼警察试图掩盖双重谋杀",
+          "summary": "Beau Lamarre星期三被判谋杀其前任杰西·贝尔德和贝尔德的新搭档Luke Davies.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Thomas Markle indicted in US for possessing child sex abuse images",
+      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T01:40:42Z",
+      "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a486/live/58170a20-e862-11f1-a094-5fdc692f3e33.png",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Томас Маркл обвиняется в США в хранении изображений сексуального насилия над детьми",
+          "summary": "ФБР арестовало Маркла 6 ноября после обыска в хранилище, которое он якобы арендовал в Лос-Анджелесе.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Thomas Markle inculpé aux États-Unis pour possession d'images de violence sexuelle envers des enfants",
+          "summary": "Le FBI a arrêté Markle le 6 novembre après avoir perquisitionné une unité de stockage qu'il aurait louée à Los Angeles.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Thomas Markle acusado en Estados Unidos por poseer imágenes de abuso sexual infantil",
+          "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "توماس ماركل متهم في الولايات المتحدة لامتلاك صور الاعتداء الجنسي على الأطفال",
+          "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "Thomas Markle在美国因持有性虐待儿童图像而被起诉",
+          "summary": "联邦调查局于11月6日逮捕了Markle,当时他搜查了据称他在洛杉矶租来的仓库,发现了虐待材料。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "The rising cost of putting food on the table in India",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T01:02:13Z",
+      "summary": "India's food inflation is broadening, squeezing household budgets.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Рост цен на продукты питания в Индии",
+          "summary": "Продовольственная инфляция в Индии расширяется, сокращая бюджеты домашних хозяйств.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'augmentation du coût de la mise de la nourriture sur la table en Inde",
+          "summary": "L'inflation alimentaire de l'Inde s'élargit, poussant les budgets des ménages.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El creciente costo de poner comida en la mesa en la India",
+          "summary": "La inflación alimentaria de la India está ampliando los presupuestos del hogar.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ارتفاع تكلفة وضع الطعام على الطاولة في الهند",
+          "summary": "التضخم الغذائي في الهند يتوسع ويضغط ميزانيات الأسر المعيشية",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "印度将食物放在桌上的成本不断上涨",
+          "summary": "印度的粮食通货膨胀正在扩大,挤压着家庭预算。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+      "url": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T01:00:36Z",
+      "summary": "More than half a million people have fled their homes since separatist groups demanded independence for Cameroon's English-speaking regions.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7dac/live/653c0750-e7d1-11f1-83ab-9953b30aab1f.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Выстрел в лицо в 15: Жизнь, разрушенная десятилетием конфликта в Камеруне",
+          "summary": "Более полумиллиона человек покинули свои дома после того, как сепаратистские группировки потребовали независимости для англоязычных регионов Камеруна.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Coup de feu au visage à 15 ans : Les vies brisées par la décennie de conflit du Cameroun",
+          "summary": "Plus d'un demi-million de personnes ont fui leurs foyers depuis que les groupes séparatistes ont exigé l'indépendance des régions anglophones du Cameroun.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "طلق ناري على الوجه في الساعة 15: الحياة تحطمت بسبب عقد الصراع في الكاميرون",
+          "summary": "وقد فر أكثر من نصف مليون شخص من منازلهم منذ أن طالبت الجماعات الانفصالية بالاستقلال لمناطق الكاميرون الناطقة بالإنكليزية.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "15岁时面部中弹:喀麦隆十年冲突摧毁的生活",
+          "summary": "超过50万人逃离家园,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T00:58:34Z",
+      "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8cda/live/86305ac0-e811-11f1-ab42-55d8d8278025.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Столкновение политических взглядов отражает раскол Испании перед выборами",
+          "summary": "На воскресных выборах крайне правая партия впервые войдет в правительство Испании.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Clacher les visions politiques reflète une Espagne divisée avant les élections",
+          "summary": "Dimanche, un parti d'extrême droite a pu entrer dans le gouvernement espagnol pour la première fois.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El choque de visiones políticas refleja una España dividida antes de las elecciones",
+          "summary": "La elección del domingo podría ver a un partido de extrema derecha entrar al gobierno español por primera vez.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "إن الرؤى السياسية المتضاربة تعكس انقسام إسبانيا قبل الانتخابات",
+          "summary": "ويمكن لانتخابات يوم الأحد أن ترى حزبا ذا حق كبير يدخل الحكومة الاسبانية لأول مرة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "政治观点冲突反映西班牙在选举前分裂",
+          "summary": "星期天的选举中,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T00:56:51Z",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Собственные данные России показывают почти 500 000 смертей в войне на Украине.",
+          "summary": "Утечка данных показывает, как полномасштабное вторжение в Украину коренным образом изменило модели смертности в России.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les chiffres de la Russie montrent près de 500 000 morts dans la guerre en Ukraine",
+          "summary": "Les données manquantes révèlent comment l'invasion à grande échelle de l'Ukraine a fondamentalement modifié les modèles de mortalité en Russie.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Las propias cifras de Rusia muestran casi 500.000 muertes en guerra en Ucrania",
+          "summary": "Los datos presentados revelan cómo la invasión a gran escala de Ucrania ha cambiado fundamentalmente las pautas de mortalidad en Rusia.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الأرقام الخاصة لروسيا تظهر حوالي 500,000 وفاة في الحرب في أوكرانيا",
+          "summary": "وتكشف البيانات المتروكة عن الكيفية التي أدى بها غزو أوكرانيا على نطاق كامل إلى تغيير أساسي في أنماط الوفيات في روسيا.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "俄国自己的数字显示,乌克兰战争中近50万人死亡.",
+          "summary": "泄露的数据显示,乌克兰的全面入侵从根本上改变了俄罗斯的死亡率模式。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T00:54:13Z",
+      "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Моя семья умерла в Украине. Моя мама обвинила войска Зеленского - правда сложная",
+          "summary": "Журналистка Би-би-си Анастасия Грибанова расследует, кто убил ее отца и бабушку и дедушку на войне.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Ma famille est morte en Ukraine. Ma mère a blâmé les troupes de Zelensky - la vérité est compliquée",
+          "summary": "La journaliste de la BBC Anastasiya Gribanova enquête sur les personnes qui ont tué son père et ses grands-parents pendant la guerre.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Mi familia murió en Ucrania. Mi madre culpó a las tropas de Zelensky - la verdad es complicada",
+          "summary": "La periodista de la BBC Anastasiya Gribanova investiga quién mató a su padre y abuelos en la guerra.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "عائلتي ماتت في أوكرانيا أمي ألقت اللوم على قوات (زيلينسكي) الحقيقة معقدة",
+          "summary": "الصحفي (بي بي سي) (أناستازيا غريبانوفا) يتحرى عن من قتل والدها وأجدادها في الحرب",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "我的家人死于乌克兰。 我妈怪泽伦斯基的军队 事实很复杂",
+          "summary": "BBC记者Anastasiya Gribanova调查谁在战争中杀害了她的父亲和祖父母.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T23:05:11Z",
+      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73d1/live/fd148350-e825-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Связанная с Китаем сеть использует подделки ИИ, чтобы очернить кандидатов на выборах в Тайване, сообщает BBC Verify",
+          "summary": "Сеть атаковала ключевых фигур в правящей ДПП, включая президента Лай и кандидата в мэры Шена.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Réseau lié à la Chine utilisant des faux AI pour démêler les candidats aux élections de Taiwan, BBC Verify trouve",
+          "summary": "Le réseau a attaqué des personnalités clés du DPP au pouvoir, y compris le président Lai et le candidat maire Shen.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Red vinculada a China usando falsas inteligencia artificial para deshacerse de los candidatos electorales de Taiwán, BBC Verify encuentra",
+          "summary": "La red atacó figuras clave en el DPP gobernante, incluyendo al presidente Lai y al alcalde Shen.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "شبكة متصلة بالصين تستخدم مزيّفات AI لتشويه المرشحين لانتخابات تايوان، BBC Verify",
+          "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "使用AI假冒污蔑台湾选举候选人,",
+          "summary": "网络攻击执政的民进党重要人物,包括莱总统和市长候选人沈.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T23:03:59Z",
+      "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09b2/live/3e03d020-e824-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Эти северокорейцы говорят, что за ними шпионили, избивали и сажали в тюрьму за то, что они христиане.",
+          "summary": "В новом докладе приводятся свидетельства сотен перебежчиков, которые утверждают, что их преследовали за веру.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Ces Nord-Coréens disent avoir été espionnés, battus et emprisonnés pour avoir été chrétiens.",
+          "summary": "Un nouveau rapport a des témoignages de centaines de transfuges qui disent avoir été persécutés à cause de leur foi.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Estos norcoreanos dicen que fueron espías, golpeados y encarcelados por ser cristianos",
+          "summary": "Un nuevo informe tiene testimonios de cientos de desertores que dicen que fueron perseguidos por su fe.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "هؤلاء الكوريين الشماليين يقولون أنهم كانوا يتجسسون ويضربون ويسجنون بسبب كونهم مسيحيين",
+          "summary": "ويتضمن تقرير جديد شهادات من مئات المنشقين الذين يقولون أنهم تعرضوا للاضطهاد بسبب إيمانهم.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "这些朝鲜人说,他们被监视、殴打和监禁,因为他们是基督教徒。",
+          "summary": "一份新报告有数百名叛逃者的证词,说他们因为信仰而受到迫害.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Watch: Flock of turkeys chases woman on Massachusetts sidewalk",
+      "url": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24T22:07:30Z",
+      "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/183e/live/1983e580-e853-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
+      "translations": {
+        "ru": {
+          "title": "Стая индеек преследует женщину на тротуаре Массачусетса",
+          "summary": "Женщина сказала, что ей пришлось прыгнуть в машину незнакомца, чтобы сбежать от стаи индеек, которые преследовали ее по тротуару.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Regarder: Flock de dindes chasse la femme sur le trottoir du Massachusetts",
+          "summary": "La femme a dit qu'elle devait sauter dans la voiture d'un étranger pour échapper à un troupeau de dindes qui l'ont poursuivie sur le trottoir.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Ver: El reloj de pavo persigue a la mujer en la acera de Massachusetts",
+          "summary": "La mujer dijo que tenía que saltar al coche de un extraño para escapar de un rebaño de pavos que la persiguieron por la acera.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "مشاهدة: قطيع الديك الرومي يطارد المرأة على الرصيف ماساتشوستس",
+          "summary": "المرأة قالت أن عليها القفز إلى سيارة غريبة للهروب من قطيع من الديك الرومي الذي طاردها إلى الرصيف",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "看吧,火鸡在马萨诸塞州人行道上追女人",
+          "summary": "那女人说,她不得不跳进陌生人的车里,以躲避一群赶着她下人行道的火鸡.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
       "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
       "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T19:27:23Z",
@@ -98,7 +592,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "ДР Конго заявляет, что военный самолет пропал без вести, поскольку повстанцы утверждают, что сбили самолет",
@@ -140,7 +634,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "92-летний нигерийский монарх отстранен от должности после обвинений в сексуальном насилии",
@@ -177,7 +671,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "Лидер индийской партии тараканов заявил, что ему запретили летать в Великобританию",
@@ -219,7 +713,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "Зимбабве осудили в ЮАР за попытку воевать на Украине",
@@ -261,7 +755,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "Экс-президент Франции Саркози и его жена Карла Бруни предстанут перед судом",
@@ -303,7 +797,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "Израильский авиаудар убил начальника внутренней безопасности ХАМАСа в Газе",
@@ -345,7 +839,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "Потери от мин в Сирии возросли через два года после войны",
@@ -387,7 +881,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "Губернатора России задержали по редкому уголовному делу в отношении регионального лидера",
@@ -424,7 +918,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "World News in Brief: Вакцинный кризис в Йемене, помощь Украине, еще один сотрудник БАПОР убит",
@@ -461,7 +955,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "Десятилетия успехов в борьбе со СПИДом могут рухнуть, поскольку финансирование борьбы с ВИЧ истощается",
@@ -503,7 +997,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "«Слишком много неудач»: последний призыв заместителя главы ООН прекратить насилие в отношении женщин",
@@ -540,7 +1034,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "Совет Безопасности: Может ли разрешение конфликтов идти в ногу с ИИ и дронами, которые меняют ход войны?",
@@ -582,7 +1076,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "ДР Конго: Углубляется обеспокоенность по поводу застрявших в ловушке работников Эбола из-за насилия в отношении женщин и девочек",
@@ -619,7 +1113,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
+      "imageCheckedAt": "2026-11-25T05:41:19Z",
       "translations": {
         "ru": {
           "title": "Колумбия: Гутерриш призывает к возобновлению приверженности мирному соглашению",
@@ -661,7 +1155,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Пять женщин, убитых каждый час партнерами или членами семьи",
@@ -703,7 +1196,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Слезы от бомбы в колумбийском городе ранили более 20 человек",
@@ -745,7 +1237,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Дневник Папы Франциска показал, что он трижды видел дьявола",
@@ -787,7 +1278,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Глава НАТО пообещал защититься от космической угрозы после сообщений российских ядерных спутников",
@@ -871,7 +1361,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Момент, когда войска нападают на дом и захватывают мексиканского наркобарона",
@@ -913,7 +1402,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Чему возвращение Дженсена Хуана учит Си Цзиньпина о Трампе",
@@ -955,7 +1443,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Экс-премьер Бангладеш Шейх Хасина планирует вернуться 16 декабря",
@@ -997,7 +1484,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Веселье и аплодисменты, когда Дженсен Хуанг возвращается в офис Nvidia",
@@ -1039,7 +1525,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Король Чарльз и Элтон Джон почтили память австралийской музыкальной легенды Молли Мелдрум",
@@ -1081,7 +1566,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Отец, который обнаружил убийство дочери на Facebook, чувствует себя проигнорированным южноафриканской полицией",
@@ -1123,7 +1607,6 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-24T23:40:00Z",
       "translations": {
         "ru": {
           "title": "Бразилия просит комиссию по спорам о дополнительных пошлинах, введенных Соединенными Штатами",
@@ -2855,7 +3338,7 @@
     }
   ],
   "status": "partial",
-  "media_count": 34,
+  "media_count": 46,
   "sources": [
     "un",
     "bbc",
