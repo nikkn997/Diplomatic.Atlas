@@ -26,7 +26,7 @@ jobs:
           python3 - <<'PY'
           import pathlib, zipfile
           target=pathlib.Path('/tmp/atlas-source')
-          allowed=('index.html','src/app.js','src/styles.css','src/globe.js','src/signals.js','service-worker.js',
+          allowed=('index.html','src/app.js','src/styles.css','src/globe.js','src/signals.js','src/live.js','service-worker.js',
                    'scripts/update_events.py','scripts/update_news.py','scripts/update_translations.py')
           with zipfile.ZipFile('site-package.zip') as archive:
               for name in allowed:
