@@ -31,6 +31,7 @@ for name in ('globe.js','studio.js','studio.css','live_intelligence.js','live.js
     shutil.copy2(ROOT/'deploy'/name,SITE/'src'/name)
 for name in ('integrate_studio.py','search_visibility.py'):
     subprocess.run([sys.executable,str(ROOT/'deploy'/name),str(SITE)],check=True,cwd=ROOT)
+subprocess.run(['node',str(ROOT/'deploy/test_studio.cjs')],check=True,cwd=ROOT)
 app=SITE/'src/app.js'
 apptext=app.read_text(encoding='utf-8')
 apptext=apptext.replace("studio:'studio',signals:","studio:'studio',about:'about',signals:")
@@ -50,6 +51,8 @@ apptext=apptext.replace('<a class="btn outline" href="#sim">','<button type="but
 apptext=apptext.replace("<a href=\"#research\">${esc(t('readmore'))}","<a href=\"#about\">${esc(t('readmore'))}")
 assert "['studio','navStudio','09']" not in apptext
 assert 'da-home-modules' in apptext
+assert "studio:'home'" in apptext
+assert all("sectionCard('"+route+"'" in apptext for route in ('atlas','signals','news','compare','votes','sim','research','about'))
 app.write_text(apptext,encoding='utf-8')
 page=SITE/'index.html'
 html=page.read_text(encoding='utf-8')
@@ -88,7 +91,6 @@ release=SITE/'data/release.js'
 release.write_text(release.read_text(encoding='utf-8').replace('v1.12','v1.17').replace('v1.13','v1.17'),encoding='utf-8')
 for name in ('globe.js','studio.js','app.js','live_intelligence.js','live.js','atlas_extra.js'):
     subprocess.run(['node','--check',str(SITE/'src'/name)],check=True)
-subprocess.run(['node',str(ROOT/'deploy/test_studio.cjs')],check=True,cwd=ROOT)
 ET.parse(SITE/'sitemap.xml')
 for name in ('liveNews','liveEvents','indicators'):
     for ext in ('js','json'):
