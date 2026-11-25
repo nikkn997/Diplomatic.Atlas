@@ -1,138 +1,12 @@
 {
-  "updated_at": "2026-11-25T11:36:53Z",
+  "updated_at": "2026-11-25T16:08:33Z",
   "items": [
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
-      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T11:29:40Z",
-      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
-      "translations": {
-        "ru": {
-          "title": "Килмар Абрего Гарсия покидает США и отправляется в Испанию, заканчивая битву за депортацию Трампа",
-          "summary": "Его депортация в Сальвадор и возвращение в США стали ярким моментом в дебатах по иммиграционной повестке президента Дональда Трампа.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "Kilmar Ábrego García quitte les USA pour l'Espagne, mettant fin à la bataille de déportation Trump",
-          "summary": "Son expulsion vers El Salvador et son retour aux États-Unis sont devenus un point d'éclair dans le débat sur le programme d'immigration du président Donald Trump.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "Kilmar Ábrego García abandona Estados Unidos para España, terminando la batalla de deportación de Trump",
-          "summary": "Su deportación a El Salvador y su regreso a Estados Unidos se convirtió en un punto de inflexión en el debate sobre la agenda de inmigración del presidente Donald Trump.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "Kilmar Ábrego García离开美国前往西班牙,结束川普驱逐战",
-          "summary": "他被驱逐到萨尔瓦多并返回美国成为关于唐纳德·特朗普总统移民议程的争论的热点.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "(كيلمار أبريغو غارسيا) وصل إلى (أسبانيا) لينهي معركة ترحيل (ترامب)",
-          "summary": "ترحيل (أبريغو غارسيا) إلى (السلفادور) والعودة إلى الولايات المتحدة أصبحت نقطةً بارزة في النقاش حول جدول أعمال هجرة الرئيس (دونالد ترامب)",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T10:52:09Z",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
-      "translations": {
-        "ru": {
-          "title": "Huawei признана виновной в краже коммерческой тайны, но оправдана за рэкет",
-          "summary": "Приговор был вынесен после многомесячного судебного разбирательства в Нью-Йорке.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "Huawei reconnu coupable de vol de secrets commerciaux mais acquitté de racket",
-          "summary": "Le verdict fait suite à un procès d'un mois à New York.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "Huawei se declaró culpable de robar secretos comerciales pero absuelto de hacer ruido",
-          "summary": "El veredicto sigue un juicio de meses en Nueva York.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "هواي) وجد مذنباً بسرقة الأسرار التجارية) لكن بُرئ من الإبتزاز",
-          "summary": "ويتبع الحكم محاكمة دامت شهرا في نيويورك.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "华伟犯窃取商业秘密罪 但被判勒索罪无罪",
-          "summary": "判决是在纽约进行长达数月的审判之后作出的。",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T09:56:19Z",
-      "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77f7/live/4f619020-e8b3-11f1-9e64-bddd508b9881.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
-      "translations": {
-        "ru": {
-          "title": "Колумбийская полиция штурмует супермаркет, чтобы освободить 20 заложников на 17 часов",
-          "summary": "Один боевик был убит в ходе операции по освобождению около 20 покупателей и сотрудников после 17-часового испытания.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "supermarché de la police colombienne pour libérer 20 otages pendant 17 heures",
-          "summary": "Un tireur a été tué dans l'opération pour libérer une vingtaine de clients et d'employés après une épreuve d'otage de 17 heures.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "Supermercado de tormenta de la policía colombiana para liberar 20 rehén durante 17 horas",
-          "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "متاجر عواصف الشرطة الكولومبية لتحرير 20 رهينة لمدة 17 ساعة",
-          "summary": "قُتل أحد المسلحين في العملية ليحرر حوالي 20 متسوقاً وموظفاً بعد متاجر رهائن لمدة 17 ساعة.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "哥伦比亚警方暴风雪超市 释放20名人质17小时",
-          "summary": "一名枪手在17小时的人质折磨后在释放约20名店员和雇员的行动中被杀死.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
     {
       "source": "bbc",
       "publisher": "BBC News",
       "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
       "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T09:06:02Z",
+      "published": "2026-11-25T15:42:50Z",
       "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
       "category": "news",
@@ -140,7 +14,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "В Южной Африке Рамафоса выиграла судебную битву из-за угрозы импичмента",
@@ -172,6 +46,300 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T14:46:41Z",
+      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "translations": {
+        "ru": {
+          "title": "Пять российских военных самолетов попали в авиаудар, говорит Украина",
+          "summary": "На аэродроме Саваслейка размещены самолеты, используемые Россией для запуска гиперзвуковых ракет и планирующих бомб на Украину.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Cinq jets militaires russes ont frappé en attaque d'aérodrome, dit l'Ukraine",
+          "summary": "L'aérodrome de Savasleyka accueille des avions utilisés par la Russie pour lancer des missiles hypersoniques et des bombes à glissement sur l'Ukraine.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Cinco jets militares rusos en huelga de aeródromos, dice Ucrania",
+          "summary": "El aeródromo Savasleyka alberga aviones utilizados por Rusia para lanzar misiles hipersónicos y bombas de deslizamiento en Ucrania.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "خمس طائرات عسكرية روسية اصطدمت بضربة في المطار",
+          "summary": "وتستضيف مطار سافاسليكا الطائرات التي تستخدمها روسيا لإطلاق قذائف فوق الصوت وقنابل جليدية في أوكرانيا.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "5架俄军喷气式飞机在机场袭击中被击中,乌克兰说",
+          "summary": "萨瓦斯利卡机场拥有俄罗斯用来向乌克兰发射超音速导弹和滑翔弹的飞机。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T12:42:11Z",
+      "summary": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "translations": {
+        "ru": {
+          "title": "Килмар Абрего Гарсия покидает США и отправляется в Испанию, заканчивая битву за депортацию Трампа",
+          "summary": "Его депортация в Сальвадор и возвращение в США стали ярким моментом в дебатах по иммиграционной повестке президента Дональда Трампа.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Kilmar Ábrego García quitte les USA pour l'Espagne, mettant fin à la bataille de déportation Trump",
+          "summary": "Son expulsion vers El Salvador et son retour aux États-Unis sont devenus un point d'éclair dans le débat sur le programme d'immigration du président Donald Trump.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Kilmar Ábrego García abandona Estados Unidos para España, terminando la batalla de deportación de Trump",
+          "summary": "Su deportación a El Salvador y su regreso a Estados Unidos se convirtió en un punto de inflexión en el debate sobre la agenda de inmigración del presidente Donald Trump.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "Kilmar Ábrego García离开美国前往西班牙,结束川普驱逐战",
+          "summary": "他被驱逐到萨尔瓦多并返回美国成为关于唐纳德·特朗普总统移民议程的争论的热点.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "(كيلمار أبريغو غارسيا) وصل إلى (أسبانيا) لينهي معركة ترحيل (ترامب)",
+          "summary": "ترحيل (أبريغو غارسيا) إلى (السلفادور) والعودة إلى الولايات المتحدة أصبحت نقطةً بارزة في النقاش حول جدول أعمال هجرة الرئيس (دونالد ترامب)",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T12:24:12Z",
+      "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/62c6/live/0b9efbb0-e88c-11f1-b10e-f37861cef9d5.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "translations": {
+        "ru": {
+          "title": "Нигерийский актер Пит Эдочи умер в возрасте 79 лет",
+          "summary": "Одочи приобрел известность в 1987 году после того, как снялся в телевизионной адаптации знаменитого романа Чинуа Ачебе «Вещи разваливаются».",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'ancien acteur nigérian Pete Edochie décède à 79 ans",
+          "summary": "Odochie a pris une place de premier plan en 1987 après avoir joué dans une adaptation télévisée du célèbre roman Things Fall Apart de Chinua Achebe.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Veterano Nigeriano Nollywood actor Pete Edochie muere de 79 años",
+          "summary": "Odochie se levantó a la prominencia en 1987 después de protagonizar una adaptación televisiva de la aclamada novela de Chinua Achebe.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "فيتران نيجيري نوليوود الممثل بيت إدوكي يموت بعمر 79",
+          "summary": "(أودوشي) وصل إلى مكان بارز في عام 1987 بعد أن قام بتأهيل تلفزيوني لـ(تشينا آشيب)",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "退伍尼日利亚诺莱坞演员皮特·埃多奇去世79岁",
+          "summary": "1987年,奥多奇主演了奇努亚·阿切贝的著名小说\"Tings Fall Apart\"的电视改编剧,之后,奥多奇在1987年上升到显赫地位.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T12:21:49Z",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e4e/live/dce0d700-e8c5-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "translations": {
+        "ru": {
+          "title": "Собственные данные России показывают почти 500 000 смертей в войне на Украине.",
+          "summary": "Утечка данных показывает, как полномасштабное вторжение в Украину коренным образом изменило модели смертности в России.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les chiffres de la Russie montrent près de 500 000 morts dans la guerre en Ukraine",
+          "summary": "Les données manquantes révèlent comment l'invasion à grande échelle de l'Ukraine a fondamentalement modifié les modèles de mortalité en Russie.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Las propias cifras de Rusia muestran casi 500.000 muertes en guerra en Ucrania",
+          "summary": "Los datos presentados revelan cómo la invasión a gran escala de Ucrania ha cambiado fundamentalmente las pautas de mortalidad en Rusia.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الأرقام الخاصة لروسيا تظهر حوالي 500,000 وفاة في الحرب في أوكرانيا",
+          "summary": "وتكشف البيانات المتروكة عن الكيفية التي أدى بها غزو أوكرانيا على نطاق كامل إلى تغيير أساسي في أنماط الوفيات في روسيا.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "俄国自己的数字显示,乌克兰战争中近50万人死亡.",
+          "summary": "泄露的数据显示,乌克兰的全面入侵从根本上改变了俄罗斯的死亡率模式。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+      "published": "2026-11-25T12:00:00Z",
+      "summary": "The UN’s top aid official, Tom Fletcher, arrived in Yemen on Wednesday warning that the war there is preventing families from accessing the food and medicine they need to survive, particularly those in Taiz City.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "translations": {
+        "ru": {
+          "title": "Война в Йемене: глава чрезвычайной помощи призывает к доступу к пострадавшим от войны общинам",
+          "summary": "Главный сотрудник ООН по оказанию помощи Том Флетчер прибыл в Йемен в среду, предупредив, что война там препятствует семьям получить доступ к продовольствию и лекарствам, необходимым им для выживания, особенно в городе Таиз.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Guerre au Yémen : le chef de l'aide d'urgence appelle à l'accès aux communautés touchées par la guerre",
+          "summary": "Le haut responsable de l'aide de l'ONU, Tom Fletcher, est arrivé mercredi au Yémen en avertissant que la guerre empêche les familles d'accéder à la nourriture et aux médicaments dont elles ont besoin pour survivre, en particulier celles de Taiz City.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Guerra del Yemen: Los jefes de ayuda de emergencia piden acceso a las comunidades afectadas por la guerra",
+          "summary": "El primer oficial de ayuda de la ONU, Tom Fletcher, llegó a Yemen el miércoles advirtiendo que la guerra está impidiendo que las familias accedan a la comida y la medicina que necesitan para sobrevivir, especialmente las de la ciudad de Taiz.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الحرب اليمنية: يدعو رئيس المعونة في حالات الطوارئ إلى الوصول إلى المجتمعات التي تضررت الحرب",
+          "summary": "وقد وصل مسؤول المعونة العليا في الأمم المتحدة، توم فليتشر، إلى اليمن يوم الأربعاء محذرا من أن الحرب هناك تمنع الأسر من الحصول على الغذاء والدواء اللذين تحتاج إليهما البقاء، ولا سيما في مدينة تايز.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "也门战争:紧急援助主任呼吁进入受战争影响的社区",
+          "summary": "联合国最高援助官员汤姆·弗莱彻(Tom Fletcher)星期三抵达也门, 警告说,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T11:45:16Z",
+      "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "translations": {
+        "ru": {
+          "title": "Колумбийская полиция штурмует супермаркет, чтобы освободить 20 заложников на 17 часов",
+          "summary": "Один боевик был убит в ходе операции по освобождению около 20 покупателей и сотрудников после 17-часового испытания.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "supermarché de la police colombienne pour libérer 20 otages pendant 17 heures",
+          "summary": "Un tireur a été tué dans l'opération pour libérer une vingtaine de clients et d'employés après une épreuve d'otage de 17 heures.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Supermercado de tormenta de la policía colombiana para liberar 20 rehén durante 17 horas",
+          "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "متاجر عواصف الشرطة الكولومبية لتحرير 20 رهينة لمدة 17 ساعة",
+          "summary": "قُتل أحد المسلحين في العملية ليحرر حوالي 20 متسوقاً وموظفاً بعد متاجر رهائن لمدة 17 ساعة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "哥伦比亚警方暴风雪超市 释放20名人质17小时",
+          "summary": "一名枪手在17小时的人质折磨后在释放约20名店员和雇员的行动中被杀死.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T10:52:09Z",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "translations": {
+        "ru": {
+          "title": "Huawei признана виновной в краже коммерческой тайны, но оправдана за рэкет",
+          "summary": "Приговор был вынесен после многомесячного судебного разбирательства в Нью-Йорке.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Huawei reconnu coupable de vol de secrets commerciaux mais acquitté de racket",
+          "summary": "Le verdict fait suite à un procès d'un mois à New York.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Huawei se declaró culpable de robar secretos comerciales pero absuelto de hacer ruido",
+          "summary": "El veredicto sigue un juicio de meses en Nueva York.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "هواي) وجد مذنباً بسرقة الأسرار التجارية) لكن بُرئ من الإبتزاز",
+          "summary": "ويتبع الحكم محاكمة دامت شهرا في نيويورك.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "华伟犯窃取商业秘密罪 但被判勒索罪无罪",
+          "summary": "判决是在纽约进行长达数月的审判之后作出的。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
       "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
       "url": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T07:26:54Z",
@@ -182,7 +350,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Зимбабве выдало ордер на арест сына Роберта Мугабе из-за пропущенной даты суда",
@@ -224,7 +392,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Двое детей из шести погибли после авиакатастрофы у побережья Миссисипи",
@@ -260,13 +428,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T06:00:36Z",
       "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abbb/live/4b2b41d0-e8a5-11f1-99a1-253766e7ad8b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d025/live/0cb03100-e741-11f1-802a-678be58471bb.png",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Спустя четыре года после крушения огромного астероида космический корабль вернулся, чтобы оценить ущерб.",
@@ -308,7 +476,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Генеральный прокурор США уклоняется от вопросов о расследовании Nvidia",
@@ -350,7 +518,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Китайская космическая миссия стартовала с первым пакистанским астронавтом на борту",
@@ -392,7 +560,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Соломоновы Острова завершили спорный пакт о безопасности с Китаем по австралийскому договору",
@@ -434,7 +602,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Ложь, маскировка и сумки для серфинга: как ревнивый полицейский Сиднея пытался скрыть двойное убийство",
@@ -476,7 +644,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Томас Маркл обвиняется в США в хранении изображений сексуального насилия над детьми",
@@ -518,7 +686,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Спасение Трампом Хуана из Nvidia несет политические риски",
@@ -560,7 +728,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Рост цен на продукты питания в Индии",
@@ -602,7 +770,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Выстрел в лицо в 15: Жизнь, разрушенная десятилетием конфликта в Камеруне",
@@ -639,7 +807,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Столкновение политических взглядов отражает раскол Испании перед выборами",
@@ -671,59 +839,17 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
-      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T00:56:51Z",
-      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e47/live/6a03aa70-e832-11f1-917e-35f1674fb52c.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
-      "translations": {
-        "ru": {
-          "title": "Собственные данные России показывают почти 500 000 смертей в войне на Украине.",
-          "summary": "Утечка данных показывает, как полномасштабное вторжение в Украину коренным образом изменило модели смертности в России.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "Les chiffres de la Russie montrent près de 500 000 morts dans la guerre en Ukraine",
-          "summary": "Les données manquantes révèlent comment l'invasion à grande échelle de l'Ukraine a fondamentalement modifié les modèles de mortalité en Russie.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "Las propias cifras de Rusia muestran casi 500.000 muertes en guerra en Ucrania",
-          "summary": "Los datos presentados revelan cómo la invasión a gran escala de Ucrania ha cambiado fundamentalmente las pautas de mortalidad en Rusia.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "الأرقام الخاصة لروسيا تظهر حوالي 500,000 وفاة في الحرب في أوكرانيا",
-          "summary": "وتكشف البيانات المتروكة عن الكيفية التي أدى بها غزو أوكرانيا على نطاق كامل إلى تغيير أساسي في أنماط الوفيات في روسيا.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "俄国自己的数字显示,乌克兰战争中近50万人死亡.",
-          "summary": "泄露的数据显示,乌克兰的全面入侵从根本上改变了俄罗斯的死亡率模式。",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
-      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
       "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T00:54:13Z",
       "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/849c/live/4d5b1c90-e815-11f1-a094-5fdc692f3e33.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c61f/live/78592c20-e8c4-11f1-99b6-a35a62fa4264.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Моя семья умерла в Украине. Моя мама обвинила войска Зеленского - правда сложная",
@@ -807,7 +933,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Связанная с Китаем сеть использует подделки ИИ, чтобы очернить кандидатов на выборах в Тайване, сообщает BBC Verify",
@@ -849,7 +975,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Эти северокорейцы говорят, что за ними шпионили, избивали и сажали в тюрьму за то, что они христиане.",
@@ -891,7 +1017,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Стая индеек преследует женщину на тротуаре Массачусетса",
@@ -1138,7 +1264,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Израильский авиаудар убил начальника внутренней безопасности ХАМАСа в Газе",
@@ -1259,7 +1385,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "World News in Brief: Вакцинный кризис в Йемене, помощь Украине, еще один сотрудник БАПОР убит",
@@ -1296,7 +1422,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Десятилетия успехов в борьбе со СПИДом могут рухнуть, поскольку финансирование борьбы с ВИЧ истощается",
@@ -1338,6 +1464,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
+      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "«Слишком много неудач»: последний призыв заместителя главы ООН прекратить насилие в отношении женщин",
@@ -3675,7 +3802,7 @@
     }
   ],
   "status": "partial",
-  "media_count": 54,
+  "media_count": 56,
   "sources": [
     "un",
     "bbc",
