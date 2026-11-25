@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-11-25T11:29:46Z",
+  "updated_at": "2026-11-25T11:36:53Z",
   "items": [
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T11:29:40Z",
+      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
+      "translations": {
+        "ru": {
+          "title": "Килмар Абрего Гарсия покидает США и отправляется в Испанию, заканчивая битву за депортацию Трампа",
+          "summary": "Его депортация в Сальвадор и возвращение в США стали ярким моментом в дебатах по иммиграционной повестке президента Дональда Трампа.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Kilmar Ábrego García quitte les USA pour l'Espagne, mettant fin à la bataille de déportation Trump",
+          "summary": "Son expulsion vers El Salvador et son retour aux États-Unis sont devenus un point d'éclair dans le débat sur le programme d'immigration du président Donald Trump.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Kilmar Ábrego García abandona Estados Unidos para España, terminando la batalla de deportación de Trump",
+          "summary": "Su deportación a El Salvador y su regreso a Estados Unidos se convirtió en un punto de inflexión en el debate sobre la agenda de inmigración del presidente Donald Trump.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "Kilmar Ábrego García离开美国前往西班牙,结束川普驱逐战",
+          "summary": "他被驱逐到萨尔瓦多并返回美国成为关于唐纳德·特朗普总统移民议程的争论的热点.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "(كيلمار أبريغو غارسيا) وصل إلى (أسبانيا) لينهي معركة ترحيل (ترامب)",
+          "summary": "ترحيل (أبريغو غارسيا) إلى (السلفادور) والعودة إلى الولايات المتحدة أصبحت نقطةً بارزة في النقاش حول جدول أعمال هجرة الرئيس (دونالد ترامب)",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
     {
       "source": "bbc",
       "publisher": "BBC News",
@@ -14,7 +56,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Huawei признана виновной в краже коммерческой тайны, но оправдана за рэкет",
@@ -56,7 +98,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Колумбийская полиция штурмует супермаркет, чтобы освободить 20 заложников на 17 часов",
@@ -98,7 +140,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "В Южной Африке Рамафоса выиграла судебную битву из-за угрозы импичмента",
@@ -140,7 +182,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Зимбабве выдало ордер на арест сына Роберта Мугабе из-за пропущенной даты суда",
@@ -182,7 +224,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Двое детей из шести погибли после авиакатастрофы у побережья Миссисипи",
@@ -214,43 +256,6 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
-      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T06:36:00Z",
-      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
-      "translations": {
-        "ru": {
-          "title": "Килмар Абрего Гарсия покидает США и отправляется в Испанию, заканчивая битву за депортацию Трампа",
-          "summary": "Его депортация в Сальвадор и возвращение в США стали ярким моментом в дебатах по иммиграционной повестке президента Дональда Трампа.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "Kilmar Ábrego García quitte les USA pour l'Espagne, mettant fin à la bataille de déportation Trump",
-          "summary": "Son expulsion vers El Salvador et son retour aux États-Unis sont devenus un point d'éclair dans le débat sur le programme d'immigration du président Donald Trump.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "Kilmar Ábrego García abandona Estados Unidos para España, terminando la batalla de deportación de Trump",
-          "summary": "Su deportación a El Salvador y su regreso a Estados Unidos se convirtió en un punto de inflexión en el debate sobre la agenda de inmigración del presidente Donald Trump.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "Kilmar Ábrego García离开美国前往西班牙,结束川普驱逐战",
-          "summary": "他被驱逐到萨尔瓦多并返回美国成为关于唐纳德·特朗普总统移民议程的争论的热点.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
       "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
       "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T06:00:36Z",
@@ -261,7 +266,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Спустя четыре года после крушения огромного астероида космический корабль вернулся, чтобы оценить ущерб.",
@@ -303,7 +308,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Генеральный прокурор США уклоняется от вопросов о расследовании Nvidia",
@@ -345,7 +350,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Китайская космическая миссия стартовала с первым пакистанским астронавтом на борту",
@@ -387,7 +392,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Соломоновы Острова завершили спорный пакт о безопасности с Китаем по австралийскому договору",
@@ -429,7 +434,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Ложь, маскировка и сумки для серфинга: как ревнивый полицейский Сиднея пытался скрыть двойное убийство",
@@ -471,7 +476,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Томас Маркл обвиняется в США в хранении изображений сексуального насилия над детьми",
@@ -513,7 +518,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Спасение Трампом Хуана из Nvidia несет политические риски",
@@ -555,7 +560,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Рост цен на продукты питания в Индии",
@@ -597,7 +602,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Выстрел в лицо в 15: Жизнь, разрушенная десятилетием конфликта в Камеруне",
@@ -634,7 +639,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Столкновение политических взглядов отражает раскол Испании перед выборами",
@@ -676,7 +681,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Собственные данные России показывают почти 500 000 смертей в войне на Украине.",
@@ -718,7 +723,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Моя семья умерла в Украине. Моя мама обвинила войска Зеленского - правда сложная",
@@ -760,7 +765,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "США готовятся представить план новых тарифов для глобальных торговых партнеров",
@@ -802,7 +807,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Связанная с Китаем сеть использует подделки ИИ, чтобы очернить кандидатов на выборах в Тайване, сообщает BBC Verify",
@@ -844,7 +849,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Эти северокорейцы говорят, что за ними шпионили, избивали и сажали в тюрьму за то, что они христиане.",
@@ -886,7 +891,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Стая индеек преследует женщину на тротуаре Массачусетса",
@@ -970,7 +975,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "92-летний нигерийский монарх отстранен от должности после обвинений в сексуальном насилии",
@@ -1007,7 +1012,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Лидер индийской партии тараканов заявил, что ему запретили летать в Великобританию",
@@ -1133,7 +1138,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Израильский авиаудар убил начальника внутренней безопасности ХАМАСа в Газе",
@@ -1175,7 +1180,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Потери от мин в Сирии возросли через два года после войны",
@@ -1254,7 +1259,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "World News in Brief: Вакцинный кризис в Йемене, помощь Украине, еще один сотрудник БАПОР убит",
@@ -1291,7 +1296,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T11:29:46Z",
+      "imageCheckedAt": "2026-11-25T11:36:53Z",
       "translations": {
         "ru": {
           "title": "Десятилетия успехов в борьбе со СПИДом могут рухнуть, поскольку финансирование борьбы с ВИЧ истощается",
