@@ -60,10 +60,10 @@ assert '</body>' in html
 # Supply a visible initial heading until the SPA replaces the body.
 if '<h1' not in html.lower():
     html=html.replace('<body>','<body><main id="atlas-initial" style="padding:2rem"><h1>Diplomatic Atlas</h1><p>International relations research and education.</p><a href="./#research">Research Library</a></main>',1)
-html=html.replace('src/live.js"','src/live.js?v=20261125-home17"')
-html=html.replace('</head>','<link rel="stylesheet" href="src/atlas_extra.css">\n</head>')
-html=html.replace('</body>','<script src="src/atlas_extra.js?v=20261125-17"></script>\n</body>')
-html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261125-home17"></script>\n</body>',1)
+html=html.replace('src/live.js"','src/live.js?v=20261125-home18"')
+html=html.replace('</head>','<link rel="stylesheet" href="src/atlas_extra.css?v=20261125-18">\n</head>')
+html=html.replace('</body>','<script src="src/atlas_extra.js?v=20261125-18"></script>\n</body>')
+html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261125-home18"></script>\n</body>',1)
 # Only the selected production project is eligible for indexing.
 primary = os.environ.get('ATLAS_PRIMARY_HOST') == '1'
 canonical = 'https://diplomatic-atlas.pages.dev/'
@@ -73,6 +73,7 @@ if primary:
     for name in ('research-studio.html','sitemap.xml'):
         path = SITE/name
         path.write_text(path.read_text(encoding='utf-8').replace(old,canonical),encoding='utf-8')
+html=re.sub(r'src/app\.js(?:\?v=[^" ]+)?(?=")','src/app.js?v=20261125-18',html)
 page.write_text(html,encoding='utf-8')
 (SITE/'research-studio.html').write_text('<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url=./"><title>Diplomatic Atlas</title></head><body><a href="./">Diplomatic Atlas</a></body></html>',encoding='utf-8')
 xml=ET.parse(SITE/'sitemap.xml')
@@ -83,12 +84,12 @@ for node in list(xml.getroot()):
 xml.write(SITE/'sitemap.xml',encoding='utf-8',xml_declaration=True)
 # Live metadata must be network-first, including when an earlier service worker is installed.
 sw=SITE/'service-worker.js'
-swtext=re.sub(r"const CACHE='[^']+';", "const CACHE='diplomatic-atlas-static-home17';",sw.read_text(encoding='utf-8'))
+swtext=re.sub(r"const CACHE='[^']+';", "const CACHE='diplomatic-atlas-static-home18';",sw.read_text(encoding='utf-8'))
 swtext=swtext.replace('if(dynamic||freshAssets||event.request.mode',"if(dynamic||freshAssets||url.pathname.endsWith('/refresh-status.json')||url.pathname.endsWith('/live_intelligence.js')||event.request.mode")
 swtext=swtext.replace("if(dynamic||freshAssets||", "if(dynamic||freshAssets||url.pathname.endsWith('/data/research-live.json')||url.pathname.includes('/src/atlas_extra.')||")
 sw.write_text(swtext,encoding='utf-8')
 release=SITE/'data/release.js'
-release.write_text(release.read_text(encoding='utf-8').replace('v1.12','v1.17').replace('v1.13','v1.17'),encoding='utf-8')
+release.write_text(release.read_text(encoding='utf-8').replace('v1.12','v1.18').replace('v1.13','v1.18'),encoding='utf-8')
 for name in ('globe.js','studio.js','app.js','live_intelligence.js','live.js','atlas_extra.js'):
     subprocess.run(['node','--check',str(SITE/'src'/name)],check=True)
 ET.parse(SITE/'sitemap.xml')
