@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-11-25T10:32:25Z",
+  "updated_at": "2026-11-25T10:57:04Z",
   "items": [
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T10:52:09Z",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
+      "translations": {
+        "ru": {
+          "title": "Huawei признана виновной в краже коммерческой тайны, но оправдана за рэкет",
+          "summary": "Приговор был вынесен после многомесячного судебного разбирательства в Нью-Йорке.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Huawei reconnu coupable de vol de secrets commerciaux mais acquitté de racket",
+          "summary": "Le verdict fait suite à un procès d'un mois à New York.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Huawei se declaró culpable de robar secretos comerciales pero absuelto de hacer ruido",
+          "summary": "El veredicto sigue un juicio de meses en Nueva York.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "هواي) وجد مذنباً بسرقة الأسرار التجارية) لكن بُرئ من الإبتزاز",
+          "summary": "ويتبع الحكم محاكمة دامت شهرا في نيويورك.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "华伟犯窃取商业秘密罪 但被判勒索罪无罪",
+          "summary": "判决是在纽约进行长达数月的审判之后作出的。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T09:56:19Z",
+      "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77f7/live/4f619020-e8b3-11f1-9e64-bddd508b9881.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
+      "translations": {
+        "ru": {
+          "title": "Колумбийская полиция штурмует супермаркет, чтобы освободить 20 заложников на 17 часов",
+          "summary": "Один боевик был убит в ходе операции по освобождению около 20 покупателей и сотрудников после 17-часового испытания.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "supermarché de la police colombienne pour libérer 20 otages pendant 17 heures",
+          "summary": "Un tireur a été tué dans l'opération pour libérer une vingtaine de clients et d'employés après une épreuve d'otage de 17 heures.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Supermercado de tormenta de la policía colombiana para liberar 20 rehén durante 17 horas",
+          "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "متاجر عواصف الشرطة الكولومبية لتحرير 20 رهينة لمدة 17 ساعة",
+          "summary": "قُتل أحد المسلحين في العملية ليحرر حوالي 20 متسوقاً وموظفاً بعد متاجر رهائن لمدة 17 ساعة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "哥伦比亚警方暴风雪超市 释放20名人质17小时",
+          "summary": "一名枪手在17小时的人质折磨后在释放约20名店员和雇员的行动中被杀死.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T09:06:02Z",
+      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
+      "translations": {
+        "ru": {
+          "title": "В Южной Африке Рамафоса выиграла судебную битву из-за угрозы импичмента",
+          "summary": "Взлом произошел в 2020 году, когда воры якобы украли пачки долларовых купюр, спрятанных внутри дивана на ферме.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Ramaphosa d'Afrique du Sud gagne la bataille des tribunaux sur la menace de mise en accusation",
+          "summary": "Le cambriolage s'est produit en 2020, lorsque des voleurs auraient volé des paquets de billets de dollars américains cachés dans un canapé à la ferme.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Ramaphosa de Sudáfrica gana la batalla de la corte por la amenaza de impeachment",
+          "summary": "The break-in happened in 2020, when thieves allegedly stole packages of US Dollar bills hidden inside a sofa at the farm.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "(رامافوسا) في جنوب أفريقيا يفوز بمعركة المحكمة على تهديد الإزعاج",
+          "summary": "The break-in happened in 2020, when thieves allegedly stolen bundles of US dollar bills hidden inside a sofa at the farm.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "南非的拉马普萨赢得了法庭对弹劾的威胁",
+          "summary": "闯入事件发生在2020年,据称盗贼偷走了藏于农场沙发内的一捆美元钞票.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
     {
       "source": "bbc",
       "publisher": "BBC News",
@@ -14,7 +140,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Зимбабве выдало ордер на арест сына Роберта Мугабе из-за пропущенной даты суда",
@@ -56,7 +182,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Двое детей из шести погибли после авиакатастрофы у побережья Миссисипи",
@@ -98,7 +224,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Килмар Абрего Гарсия покидает США и отправляется в Испанию, заканчивая битву за депортацию Трампа",
@@ -135,7 +261,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Спустя четыре года после крушения огромного астероида космический корабль вернулся, чтобы оценить ущерб.",
@@ -177,7 +303,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Генеральный прокурор США уклоняется от вопросов о расследовании Nvidia",
@@ -219,7 +345,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Китайская космическая миссия стартовала с первым пакистанским астронавтом на борту",
@@ -251,41 +377,41 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T02:59:27Z",
-      "summary": "The verdict follows a months-long trial in New York.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T03:15:12Z",
+      "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/33d1/live/b36a7310-e87d-11f1-98e2-c97dce6bef0d.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
-          "title": "Huawei признана виновной в краже коммерческой тайны, но оправдана за рэкет",
-          "summary": "Приговор был вынесен после многомесячного судебного разбирательства в Нью-Йорке.",
+          "title": "Соломоновы Острова завершили спорный пакт о безопасности с Китаем по австралийскому договору",
+          "summary": "Соломоновы Острова Мэтью Вейл заявил, что его страна больше не будет точкой региональной неопределенности.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "fr": {
-          "title": "Huawei reconnu coupable de vol de secrets commerciaux mais acquitté de racket",
-          "summary": "Le verdict fait suite à un procès d'un mois à New York.",
+          "title": "Les Îles Salomon concluent un pacte de sécurité controversé avec la Chine pour le traité australien",
+          "summary": "Matthew, chef des Îles Salomon Wale a déclaré que son pays ne serait plus un point d'incertitude régionale.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "es": {
-          "title": "Huawei se declaró culpable de robar secretos comerciales pero absuelto de hacer ruido",
-          "summary": "El veredicto sigue un juicio de meses en Nueva York.",
+          "title": "Islas Salomón termina un polémico pacto de seguridad con China para el tratado australiano",
+          "summary": "Solomon Islands leader Matthew Wale dijo que su país ya no sería un punto de incertidumbre regional.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "ar": {
-          "title": "هواي) وجد مذنباً بسرقة الأسرار التجارية) لكن بُرئ من الإبتزاز",
-          "summary": "ويتبع الحكم محاكمة دامت شهرا في نيويورك.",
+          "title": "تنهي جزر سليمان عقد اتفاق أمني مثير للجدل مع الصين بشأن المعاهدة الأسترالية",
+          "summary": "زعيم جزر سليمان ماثيو وقال والي إن بلده لم يعد نقطة من عدم اليقين الإقليمي.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "zh": {
-          "title": "华伟犯窃取商业秘密罪 但被判勒索罪无罪",
-          "summary": "判决是在纽约进行长达数月的审判之后作出的。",
+          "title": "所罗门群岛与中国缔结澳洲条约的有争议安全条约",
+          "summary": "所罗门群岛领导人马修 Wale说,他的国家不再是一个区域不确定的地方。",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -303,7 +429,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Ложь, маскировка и сумки для серфинга: как ревнивый полицейский Сиднея пытался скрыть двойное убийство",
@@ -345,7 +471,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Томас Маркл обвиняется в США в хранении изображений сексуального насилия над детьми",
@@ -387,7 +513,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Спасение Трампом Хуана из Nvidia несет политические риски",
@@ -429,7 +555,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Рост цен на продукты питания в Индии",
@@ -471,7 +597,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Выстрел в лицо в 15: Жизнь, разрушенная десятилетием конфликта в Камеруне",
@@ -508,7 +634,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Столкновение политических взглядов отражает раскол Испании перед выборами",
@@ -550,7 +676,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Собственные данные России показывают почти 500 000 смертей в войне на Украине.",
@@ -592,7 +718,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Моя семья умерла в Украине. Моя мама обвинила войска Зеленского - правда сложная",
@@ -634,7 +760,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "США готовятся представить план новых тарифов для глобальных торговых партнеров",
@@ -676,7 +802,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Связанная с Китаем сеть использует подделки ИИ, чтобы очернить кандидатов на выборах в Тайване, сообщает BBC Verify",
@@ -718,7 +844,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Эти северокорейцы говорят, что за ними шпионили, избивали и сажали в тюрьму за то, что они христиане.",
@@ -760,7 +886,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Стая индеек преследует женщину на тротуаре Массачусетса",
@@ -844,7 +970,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "92-летний нигерийский монарх отстранен от должности после обвинений в сексуальном насилии",
@@ -881,7 +1007,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Лидер индийской партии тараканов заявил, что ему запретили летать в Великобританию",
@@ -1007,7 +1133,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Израильский авиаудар убил начальника внутренней безопасности ХАМАСа в Газе",
@@ -1049,7 +1175,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Потери от мин в Сирии возросли через два года после войны",
@@ -1128,7 +1254,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "World News in Brief: Вакцинный кризис в Йемене, помощь Украине, еще один сотрудник БАПОР убит",
@@ -1165,7 +1291,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
+      "imageCheckedAt": "2026-11-25T10:57:04Z",
       "translations": {
         "ru": {
           "title": "Десятилетия успехов в борьбе со СПИДом могут рухнуть, поскольку финансирование борьбы с ВИЧ истощается",
@@ -1207,7 +1333,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "«Слишком много неудач»: последний призыв заместителя главы ООН прекратить насилие в отношении женщин",
@@ -1244,7 +1369,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T10:32:25Z",
       "translations": {
         "ru": {
           "title": "Совет Безопасности: Может ли разрешение конфликтов идти в ногу с ИИ и дронами, которые меняют ход войны?",
@@ -3546,7 +3670,7 @@
     }
   ],
   "status": "partial",
-  "media_count": 51,
+  "media_count": 54,
   "sources": [
     "un",
     "bbc",
