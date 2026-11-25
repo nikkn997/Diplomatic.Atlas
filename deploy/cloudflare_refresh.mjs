@@ -69,6 +69,20 @@ async function updateEvents(previous,news,ok,now){
  const sources=OFFICIAL.filter(x=>ok.includes(x));const status=sources.length===OFFICIAL.length?'success':sources.length?'partial':'error';
  return {...previous,items,sources,status,updated_at:sources.length&&(JSON.stringify(items)!==JSON.stringify(previous.items)||status!==previous.status)?iso(now):previous.updated_at};
 }
+
+const RESEARCH_URLS={calendar:'https://www.un.org/calendar/en/date?order=uw_calendar_conference_from_date&sort=desc',votes:'https://digitallibrary.un.org/collection/Voting%20Data?ln=en',treaties:'https://treaties.un.org/'};
+async function getResearch(url){const r=await fetch(url,{headers:{'User-Agent':'DiplomaticAtlasResearch/1.16','Accept':'text/html,application/json'},signal:AbortSignal.timeout(18000)});if(!r.ok)throw Error('HTTP '+r.status);const s=await r.text();if(s.length>2500000)throw Error('Response too large');return s;}
+function anchors(html,base){const out=[];for(const m of html.matchAll(/<a\b([^>]*)>([\s\S]*?)<\/a>/gi)){try{const u=new URL(attr(m[1],'href'),base),t=plain(m[2]);if(u.protocol==='https:'&&u.hostname===new URL(base).hostname&&t.length>3)out.push({url:u.href,title:t.slice(0,250)});}catch{}}return out;}
+function fullDate(s){if(!/^\d{1,2}\s+[A-Za-z]{3,9}\s+\d{4}$/.test(s))return '';const t=Date.parse(s+' 00:00:00 GMT');return Number.isFinite(t)?iso(t).slice(0,10):'';}
+function researchRows(html,key,now){const base=RESEARCH_URLS[key],out=[];
+ if(key==='calendar'){for(const m of html.matchAll(/<tr\b[^>]*>([\s\S]*?)<\/tr>/gi)){const cells=[...m[1].matchAll(/<td\b[^>]*>([\s\S]*?)<\/td>/gi)].map(x=>plain(x[1]));if(cells.length<4)continue;const [title,city,from,to]=cells;const date=fullDate(from),end=fullDate(to);if(!date||!end||end<date||end<iso(now).slice(0,10)||!title||!city)continue;out.push({title:title.slice(0,250),city:city.slice(0,100),date,end,url:base});}}
+ if(key==='votes'){for(const x of anchors(html,base)){if(/\/record\/\d+/.test(x.url)&&x.title.length>25&&!/^(Detailed record|Similar records|Download)/i.test(x.title))out.push(x);}}
+ if(key==='treaties'){for(const x of anchors(html,base)){if(/^(?:CN\.\d+\.\d{4}|C\.N\.\d+\.\d{4}|[IA]-\d{4,})\b/i.test(x.title))out.push(x);}}
+ return [...new Map(out.map(x=>[key==='calendar'?x.title+'|'+x.date:x.url,x])).values()].slice(0,60);
+}
+async function researchUpdate(previous,now){const next={...previous};await Promise.all(Object.keys(RESEARCH_URLS).map(async k=>{const old=previous[k]||{},interval=k==='treaties'?86400000:3600000;if(old.checked_at&&now-Date.parse(old.checked_at)<interval)return;try{const items=researchRows(await getResearch(RESEARCH_URLS[k]),k,now);if(!items.length)throw Error('No matching records');next[k]={items,checked_at:iso(now),updated_at:iso(now),status:'success',source:RESEARCH_URLS[k]};}catch(e){next[k]={...old,items:old.items||[],checked_at:iso(now),status:'error',source:RESEARCH_URLS[k],reason:String(e).slice(0,100)};}}));return next;}
+async function refreshIndicators(previous,now){const codes={population:'SP.POP.TOTL',gdp:'NY.GDP.MKTP.CD',gdpPerCapita:'NY.GDP.PCAP.CD',lifeExpectancy:'SP.DYN.LE00.IN',inflation:'FP.CPI.TOTL.ZG',unemployment:'SL.UEM.TOTL.ZS'};const countries=JSON.parse(JSON.stringify(previous.countries||{}));const results=await Promise.allSettled(Object.entries(codes).map(async ([key,id])=>{const r=await fetch('https://api.worldbank.org/v2/country/all/indicator/'+id+'?format=json&mrnev=1&per_page=400',{signal:AbortSignal.timeout(18000)});if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();if(!Array.isArray(data[1])||Number(data[0]?.pages)>1)throw Error('Invalid response');let count=0;for(const x of data[1]){const code=x.countryiso3code,year=String(x.date||'');if(!countries[code]||x.indicator?.id!==id||!Number.isFinite(x.value)||!/^\d{4}$/.test(year))continue;const old=countries[code][key];if(!old||Number(old.year)<=Number(year))countries[code][key]={value:x.value,year};count++;}if(!count)throw Error('No values');return key;}));const ok=results.filter(x=>x.status==='fulfilled').length;return {...previous,countries,indicators:{...previous.indicators,...codes},checked_at:iso(now),updated_at:ok?iso(now):previous.updated_at,status:ok===6?'success':ok?'partial':'error',source:'https://api.worldbank.org/v2/',diagnostics:Object.fromEntries(Object.keys(codes).map((k,i)=>[k,results[i].status]))};}
+
 async function refresh(env){
  const now=Date.now();const previous=await env.ATLAS_LIVE.get('snapshot','json');
  if(!previous||!previous.liveNews||!previous.liveEvents)throw Error('Seed snapshot unavailable');
@@ -94,11 +108,9 @@ async function refresh(env){
  const liveNews=mergeNews(base.liveNews,rows,ok,now);
  const liveEvents=await updateEvents(previous.liveEvents,liveNews,ok,now);
  let indicators=previous.indicators;
- if(!previous.indicator_checked_at||now-Date.parse(previous.indicator_checked_at)>=6*3600000){
-  try{const r=await fetch('https://raw.githubusercontent.com/nikkn997/Diplomatic.Atlas/main/snapshot-cache/indicators.json',{cf:{cacheTtl:300},signal:AbortSignal.timeout(12000)});if(r.ok){const d=await r.json();if(d.countries&&d.source&&d.updated_at&&d.updated_at>=indicators.updated_at)indicators=d;}}catch{}
-  base={...base,indicator_checked_at:iso(now)};
- }
- const next={...base,liveNews:{...liveNews,diagnostics},liveEvents,indicators,checked_at:iso(now),failed_sources:Object.keys(FEEDS).filter(k=>!ok.includes(k))};
+ if(!previous.indicators?.checked_at||now-Date.parse(previous.indicators.checked_at)>=86400000){indicators=await refreshIndicators(previous.indicators,now);}
+ const research=await researchUpdate(previous.research||{},now);
+ const next={...base,liveNews:{...liveNews,diagnostics},liveEvents,indicators,research,checked_at:iso(now),failed_sources:Object.keys(FEEDS).filter(k=>!ok.includes(k))};
  await env.ATLAS_LIVE.put('snapshot',JSON.stringify(next));
  console.log(JSON.stringify({checked_at:next.checked_at,successful:ok,failed:next.failed_sources,news:liveNews.items.length,events:liveEvents.items.length}));
 }

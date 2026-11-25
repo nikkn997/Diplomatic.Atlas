@@ -9,10 +9,11 @@ function response(body,type,head){return new Response(head?null:body,{headers:{'
 export default {
  async fetch(request,env){
   const url=new URL(request.url),head=request.method==='HEAD';
-  if((request.method!=='GET'&&!head)||(!dataPaths.has(url.pathname)&&url.pathname!=='/refresh-status.json'&&url.pathname!=='/data/shared-live.js'))return env.ASSETS.fetch(request);
+  if((request.method!=='GET'&&!head)||(!dataPaths.has(url.pathname)&&url.pathname!=='/refresh-status.json'&&url.pathname!=='/data/shared-live.js'&&url.pathname!=='/data/research-live.json'))return env.ASSETS.fetch(request);
   try{
    const state=await env.ATLAS_LIVE.get('snapshot','json');
    if(!state)throw new Error('KV snapshot unavailable');
+   if(url.pathname==='/data/research-live.json')return response(JSON.stringify(state.research||{}),'application/json; charset=utf-8',head);
    if(url.pathname==='/data/shared-live.js'){
     const globals={liveNews:'ATLAS_LIVE_NEWS',liveEvents:'ATLAS_LIVE_EVENTS',indicators:'ATLAS_INDICATORS'};
     const script=Object.entries(globals).filter(([key])=>state[key]).map(([key,name])=>'window.'+name+' = '+JSON.stringify(state[key]).replace(/</g,'\\u003c')+';\n').join('');
@@ -30,7 +31,7 @@ export default {
     const material=JSON.stringify([base.fingerprint,...Object.entries(sources).map(([k,v])=>[k,v.updated_at,v.count,v.status])]);
     const hash=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(material));
     const fingerprint=Array.from(new Uint8Array(hash),x=>x.toString(16).padStart(2,'0')).join('');
-    return response(JSON.stringify({...base,trigger:'cloudflare-cron',fingerprint,sources,checked_at:state.checked_at||null,failed_sources:state.failed_sources||[]}), 'application/json; charset=utf-8',head);
+    return response(JSON.stringify({...base,trigger:'cloudflare-cron',fingerprint,sources,checked_at:state.checked_at||null,failed_sources:state.failed_sources||[],research:Object.fromEntries(Object.entries(state.research||{}).map(([k,v])=>[k,{status:v.status,checked_at:v.checked_at,count:v.items?.length||0}]))}), 'application/json; charset=utf-8',head);
    }
    const [key,globalName]=dataPaths.get(url.pathname),data=state[key];if(!data)throw new Error('Missing data');
    const json=JSON.stringify(data);
