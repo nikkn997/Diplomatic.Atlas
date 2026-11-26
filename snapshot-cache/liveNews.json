@@ -1,6 +1,636 @@
 {
-  "updated_at": "2026-11-26T00:19:13Z",
+  "updated_at": "2026-11-26T08:39:11Z",
   "items": [
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Two screenings of Pakistani TV show cancelled in India after backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cky97x7delz9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T08:30:12Z",
+      "summary": "The show, Dar-e-Nijaat, has become a sensation in India but is now embroiled in a political row.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5ab/live/48278a90-e95c-11f1-b8ee-3d27ee38d605.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Два показа пакистанского телешоу отменены в Индии",
+          "summary": "Шоу «Дар-э-Ниджаат» стало сенсацией в Индии, но теперь втянуто в политический скандал.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Deux projections de l'émission de télévision pakistanaise annulées en Inde après un contrecoup",
+          "summary": "Le spectacle, Dar-e-Nijaat, est devenu une sensation en Inde, mais il est maintenant embrouillé dans une ligne politique.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Dos proyecciones del programa de televisión paquistaní cancelado en India después de la reacción",
+          "summary": "El espectáculo, Dar-e-Nijaat, se ha convertido en una sensación en la India, pero ahora está envuelto en una fila política.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ألغي عرضان تلفزيونيان باكستانيان في الهند بعد الصدمة",
+          "summary": "وقد أصبح البرنامج، دار النجات، إحساسا في الهند ولكنه أصبح الآن في صف سياسي.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "巴基斯坦电视剧的两集在反弹后在印度取消",
+          "summary": "节目“Dar-e-Nijaat”在印度成为轰动,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Guinea orders residents to clean up the capital months after deadly rubbish dump collapse",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T07:43:48Z",
+      "summary": "The capital's main rubbish dump has been closed since the disaster, leading to rubbish piling up in the streets.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27e3/live/62b728b0-e967-11f1-9656-317cf5039a62.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Гвинея приказала жителям очистить столицу спустя несколько месяцев после обрушения мусорной свалки",
+          "summary": "Основная свалка мусора в столице была закрыта после катастрофы, что привело к накоплению мусора на улицах.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La Guinée ordonne aux résidents de nettoyer la capitale des mois après l'effondrement meurtrier de la décharge",
+          "summary": "La décharge principale de la capitale a été fermée depuis le désastre, ce qui a conduit à l'accumulation de déchets dans les rues.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Guinea ordena a los residentes que limpien la capital meses después de la caída mortal de basura",
+          "summary": "El principal vertedero de basura de la capital ha sido cerrado desde el desastre, conduciendo a la basura en las calles.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "تأمر غينيا المقيمين بتنظيف العاصمة بعد أشهر من انهيار المسامير",
+          "summary": "مقلب رأس المال الرئيسي قد أُغلق منذ الكارثة، مما أدى إلى قذف القمامة في الشوارع.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "几内亚命令居民在垃圾场倒塌数月后清理首都",
+          "summary": "首都的主要垃圾场自灾难后就关闭,导致垃圾堆积在街上。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T07:40:04Z",
+      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Новый договор между Великобританией и ЕС имеет пункт о прекращении на 10 лет, понимает BBC",
+          "summary": "Тексты договоров будут опубликованы сегодня во второй половине дня, наряду с законодательством, направленным на принятие основной части сделки.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le nouveau traité entre le Royaume-Uni et l'UE a une clause de résiliation de 10 ans, BBC comprend",
+          "summary": "Le texte des traités sera publié cet après-midi, parallèlement à la législation visant à promulguer la majeure partie de l'accord.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Nuevo tratado Reino Unido-UE tiene cláusula de terminación de 10 años, BBC entiende",
+          "summary": "El texto de los tratados se publicará esta tarde, junto con la legislación diseñada para promulgar la mayor parte del acuerdo.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "معاهدة جديدة بين المملكة المتحدة والاتحاد الأوروبي تتضمن حكماً بالإنهاء لمدة عشر سنوات، وتدرك شركة BBC",
+          "summary": "وسيُنشر نص المعاهدات بعد ظهر هذا اليوم، إلى جانب التشريع المصمم لسن الجزء الأكبر من الاتفاق.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "英国-欧盟新条约有10年终止条款 BBC理解",
+          "summary": "今天下午将公布条约案文,以及旨在颁布大部分交易的立法。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T07:34:47Z",
+      "summary": "The brief ground stop came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Самолет FedEx перелетел взлетно-посадочную полосу Майами, что привело к кратковременной приостановке полетов в аэропорту",
+          "summary": "Короткая остановка была сделана накануне Дня благодарения в США, одного из самых оживленных дней в году.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'avion FedEx dépasse la piste de Miami, entraînant une brève suspension des vols à l'aéroport",
+          "summary": "La brève escale a eu lieu à la veille des vacances de Thanksgiving aux États-Unis, l'un des jours de voyage les plus fréquentés de l'année.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El avión FedEx supera la pista de Miami, causando una breve suspensión de vuelos en el aeropuerto",
+          "summary": "La breve parada de tierra llegó en vísperas de las vacaciones de los Estados Unidos de Acción de Gracias, uno de los días de viaje más concurridos del año.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "طائرة من طراز FedEx تحلق فوق مجرى ميامي، مما تسبب في تعليق رحلات جوية قصيرة في المطار",
+          "summary": "لقد جاء التوقف الأرضي القصير عشية عطلة عيد الشكر الأمريكية، واحدة من أكثر أيام السفر حافلة في السنة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "FedEx飞机飞越迈阿密跑道,造成机场航班短暂暂停",
+          "summary": "短暂的地下车站是在美国感恩节假期前夕,是一年中最繁忙的旅行日之一.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "url": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T06:01:58Z",
+      "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ca2/live/a7b62ec0-e27d-11f1-bd1e-f9c53347c5a6.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Отчаянные призывы женщин в камере смертников в Иране после протестов",
+          "summary": "Женщины-протестующие и диссиденты приговорены к смертной казни в количестве, невиданном в течение десятилетий.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Appels désespérés de femmes dans le quartier des condamnés à mort en Iran après les manifestations",
+          "summary": "Les femmes protestataires et dissidentes sont condamnées à mort en nombre qui n'a pas été vu depuis des décennies, dit un groupe de défense des droits.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Llamamientos desesperados de mujeres en el corredor de la muerte en Irán después de protestas",
+          "summary": "Mujeres protestantes y disidentes están siendo condenados a muerte en números no vistos durante décadas, dice un grupo de derechos.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "نداءات مستديمة من النساء المحكوم عليهن بالإعدام في إيران بعد احتجاجات",
+          "summary": "وتُحكم على المتظاهرات والمنشقات بالإعدام بأعداد لا يُنظر إليها منذ عقود، وتقول مجموعة حقوق.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "伊朗死囚室女性在抗议后发出的绝望呼吁",
+          "summary": "女性抗议者和持不同政见者被判处死刑,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T05:19:35Z",
+      "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bcdc/live/8e8b2b50-e965-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Гитарист Duran Duran Энди Тейлор умер в возрасте 65 лет",
+          "summary": "Музыкант, который был соавтором некоторых из самых больших хитов группы, лечился от рака простаты.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Duran Duran Le guitariste Andy Taylor meurt à 65 ans",
+          "summary": "Le musicien, qui a co-écrit certains des plus grands succès du groupe, avait été traité pour le cancer de la prostate.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Guitarra Duran Andy Taylor muere de 65 años",
+          "summary": "El músico, que co-escribió algunos de los mayores éxitos de la banda, había sido tratado por cáncer de próstata.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "(دوران دوران) الغيتاري (آندي تايلور) يموت بعمر 65",
+          "summary": "الموسيقي، الذي شارك في كتابة بعض من أكبر ضربات الفرقة، تم علاجه لسرطان البروستات.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "杜兰·杜兰吉他手安迪·泰勒去世 65岁",
+          "summary": "音乐家,共同编剧乐队的一些最大点击率,曾因前列腺癌接受治疗.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T05:00:27Z",
+      "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/db1b/live/69c522b0-e962-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Би-би-си столкнулась с немцем, подозреваемым в снабжении банд мигрантов небольшими лодками",
+          "summary": "Марвин Ройтер оспаривает экстрадицию во Францию, где ему могут быть предъявлены обвинения в контрабанде, преступном сговоре и непредумышленном убийстве.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Watch: BBC confronte un Allemand soupçonné de fournir des bandes de migrants avec de petits bateaux",
+          "summary": "Marvin Reuter conteste l'extradition vers la France, où il pourrait être victime de contrebande, de complot criminel et d'homicide involontaire.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Ver: BBC confronta al hombre alemán sospechoso de suministrar pandillas migrantes con pequeños barcos",
+          "summary": "Marvin Reuter está impugnando la extradición a Francia, donde podría enfrentar contrabando, conspiración criminal y cargos de homicidio involuntario.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "شاهدْ: BBC يُواجهُ الرجلَ الألماني يُشتبه في إمداد عصابات المهاجرين بالقواربِ الصغيرةِ",
+          "summary": "(مارفن روتر) يعترض على تسليمه إلى (فرنسا) حيث يمكنه مواجهة التهريب والتآمر الإجرامي واتهامات القتل غير الطوعي",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "观察:BBC与涉嫌向移民团伙提供小船的德国男子对峙.",
+          "summary": "Marvin Reuter正在对引渡到法国提出质疑,他在那里可能面临走私、犯罪阴谋和非自愿过失杀人的指控。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T05:00:24Z",
+      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb9c/live/c1d62ef0-e8da-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Немецкий торговец лодками, подозреваемый в поставках контрабандных банд Канала, находит BBC",
+          "summary": "Почти треть переходов в начале 2026 года, предположительно, были связаны с лодками или двигателями немецкой фирмы.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Dealer allemand de bateau soupçonné de fournir des bandes de contrebande Channel, BBC trouve",
+          "summary": "Près d'un tiers des passages au début de 2026 auraient concerné des bateaux ou des moteurs de l'entreprise allemande.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El traficante alemán sospechoso de suministrar bandas de contrabando de canales, BBC encuentra",
+          "summary": "Casi un tercio de los cruces a principios de 2026 supuestamente implicaban barcos o motores de la firma del hombre alemán.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "تاجر مركب ألماني يشتبه في إمداده بعصابات تهريب القناة",
+          "summary": "تقريباً ثلث المعابر في أوائل عام 2026 يُزعم أنّها تحتوي على قوارب أو محركات من شركة الرجل الألماني",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "BBC发现德国船商 涉嫌提供海峡走私团伙",
+          "summary": "据称,2026年初将近三分之一的过境点涉及德国人公司的船只或发动机。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T04:10:58Z",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "США готовятся представить план новых тарифов для глобальных торговых партнеров",
+          "summary": "Новые пошлины ударят по многим крупнейшим торговым партнерам Америки, включая Китай и ЕС.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les États-Unis se préparent à dévoiler leur plan de nouveaux tarifs sur les partenaires commerciaux mondiaux",
+          "summary": "Les nouveaux prélèvements toucheraient un grand nombre des plus grands partenaires commerciaux américains, y compris la Chine et l'UE.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Estados Unidos se prepara para revelar un plan para nuevos aranceles sobre socios comerciales globales",
+          "summary": "Los nuevos impuestos golpearían a muchos de los mayores socios comerciales de Estados Unidos, incluyendo China y la UE.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الولايات المتحدة تستعد لوضع خطة لكشف تعريفات جديدة على الشركاء التجاريين العالميين",
+          "summary": "الجذام الجديدة ستضرب العديد من أكبر شركاء أمريكا التجاريين بما فيهم الصين والاتحاد الأوروبي",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "美国准备公布全球贸易伙伴新关税计划",
+          "summary": "新税将打击美国许多最大的贸易伙伴,包括中国和欧盟。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Macy's postpones Thanksgiving parade due to severe weather",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T04:04:14Z",
+      "summary": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d43/live/3a3ebde0-e94d-11f1-bfb6-fd0f1685abfb.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Macy's отложил парад в честь Дня благодарения из-за суровой погоды",
+          "summary": "Это был первый случай, когда празднование было отложено из-за штормов. Нью-Йорк ожидает разрушительных ветров и сильных осадков в День благодарения.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Macy reporte le défilé de Thanksgiving en raison du temps violent",
+          "summary": "C'était la première fois que la célébration emblématique était retardée à cause des tempêtes. New York s'attend à des vents néfastes et de fortes précipitations pendant les vacances de Thanksgiving.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Macy pospone el desfile de Acción de Gracias debido al tiempo severo",
+          "summary": "La primera vez que la celebración icónica se retrasó debido a las tormentas. Nueva York espera vientos dañinos y fuertes lluvias sobre las vacaciones de Acción de Gracias.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "موكب عيد الشكر بسبب الطقس الشديد",
+          "summary": "كانت المرّة الأولى التي تأخّر فيها الإحتفال المزعج بسبب العواصف وتتوقع نيويورك أن تدمر الرياح وتساقط الأمطار الغزيرة على عطلة عيد الشكر.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "梅西因天气恶劣推迟感恩节游行",
+          "summary": "这是有史以来第一次因为风暴而推迟标志性的庆祝活动. 纽约预计感恩节假期会出现破坏性的风和暴雨.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
+      "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T01:22:55Z",
+      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Калифорния предупреждает о наводнении на пике Кинг-Тидес в День благодарения",
+          "summary": "Части канадской провинции Британская Колумбия также могут быть затронуты штормами и наводнениями, которые происходят, когда миллионы людей путешествуют на праздник.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La Californie met en garde contre les inondations comme le roi Tides pic sur Thanksgiving",
+          "summary": "Certaines parties de la province canadienne de la Colombie-Britannique pourraient également être touchées par les tempêtes et les inondations, qui surviennent lorsque des millions de personnes voyagent pour les vacances.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "California advierte de inundaciones como King Tides pico sobre Acción de Gracias",
+          "summary": "Parte de la provincia canadiense de Columbia Británica también puede verse afectada por las tormentas e inundaciones, que vienen como millones de personas viajan para las vacaciones.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "كاليفورنيا) تحذر من الفيضانات) (عندما يصل الملك (تيديس) إلى قمة عيد الشكر",
+          "summary": "وقد تتأثر أيضا أجزاء من المقاطعة الكندية لكولومبيا البريطانية بالعواصف والفيضانات، التي تأتي مع سفر الملايين من الناس للعطلة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "加利福尼亚警告说,当国王在感恩节过后登顶时 洪水会淹没",
+          "summary": "加拿大不列颠哥伦比亚省的部分地区也可能受到风暴和洪水的影响,随着数百万人前往度假.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:23:05Z",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Армия США заявила, что контролируемый взрыв взрывчатки в Айове был «огромным успехом»",
+          "summary": "Несмотря на широко распространенную обеспокоенность жителей перед взрывом, чиновники говорят, что ведущие показания в этом районе до сих пор были многообещающими.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'armée américaine dit que l'explosion contrôlée d'explosifs dans l'Iowa a été \"un énorme succès\"",
+          "summary": "Malgré les préoccupations répandues des résidents avant l'explosion, les responsables affirment que les lectures de plomb dans la région ont été prometteuses jusqu'à présent.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El Ejército de EE.UU. dice que la explosión controlada de explosivos en Iowa fue \"el gran éxito\"",
+          "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promise.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الجيش الأمريكي يقول ان الانفجار المسيطر للمتفجرات في ايوا كان نجاحا كبيرا",
+          "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "美国陆军说,在爱荷华州的受控炸药爆炸是“成功”的。",
+          "summary": "尽管爆炸前居民普遍担心,但官员们说,该地区铅读数迄今很有希望。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:22:18Z",
+      "summary": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ae31/live/2d66b8d0-e8d9-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Глобальный джихадизм потерпел неудачу или он просто меняет форму?",
+          "summary": "Джихадистские группировки сосредоточены на местных проблемах, а не на глобальном терроре. Означает ли это реальные изменения?",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le djihadisme mondial a-t-il échoué ou est-il simplement en train de changer de forme?",
+          "summary": "Les groupes djihadistes semblent se concentrer sur les questions locales plutôt que sur la terreur mondiale. Cela signifie - t - il un véritable changement?",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "¿Ha fracasado el yihadismo global, o simplemente está cambiando de forma?",
+          "summary": "Los grupos yihadistas parecen centrarse en cuestiones locales más que en el terror mundial. ¿Significa un cambio real?",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "هل فشل الجهاد العالمي أم أنه ببساطة يغير شكله؟",
+          "summary": "ويبدو أن الجماعات الجهادية تركز على القضايا المحلية وليس على الإرهاب العالمي. هل هذا يدل على تغيير حقيقي؟",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "全球圣战主义是否失败了,还是它只是改变形状?",
+          "summary": "圣战团体似乎侧重于地方问题,而不是全球恐怖。 这是否意味着真正的改变?",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:07:51Z",
+      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "США одобрили план SpaceX отправить в космос миллион спутников данных",
+          "summary": "Созвездие Starmind стремится стать самым экономичным и энергоэффективным способом удовлетворения растущего спроса на вычислительные мощности ИИ.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les États-Unis approuvent le projet SpaceX d'envoyer un million de satellites de données dans l'espace",
+          "summary": "La constellation Starmind vise à être le moyen le plus rentable et le plus économe en énergie pour répondre à la demande croissante de puissance de calcul de l'IA.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "EE.UU. aprueba el plan SpaceX para enviar un millón de satélites de datos al espacio",
+          "summary": "La constelación Starmind pretende ser la forma más económica y energéticamente eficiente para satisfacer la creciente demanda de potencia de computación AI.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الولايات المتحدة توافق على خطة (سبيسكس) لإرسال مليون ساتل بيانات إلى الفضاء",
+          "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "美国批准SpaceX计划向太空发送百万颗数据卫星",
+          "summary": "Starmind星座旨在成为满足AI计算功率日益增长的需求成本和能效最高的方法.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T23:26:50Z",
+      "summary": "A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b16/live/b6eddfc0-e8c5-11f1-ac76-db9e97f93d67.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Реконструкция была призвана улучшить эти дома в Гонконге - это закончилось пожаром, который убил 168 человек.",
+          "summary": "Спустя год после одного из самых смертоносных пожаров в Гонконге, оставшиеся семьи все еще ждут правосудия.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Une rénovation était destinée à améliorer ces maisons de Hong Kong - il s'est terminé dans un incendie qui a tué 168",
+          "summary": "Un an après l'un des incendies les plus meurtriers de Hong Kong, les familles abandonnées attendent toujours la justice.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Una renovación estaba destinada a mejorar estos hogares de Hong Kong - terminó en un incendio que mató a 168",
+          "summary": "Un año después de uno de los incendios más mortíferos de Hong Kong, las familias siguen esperando justicia.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "وكان الغرض من التجديد هو تحسين هذه المنازل في هونغ كونغ - انتهى في نصل قتل 168",
+          "summary": "بعد سنة واحدة من أروع حرائق هونغ كونغ العائلات المتروكة لا تزال تنتظر العدالة",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "装修是为了改善香港的民宅,",
+          "summary": "在香港最致命的火灾发生一年后,留下的家属仍在等待正义.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
     {
       "source": "bbc",
       "publisher": "BBC News",
@@ -8,13 +638,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T22:18:06Z",
       "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/299a/live/007f6470-e96a-11f1-99a1-253766e7ad8b.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
       "translations": {
         "ru": {
           "title": "Тридцать один погиб в результате массового пожара, когда бензовоз потерпел крушение на Каирском шоссе",
@@ -56,7 +686,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
       "translations": {
         "ru": {
           "title": "Северная Корея высылает швейцарского дипломата в санкционном ряду",
@@ -130,41 +760,41 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T19:54:52Z",
-      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
+      "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+      "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T20:11:46Z",
+      "summary": "The crash was \"like something out of a disaster movie\", the BBC's science editor Rebecca Morelle says.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dd3/live/34155b50-e901-11f1-99a1-253766e7ad8b.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
       "translations": {
         "ru": {
-          "title": "Армия США заявила, что контролируемый взрыв взрывчатки в Айове был «огромным успехом»",
-          "summary": "Несмотря на широко распространенную обеспокоенность жителей перед взрывом, чиновники говорят, что ведущие показания в этом районе до сих пор были многообещающими.",
+          "title": "Космический корабль NASA столкнулся с астероидом - и что произошло дальше",
+          "summary": "Крушение было «как что-то из фильма-катастрофы», говорит научный редактор BBC Ребекка Морелл.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "fr": {
-          "title": "L'armée américaine dit que l'explosion contrôlée d'explosifs dans l'Iowa a été \"un énorme succès\"",
-          "summary": "Malgré les préoccupations répandues des résidents avant l'explosion, les responsables affirment que les lectures de plomb dans la région ont été prometteuses jusqu'à présent.",
+          "title": "Moment Nasa vaisseau spatial a frappé astéroïde - et ce qui est arrivé ensuite",
+          "summary": "L'accident était \"comme quelque chose sorti d'un film de catastrophe\", dit la rédactrice scientifique de la BBC Rebecca Morelle.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "es": {
-          "title": "El Ejército de EE.UU. dice que la explosión controlada de explosivos en Iowa fue \"el gran éxito\"",
-          "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promise.",
+          "title": "Moment Nasa nave espacial golpeó asteroide - y lo que sucedió después",
+          "summary": "El accidente fue \"como algo de una película de desastre\", dice el editor de ciencias de la BBC Rebecca Morelle.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "ar": {
-          "title": "الجيش الأمريكي يقول ان الانفجار المسيطر للمتفجرات في ايوا كان نجاحا كبيرا",
-          "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+          "title": "مركبه ناسا الفضائية ضربت الكويكب",
+          "summary": "الحادث كان \"مثل شيء من فيلم كارثية\" رئيس تحرير العلوم ب بي سي، ريبيكا موريل تقول.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "zh": {
-          "title": "美国陆军说,在爱荷华州的受控炸药爆炸是“成功”的。",
-          "summary": "尽管爆炸前居民普遍担心,但官员们说,该地区铅读数迄今很有希望。",
+          "title": "纳萨号飞船撞上小行星 接下来会发生什么",
+          "summary": "坠机事件\"就像一部灾难电影里的东西\",BBC的科学编辑Rebecca Morelle说.",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -207,6 +837,48 @@
         "zh": {
           "title": "以色列法官建议撤销对内塔尼亚胡最严重的指控",
           "summary": "以色列总理说,法官说,在三个案件中,有一个没有定罪的机会之后,对他的审判应该结束。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:38:05Z",
+      "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9742/live/bc650a50-e906-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Что мы знаем о тарифах Трампа на День благодарения",
+          "summary": "Дональд Трамп нацелился на Китай, Европейский союз и 12 других юрисдикций в новом раунде тарифов.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Ce que nous savons sur les tarifs de Thanksgiving de Trump",
+          "summary": "Donald Trump s'adresse à la Chine, à l'Union européenne et à 12 autres pays dans le cadre d'une nouvelle série de tarifs.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Lo que sabemos sobre los aranceles de Acción de Gracias de Trump",
+          "summary": "Donald Trump está apuntando a China, la Unión Europea y otras 12 jurisdicciones en una nueva ronda de aranceles.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ما نعرفه عن تعريفات عيد الشكر لـ(ترامب)",
+          "summary": "ويستهدف دونالد ترامب الصين والاتحاد الأوروبي و 12 ولاية قضائية أخرى في جولة جديدة من التعريفات.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "我们知道川普的感恩节关税",
+          "summary": "唐纳德·特朗普在新一轮关税中针对中国,欧盟和其他12个管辖区.",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -340,41 +1012,83 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "US announces new tariffs on host of countries including China",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T16:21:34Z",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T16:42:11Z",
+      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
       "translations": {
         "ru": {
-          "title": "США готовятся представить план новых тарифов для глобальных торговых партнеров",
-          "summary": "Новые пошлины ударят по многим крупнейшим торговым партнерам Америки, включая Китай и ЕС.",
+          "title": "Счета Трампа торговали акциями Nvidia 44 раза в этом году",
+          "summary": "Обзор финансовой отчетности президента США показывает, что инвестиционные портфели Дональда Трампа регулярно торгуются акциями технологического гиганта.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "fr": {
-          "title": "Les États-Unis se préparent à dévoiler leur plan de nouveaux tarifs sur les partenaires commerciaux mondiaux",
-          "summary": "Les nouveaux prélèvements toucheraient un grand nombre des plus grands partenaires commerciaux américains, y compris la Chine et l'UE.",
+          "title": "Les comptes de Trump ont échangé des actions de Nvidia 44 fois cette année, records montrent",
+          "summary": "Un examen des informations financières du président américain montre que les portefeuilles d'investissement de Donald Trump ont régulièrement échangé des actions dans le géant de la technologie.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "es": {
-          "title": "Estados Unidos se prepara para revelar un plan para nuevos aranceles sobre socios comerciales globales",
-          "summary": "Los nuevos impuestos golpearían a muchos de los mayores socios comerciales de Estados Unidos, incluyendo China y la UE.",
+          "title": "Las cuentas de Trump cambiaron Nvidia comparte 44 veces este año, los registros muestran",
+          "summary": "Una revisión de las declaraciones financieras del presidente estadounidense muestra que las carteras de inversión de Donald Trump han intercambiado regularmente acciones en el gigante tecnológico.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "ar": {
-          "title": "الولايات المتحدة تستعد لوضع خطة لكشف تعريفات جديدة على الشركاء التجاريين العالميين",
-          "summary": "الجذام الجديدة ستضرب العديد من أكبر شركاء أمريكا التجاريين بما فيهم الصين والاتحاد الأوروبي",
+          "title": "حسابات (ترامب) تاجرت بـ (نيفيديا) تشاطر 44 مرة هذا العام",
+          "summary": "استعراض للكشفات المالية لرئيس الولايات المتحدة يظهر أن حافظات استثمار (دونالد ترامب) تتاجر بشكل منتظم في أسهم العملاق التقني",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "zh": {
-          "title": "美国准备公布全球贸易伙伴新关税计划",
-          "summary": "新税将打击美国许多最大的贸易伙伴,包括中国和欧盟。",
+          "title": "特朗普的账户今年交易了44次恩维迪亚股票,记录显示",
+          "summary": "对美国总统财务披露的回顾显示,唐纳德·特朗普的投资组合经常交易技术巨头的股票.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T16:23:03Z",
+      "summary": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/69cf/live/cb085bf0-e8ea-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
+      "translations": {
+        "ru": {
+          "title": "Самый большой улов? Человек на мотоцикле делает невероятный захват",
+          "summary": "Пассажир на мотоцикле сделал замечательный однорукий улов после того, как мяч был выбит из земли в течение шести лет в Премьер-лиге Свата в Пакистане.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "C'est la meilleure prise ? L'homme en moto prend une prise incroyable",
+          "summary": "Un passager en moto a tiré une remarquable prise à une seule main après que la balle a été frappée hors du sol pour six dans la Swat Premier League au Pakistan.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "¿La mejor captura? El hombre en moto toma increíble agarre",
+          "summary": "Un pasajero en una motocicleta sacó de una notable captura de una mano después de que la pelota fuera del suelo por seis en la Swat Premier League en Pakistán.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "أعظم صيد على الإطلاق؟ الرجل على دراجة نارية يأخذ قبضة رائعة",
+          "summary": "راكب على دراجة نارية سحب صيداً رائعاً بيد واحدة بعد ضرب الكرة من على الأرض لستة في عصبة (سوات بريمير) في باكستان",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "捕捉得最好吗? 骑摩托车的人要抓得难以置信",
+          "summary": "一名乘坐摩托车的乘客在巴基斯坦斯瓦特总理联赛中击出6枚球后,在球场上单手拉下了令人瞩目的接球.",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -476,7 +1190,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
       "translations": {
         "ru": {
           "title": "Пять российских военных самолетов попали в авиаудар, говорит Украина",
@@ -1106,7 +1820,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
       "translations": {
         "ru": {
           "title": "Китайская космическая миссия стартовала с первым пакистанским астронавтом на борту",
@@ -1558,6 +2272,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
       "translations": {
         "ru": {
           "title": "Стая индеек преследует женщину на тротуаре Массачусетса",
@@ -2362,6 +3077,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
       "translations": {
         "ru": {
           "title": "Момент, когда войска нападают на дом и захватывают мексиканского наркобарона",
@@ -2608,6 +3324,7 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
       "translations": {
         "ru": {
           "title": "Бразилия просит комиссию по спорам о дополнительных пошлинах, введенных Соединенными Штатами",
@@ -3348,6 +4065,7 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
       "translations": {
         "ru": {
           "title": "Меры по содействию торговле помогают компенсировать рост новых торговых ограничений G20",
@@ -3383,12 +4101,13 @@
       "url": "https://www.wto.org/english/news_e/news26_e/safe_eec_23nov26_561_e.htm",
       "published": "2026-11-23T00:00:00Z",
       "summary": "On 23 November 2026, the European Union notified the WTO’s Committee on Safeguards that it had initiated, on the same day (23 November 2026), a safeguard investigation into imports of certain composite input materials.",
-      "image": "",
+      "image": "https://www.wto.org/images/img_index/photos/wtobuilding320202_lg.jpg",
       "category": "news",
       "locationLabel": "World Trade Organization",
       "flagCode": "",
-      "imageCredit": "",
-      "imageType": "",
+      "imageCredit": "World Trade Organization",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T08:39:11Z",
       "translations": {
         "ru": {
           "title": "ЕС начинает расследование в отношении некоторых композитных материалов",
@@ -4327,9 +5046,8 @@
     }
   ],
   "status": "partial",
-  "media_count": 64,
+  "media_count": 82,
   "sources": [
-    "un",
     "bbc",
     "ungeneva",
     "geneva_meetings",
