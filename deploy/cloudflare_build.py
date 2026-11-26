@@ -74,6 +74,14 @@ if primary:
         path = SITE/name
         path.write_text(path.read_text(encoding='utf-8').replace(old,canonical),encoding='utf-8')
 html=re.sub(r'src/app\.js(?:\?v=[^" ]+)?(?=")','src/app.js?v=20261125-18',html)
+# SEO: public project name and current scope, independent of hidden Studio.
+description='Diplomatic Atlas is an independent international relations platform with a world atlas, diplomatic events, UN voting records, country data and research tools.'
+html=html.replace('Diplomatic Atlas: independent international relations research with a world atlas, UN voting records, diplomatic events and a Research Studio.',description)
+html=html.replace('<a href="./research-studio.html">Read about Research Studio</a>.','<a href="./#research">Explore the research library</a>.')
+html=html.replace('<a href="./research-studio.html">Explore Research Studio</a>','<a href="./#research">Explore the research library</a>')
+html=re.sub(r'(<script type="application/ld\+json">)(.*?)(</script>)',lambda m: m.group(1)+json.dumps({**json.loads(m.group(2)),'name':'Diplomatic Atlas','alternateName':'DiplomaticAtlas','description':description},ensure_ascii=False)+m.group(3),html,count=1,flags=re.S)
+assert 'and a Research Studio.' not in html
+assert 'DiplomaticAtlas' in html
 page.write_text(html,encoding='utf-8')
 (SITE/'research-studio.html').write_text('<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url=./"><title>Diplomatic Atlas</title></head><body><a href="./">Diplomatic Atlas</a></body></html>',encoding='utf-8')
 xml=ET.parse(SITE/'sitemap.xml')
@@ -123,7 +131,7 @@ if (SITE/'PHOTO_CREDITS.md').is_file():
 worker=ROOT/'deploy/cloudflare_pages_worker.mjs'
 subprocess.run(['node','--check',str(worker)],check=True)
 shutil.copy2(worker,PUBLIC/'_worker.js')
-routes=['/data/research-live.json','/data/shared-live.js','/refresh-status.json','/data/liveNews.json','/data/liveNews.js','/data/liveEvents.json','/data/liveEvents.js','/data/indicators.json','/data/indicators.js']
+routes=['/research-studio.html','/data/research-live.json','/data/shared-live.js','/refresh-status.json','/data/liveNews.json','/data/liveNews.js','/data/liveEvents.json','/data/liveEvents.js','/data/indicators.json','/data/indicators.js']
 (PUBLIC/'_routes.json').write_text(json.dumps({'version':1,'include':routes,'exclude':[]}),encoding='utf-8')
 # Keep alternative hosts non-indexable. Publish only the chosen site's sitemap.
 if primary:

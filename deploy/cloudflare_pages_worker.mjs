@@ -9,6 +9,7 @@ function response(body,type,head){return new Response(head?null:body,{headers:{'
 export default {
  async fetch(request,env){
   const url=new URL(request.url),head=request.method==='HEAD';
+  if(url.pathname==='/research-studio.html'&&(request.method==='GET'||head))return new Response(head?null:'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex, follow"><title>Diplomatic Atlas</title></head><body><main><h1>Diplomatic Atlas</h1><p>This section is temporarily unavailable.</p><p><a href="/">Return to Diplomatic Atlas</a></p></main></body></html>',{status:410,headers:{'content-type':'text/html; charset=utf-8','x-robots-tag':'noindex, follow','cache-control':'no-store'}});
   if((request.method!=='GET'&&!head)||(!dataPaths.has(url.pathname)&&url.pathname!=='/refresh-status.json'&&url.pathname!=='/data/shared-live.js'&&url.pathname!=='/data/research-live.json'))return env.ASSETS.fetch(request);
   try{
    const state=await env.ATLAS_LIVE.get('snapshot','json');
