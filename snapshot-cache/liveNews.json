@@ -1,6 +1,384 @@
 {
-  "updated_at": "2026-11-25T16:08:33Z",
+  "updated_at": "2026-11-26T00:19:13Z",
   "items": [
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T22:18:06Z",
+      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Тридцать один погиб в результате массового пожара, когда бензовоз потерпел крушение на Каирском шоссе",
+          "summary": "Еще 21 человек получил ранения после того, как танкер перевернулся на оживленной кольцевой дороге в египетской столице.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Trente et un morts dans un incendie massif alors que le pétrolier s'écrase sur l'autoroute du Caire",
+          "summary": "Vingt et un autres sont blessés après que le pétrolier se serait renversé sur une route périphérique occupée dans la capitale égyptienne.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Treinta y uno murieron en un incendio masivo mientras el tanque de combustible se estrella en la carretera de El Cairo",
+          "summary": "Another 21 are injured after the tanker reportedly overturns on a occupied ring road in the Egyptian capital.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "قُتل واحد وثلاثون في حريق هائل بينما تحطم ناقلة وقود على الطريق السريع القاهرة",
+          "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "开罗公路油轮坠毁,31人被大火炸死",
+          "summary": "另有21人受伤,因为据报该油轮在埃及首都一条繁忙的环形公路上翻覆。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T21:51:17Z",
+      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Северная Корея высылает швейцарского дипломата в санкционном ряду",
+          "summary": "Швейцарские официальные лица заявили, что отношения будут поддерживаться через посольство Северной Кореи в Берне и собственное посольство в Пекине.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La Corée du Nord expulse le diplomate suisse dans la ligne des sanctions",
+          "summary": "Des responsables suisses ont déclaré que les relations seraient maintenues par l'ambassade de Corée du Nord à Berne et sa propre ambassade à Pékin.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Corea del Norte expulsa diplomático suizo en la fila de sanciones",
+          "summary": "Funcionarios suizos dijeron que las relaciones se mantendrían a través de la embajada de Corea del Norte en Berna, y su propia embajada en Beijing.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "تطرد كوريا الشمالية الدبلوماسي السويسري في صف الجزاءات",
+          "summary": "المسؤولين السويسريين قالوا أن العلاقات ستستمر عبر سفارة كوريا الشمالية في برن وسفارتها في بيجين",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "朝鲜在制裁中驱逐瑞士外交官",
+          "summary": "瑞士官员表示,关系将通过朝鲜驻伯尔尼大使馆,以及自己的驻北京大使馆来保持.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T21:43:18Z",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Акции США продолжают падать, поскольку опасения по поводу ИИ усиливаются",
+          "summary": "Все три основных индекса США снизились в начале торгов, а Nasdaq с доминированием технологий снизился почти на 4%.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les stocks américains diminuent encore avec l'intensification des craintes sur l'IA",
+          "summary": "Les trois principaux indices américains ont diminué au début du commerce, le Nasdaq dominé par la technologie ayant diminué de près de 4 %.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Las acciones estadounidenses caen más lejos mientras los temores sobre la IA intensifican",
+          "summary": "Los tres principales índices de los EE.UU. bajaron en el comercio temprano, con el Nasdaq dominado por tecnología casi 4%.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "تسقط مخزونات الولايات المتحدة أبعد من ذلك مع تصعيد المخاوف على AI",
+          "summary": "جميع الأرقام القياسية الرئيسية الثلاثة للولايات المتحدة كانت في وقت مبكر من التجارة، حيث انخفض الناصرة التقنية بنسبة 4 في المائة تقريبا.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "随着对AI的恐惧加剧,美国库存进一步下降",
+          "summary": "美国三大指数在早期交易中都下降了,以技术为主的纳斯达克下降了近4%.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:54:52Z",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Армия США заявила, что контролируемый взрыв взрывчатки в Айове был «огромным успехом»",
+          "summary": "Несмотря на широко распространенную обеспокоенность жителей перед взрывом, чиновники говорят, что ведущие показания в этом районе до сих пор были многообещающими.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'armée américaine dit que l'explosion contrôlée d'explosifs dans l'Iowa a été \"un énorme succès\"",
+          "summary": "Malgré les préoccupations répandues des résidents avant l'explosion, les responsables affirment que les lectures de plomb dans la région ont été prometteuses jusqu'à présent.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El Ejército de EE.UU. dice que la explosión controlada de explosivos en Iowa fue \"el gran éxito\"",
+          "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promise.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الجيش الأمريكي يقول ان الانفجار المسيطر للمتفجرات في ايوا كان نجاحا كبيرا",
+          "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "美国陆军说,在爱荷华州的受控炸药爆炸是“成功”的。",
+          "summary": "尽管爆炸前居民普遍担心,但官员们说,该地区铅读数迄今很有希望。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:47:39Z",
+      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d91d/live/f0a5ecf0-e8fa-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Израильские судьи рекомендуют снять с Нетаньяху самые серьезные обвинения",
+          "summary": "Премьер-министр Израиля заявил, что его судебный процесс должен закончиться после того, как судьи заявили, что в одном из трех дел мало шансов на осуждение.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les juges israéliens recommandent d'abandonner les charges les plus graves contre Netanyahu",
+          "summary": "Le Premier ministre israélien dit que son procès devrait prendre fin après que les juges aient dit qu'il y avait peu de chances de condamnation dans l'un des trois cas.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Los jueces israelíes recomiendan retirar los cargos más graves contra Netanyahu",
+          "summary": "El Primer Ministro israelí dice que su juicio debe terminar después de que los jueces dijeron que había pocas posibilidades de condena en uno de los tres casos.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "يوصي القضاة الإسرائيليون بإسقاط معظم التهم الخطيرة ضد نتنياهو",
+          "summary": "ويقول رئيس الوزراء الإسرائيلي إن محاكمته ينبغي أن تنتهي بعد أن قال القضاة إنه لم تكن هناك فرصة ضئيلة للإدانة في واحدة من ثلاث قضايا.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "以色列法官建议撤销对内塔尼亚胡最严重的指控",
+          "summary": "以色列总理说,法官说,在三个案件中,有一个没有定罪的机会之后,对他的审判应该结束。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T19:26:44Z",
+      "summary": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/23e1/live/16967230-e906-11f1-b9b5-17bef7133655.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Двое детей из шести погибли после авиакатастрофы у побережья Миссисипи",
+          "summary": "Дайверы обнаружили тела четырех взрослых и двух мальчиков в возрасте 8 и 10 лет в фюзеляже.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Deux enfants parmi six morts après un accident d'avion au large de la côte du Mississippi",
+          "summary": "Les plongeurs ont trouvé les corps de quatre adultes et deux garçons, âgés de 8 et 10 ans, dans le fuselage, a déclaré la Garde côtière américaine.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Dos niños entre seis muertos después del accidente aéreo en la costa de Mississippi",
+          "summary": "Divers encontró los cuerpos de cuatro adultos y dos chicos, de 8 y 10 años, en el fuselaje, dijo la Guardia Costera de Estados Unidos.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "طفلان من بين ستة موتى بعد تحطم طائرة على ساحل ميسيسيبي",
+          "summary": "وجد (ديفرز) جثث أربعة من الكبار وطفلين، تتراوح أعمارهم بين 8 و10 سنوات، في النسيج، قال خفر السواحل الأمريكي.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "在密西西比州海岸空难后 六人中有两名儿童丧生",
+          "summary": "美国海岸警卫队说,潜水员在机身中发现了4名成年人和2名8岁和10岁男孩的尸体。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T18:41:33Z",
+      "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Колумбийская полиция штурмует супермаркет, чтобы освободить 20 заложников на 17 часов",
+          "summary": "Один боевик был убит в ходе операции по освобождению около 20 покупателей и сотрудников после 17-часового испытания.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "supermarché de la police colombienne pour libérer 20 otages pendant 17 heures",
+          "summary": "Un tireur a été tué dans l'opération pour libérer une vingtaine de clients et d'employés après une épreuve d'otage de 17 heures.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Supermercado de tormenta de la policía colombiana para liberar 20 rehén durante 17 horas",
+          "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "متاجر عواصف الشرطة الكولومبية لتحرير 20 رهينة لمدة 17 ساعة",
+          "summary": "قُتل أحد المسلحين في العملية ليحرر حوالي 20 متسوقاً وموظفاً بعد متاجر رهائن لمدة 17 ساعة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "哥伦比亚警方暴风雪超市 释放20名人质17小时",
+          "summary": "一名枪手在17小时的人质折磨后在释放约20名店员和雇员的行动中被杀死.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T17:30:16Z",
+      "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Спустя четыре года после крушения огромного астероида космический корабль вернулся, чтобы оценить ущерб.",
+          "summary": "Миссия изучает астероид, намеренно сбитый с курса сталкивающимся космическим кораблем.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Quatre ans après un énorme accident d'astéroïde, un vaisseau spatial est revenu pour évaluer les dommages",
+          "summary": "La mission étudie un astéroïde délibérément renversé par un vaisseau en collision.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Cuatro años después de un enorme accidente de asteroides, una nave espacial ha regresado para evaluar el daño",
+          "summary": "La misión está estudiando un asteroide deliberadamente derribado por una nave espacial colisionante.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "بعد أربع سنوات من تحطم الكويكب الضخم، عادت مركبة فضائية الآن لتقييم الضرر",
+          "summary": "المُهمّة تُدرسُ a كويكب مُتعمد أَسقطَ مِنْ المسارِ مِن قِبل a مركبة فضائية متطوّرة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "巨型小行星坠毁四年后 一艘飞船已经返回评估损坏情况",
+          "summary": "该任务正在研究一颗小行星被一个碰撞航天器故意撞断航线.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T16:21:34Z",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "США готовятся представить план новых тарифов для глобальных торговых партнеров",
+          "summary": "Новые пошлины ударят по многим крупнейшим торговым партнерам Америки, включая Китай и ЕС.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les États-Unis se préparent à dévoiler leur plan de nouveaux tarifs sur les partenaires commerciaux mondiaux",
+          "summary": "Les nouveaux prélèvements toucheraient un grand nombre des plus grands partenaires commerciaux américains, y compris la Chine et l'UE.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Estados Unidos se prepara para revelar un plan para nuevos aranceles sobre socios comerciales globales",
+          "summary": "Los nuevos impuestos golpearían a muchos de los mayores socios comerciales de Estados Unidos, incluyendo China y la UE.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الولايات المتحدة تستعد لوضع خطة لكشف تعريفات جديدة على الشركاء التجاريين العالميين",
+          "summary": "الجذام الجديدة ستضرب العديد من أكبر شركاء أمريكا التجاريين بما فيهم الصين والاتحاد الأوروبي",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "美国准备公布全球贸易伙伴新关税计划",
+          "summary": "新税将打击美国许多最大的贸易伙伴,包括中国和欧盟。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
     {
       "source": "bbc",
       "publisher": "BBC News",
@@ -14,7 +392,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
       "translations": {
         "ru": {
           "title": "В Южной Африке Рамафоса выиграла судебную битву из-за угрозы импичмента",
@@ -46,6 +424,48 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
+      "title": "Canadian astronaut welcomes baby girl from space station",
+      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T15:41:39Z",
+      "summary": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/19b2/live/aed9cc20-e8e5-11f1-a3b9-79c60ec9ab33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Канадский астронавт встретил девочку с космической станции",
+          "summary": "Джошуа Кутрик, в настоящее время находящийся в своей первой космической миссии, является четвертым астронавтом в истории, который пропустил рождение ребенка на борту Международной космической станции.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'astronaute canadien accueille la petite fille de la station spatiale",
+          "summary": "Joshua Kutryk, actuellement dans sa première mission spatiale, n'est que le quatrième astronaute de l'histoire à manquer la naissance d'un enfant à bord de la Station spatiale internationale.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "astronauta canadiense da la bienvenida a la niña de la estación espacial",
+          "summary": "Joshua Kutryk, actualmente en su primera misión espacial, es sólo el cuarto astronauta de la historia para perder el nacimiento de un niño mientras a bordo de la Estación Espacial Internacional.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "رائد الفضاء الكندي يرحب بطفلة من محطة الفضاء",
+          "summary": "(جوشوا كوتريك) حالياً في أول مهمة فضائية له هو رائد الفضاء الرابع في التاريخ ليفوت ولادة طفل بينما على متن محطة الفضاء الدولية",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "加拿大宇航员欢迎太空站的女婴",
+          "summary": "约书亚·库特里克(Joshua Kutryk)目前执行他的第一次太空任务,他只是历史上第4个在国际空间站上怀有孩子的宇航员.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
       "title": "Five Russian military jets hit in airfield strike, says Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T14:46:41Z",
@@ -56,7 +476,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
       "translations": {
         "ru": {
           "title": "Пять российских военных самолетов попали в авиаудар, говорит Украина",
@@ -81,6 +501,48 @@
         "zh": {
           "title": "5架俄军喷气式飞机在机场袭击中被击中,乌克兰说",
           "summary": "萨瓦斯利卡机场拥有俄罗斯用来向乌克兰发射超音速导弹和滑翔弹的飞机。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T14:06:13Z",
+      "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/90a4/live/02d1fbb0-e8d5-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Израильский удар убил высокопоставленного сотрудника службы безопасности ХАМАС и членов его семьи в городе Газа",
+          "summary": "По словам врачей, Мохаммед Абу аль-Уф, глава службы внутренней безопасности ХАМАСа в северной части Газы, был убит со своей женой и двумя дочерьми-подростками.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La grève israélienne tue un haut responsable de la sécurité du Hamas et sa famille à Gaza",
+          "summary": "Mohammed Abu al-Ouf, chef du service de sécurité interne du Hamas dans le nord de Gaza, a été tué avec sa femme et deux filles adolescentes, disent les médecins.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El ataque israelí mata a altos funcionarios de seguridad y familiares de Hamás en la ciudad de Gaza",
+          "summary": "Mohammed Abu al-Ouf, jefe del servicio de seguridad interno de Hamás en el norte de Gaza, fue asesinado con su esposa y dos hijas adolescentes, dicen los médicos.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "قتل الإضراب الإسرائيلي مسؤول أمن أقدم في حماس وأسرته في مدينة غزة",
+          "summary": "محمد أبو العوف، رئيس جهاز الأمن الداخلي في حماس في شمال غزة، قُتل مع زوجته وابنتين مراهقتين، كما يقول الأطباء.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "以色列袭击杀害了加沙市哈马斯高级安全官员和家人",
+          "summary": "医生说,加沙北部哈马斯内部安全局局长Mohammed Abu al-Ouf与妻子和两个十几岁的女儿被杀死。",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -140,7 +602,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
       "translations": {
         "ru": {
           "title": "Нигерийский актер Пит Эдочи умер в возрасте 79 лет",
@@ -182,7 +644,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
       "translations": {
         "ru": {
           "title": "Собственные данные России показывают почти 500 000 смертей в войне на Украине.",
@@ -214,6 +676,216 @@
     {
       "source": "un",
       "publisher": "UN News",
+      "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168879",
+      "published": "2026-11-25T12:00:00Z",
+      "summary": "UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in recent months has heightened existential fears.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Тюрк предупреждает о растущем риске зверских преступлений против палестинцев",
+          "summary": "Глава ООН по правам человека Волкер Тюрк в среду предупредил о растущем риске дальнейших зверских преступлений Израиля против палестинцев, заявив, что насилие на оккупированном Западном берегу в последние месяцы усилило экзистенциальные опасения.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Türk met en garde contre l'élargissement du risque de crimes d'atrocité contre les Palestiniens",
+          "summary": "Le chef des droits de l'homme des Nations unies, Volker Türk, a mis en garde mercredi contre un risque croissant de nouveaux crimes d'atrocité commis par Israël contre des Palestiniens, affirmant que la violence en Cisjordanie occupée a accru les craintes existentielles ces derniers mois.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Türk advierte de un riesgo creciente de crímenes de atrocidad contra los palestinos",
+          "summary": "Volker Türk, jefe de derechos humanos de las Naciones Unidas, advirtió el miércoles sobre un riesgo cada vez mayor de crímenes atroces por Israel contra los palestinos, diciendo que la violencia en la Ribera Occidental ocupada en los últimos meses ha aumentado los temores existenciales.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "يحذر تورك من زيادة خطر ارتكاب جرائم فظيعة ضد الفلسطينيين",
+          "summary": "وحذر رئيس حقوق الإنسان في الأمم المتحدة، فولكر تورك، يوم الأربعاء، من تزايد خطر ارتكاب إسرائيل جرائم فظيعة أخرى ضد الفلسطينيين، قائلا إن العنف في الضفة الغربية المحتلة في الأشهر الأخيرة قد زاد من المخاوف الوجودية.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "Türk警告说,针对巴勒斯坦人的暴行罪的风险会加大。",
+          "summary": "联合国人权负责人沃尔克·蒂尔克星期三警告说,以色列针对巴勒斯坦人的进一步暴行犯罪的风险越来越大,他说,近几个月来,被占领西岸的暴力加剧了生存恐惧。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168873",
+      "published": "2026-11-25T12:00:00Z",
+      "summary": "A home is a place where people can feel safe. Yet billions worldwide do not have a proper place to live. As the global housing crisis deepens, government representatives and housing experts are gathering at the United Nations in Nairobi from 26-27 November...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Правительства и эксперты собрались в Найроби для решения глобального жилищного кризиса",
+          "summary": "Дом – это место, где люди могут чувствовать себя в безопасности. Миллиарды людей во всем мире не имеют подходящего места для жизни. По мере углубления глобального жилищного кризиса представители правительств и эксперты по вопросам жилья собираются в Организации Объединенных Наций в Найроби с 26 по 27 ноября.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les gouvernements et les experts se réunissent à Nairobi pour faire face à la crise mondiale du logement",
+          "summary": "Une maison est un endroit où les gens peuvent se sentir en sécurité. Pourtant, des milliards de personnes dans le monde n'ont pas leur place. Alors que la crise mondiale du logement s'aggrave, des représentants du gouvernement et des experts du logement se réunissent à l'ONU à Nairobi du 26 au 27 novembre...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Gobiernos y expertos se reúnen en Nairobi para hacer frente a la crisis mundial de la vivienda",
+          "summary": "Un hogar es un lugar donde la gente puede sentirse segura. Sin embargo, miles de millones en todo el mundo no tienen un lugar adecuado para vivir. A medida que la crisis mundial de la vivienda se profundiza, representantes gubernamentales y expertos en vivienda se reúnen en las Naciones Unidas en Nairobi del 26 al 27 de noviembre...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "تجتمع الحكومات والخبراء في نيروبي لمعالجة أزمة الإسكان العالمية",
+          "summary": "المنزل هو المكان الذي يشعر فيه الناس بالأمان ومع ذلك فإن البلايين في جميع أنحاء العالم ليس لديهم مكان مناسب للعيش فيه. ومع تفاقم أزمة الإسكان العالمية، يجتمع ممثلو الحكومات وخبراء الإسكان في الأمم المتحدة في نيروبي في الفترة من 26 إلى 27 تشرين الثاني/نوفمبر...",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "各国政府和专家会聚内罗毕,应对全球住房危机",
+          "summary": "家是人们可以感到安全的地方. 然而,全世界有数十亿人没有适当的住地。 随着全球住房危机的加深,政府代表和住房专家正于11月26-27日在内罗毕联合国聚会.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168875",
+      "published": "2026-11-25T12:00:00Z",
+      "summary": "For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table. Now it also means finding shelter, hauling water and keeping children in school – all from a tent.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Вдовы Газы воспитывают свои семьи в одиночку: «Мы выполняем свои обязанности дважды, но где наши права?»",
+          "summary": "Для женщин в Газе, которые потеряли своих мужей во время войны, обеспечение семьи больше не означает просто положить еду на стол. Теперь это также означает поиск укрытия, перевозку воды и содержание детей в школе - все из палатки.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Gaza Les veuves élèvent seules leur famille : « Nous faisons nos devoirs deux fois plus, mais où sont nos droits ? »",
+          "summary": "Pour les femmes de Gaza qui ont perdu leur mari pendant la guerre, pourvoir à une famille ne signifie plus simplement mettre de la nourriture sur la table. Maintenant, il faut aussi trouver un abri, transporter de l'eau et garder les enfants à l'école – tous à partir d'une tente.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Las viudas de Gaza levantan a sus familias solas: “Hacemos nuestros deberes dos veces, pero ¿dónde están nuestros derechos?”",
+          "summary": "Para las mujeres de Gaza que perdieron a sus maridos en la guerra, prever una familia ya no significa poner comida sobre la mesa. Ahora también significa encontrar refugio, transportar agua y mantener a los niños en la escuela – todo de una tienda de campaña.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "وتربي أرامل غزة أسرهن بمفردهن: &quot; نقوم بواجباتنا مرتين، ولكن أين حقوقنا؟ &quot; .",
+          "summary": "وبالنسبة للنساء في غزة اللاتي فقدن أزواجهن في الحرب، فإن توفير الرعاية للأسرة لا يعني مجرد وضع الغذاء على الطاولة. وهذا يعني الآن أيضاً إيجاد المأوى، ونقل المياه، وإبقاء الأطفال في المدرسة - كلها من خيمة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "加沙的寡妇独自抚养家人:`我们两次履行我们的职责,但我们的权利在哪里?",
+          "summary": "对于在战争中失去丈夫的加沙妇女来说,养活一个家庭不再仅仅意味着把食物放在桌上。 也意味着寻找住所、取水、让孩子上学,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168876",
+      "published": "2026-11-25T12:00:00Z",
+      "summary": "Two years after the Mazan rape trial, David Pelicot has decided to put his name to the fight against sexual violence – and to confront what he calls the silence of men.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Сын Жизель Пеликот: «Не быть жестоким — это минимум»",
+          "summary": "Спустя два года после суда над Мазаном Дэвид Пеликот решил назвать свое имя в борьбе против сексуального насилия и противостоять тому, что он называет молчанием мужчин.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le fils de Gisèle Pelicot: «Ne pas être violent est le strict minimum»",
+          "summary": "Deux ans après le procès pour viol de Mazan, David Pelicot a décidé de mettre son nom dans la lutte contre la violence sexuelle – et de confronter ce qu'il appelle le silence des hommes.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Hijo de Gisèle Pelicot: “No ser violento es el mínimo desnudo”",
+          "summary": "Dos años después del juicio de violación de Mazan, David Pelicot ha decidido poner su nombre en la lucha contra la violencia sexual y confrontar lo que él llama el silencio de los hombres.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "Gisèle Pelicot’ son: ‘Not being violent is the bare minimum’",
+          "summary": "وبعد عامين من محاكمة مازان للاغتصاب، قرر ديفيد بيليكوت أن يضع اسمه في مكافحة العنف الجنسي، وأن يواجه ما يدعوه بصمت الرجال.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "Gisèle Pelicot的儿子: \" 不使用暴力是最起码的 \"",
+          "summary": "在马赞强奸案审判两年后,大卫·佩利科特决定将他的名字写在打击性暴力的斗争中 — — 并对抗他所说的男人的沉默.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168874",
+      "published": "2026-11-25T12:00:00Z",
+      "summary": "Millions of people in Somalia still face severe food shortages and malnutrition despite the reduced risk of famine in Baidoa, global food security experts warned on Wednesday.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Сомали: риск голода в Байдоа снижается, но миллионы людей все еще голодают",
+          "summary": "Миллионы людей в Сомали по-прежнему сталкиваются с серьезной нехваткой продовольствия и недоеданием, несмотря на снижение риска голода в Байдоа.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Somalie : Le risque de famine diminue à Baidoa – mais des millions continuent de souffrir de faim",
+          "summary": "Des millions de Somaliens sont encore confrontés à de graves pénuries alimentaires et à la malnutrition malgré le risque réduit de famine à Baidoa, a averti mercredi les experts de la sécurité alimentaire mondiale.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Somalia: El riesgo de hambre disminuye en Baidoa – pero millones siguen teniendo hambre",
+          "summary": "Millones de personas en Somalia siguen enfrentando una grave escasez de alimentos y malnutrición a pesar de la disminución del riesgo de hambruna en Baidoa, advirtió el miércoles expertos en seguridad alimentaria mundial.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "Somalia: Famine risk decreases in Baidoa — but millions still going hunger",
+          "summary": "وما زال الملايين من الناس في الصومال يواجهون نقصا حادا في الأغذية وسوء التغذية على الرغم من انخفاض خطر المجاعة في بيدوا، حذر خبراء الأمن الغذائي العالميون يوم الأربعاء.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "索马里:拜多阿的饥荒风险减少,但仍有数百万人挨饿",
+          "summary": "尽管拜多阿的饥荒风险降低,但索马里数百万人仍然面临严重的粮食短缺和营养不良,全球粮食安全专家星期三警告说。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
       "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
       "published": "2026-11-25T12:00:00Z",
@@ -224,7 +896,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
       "translations": {
         "ru": {
           "title": "Война в Йемене: глава чрезвычайной помощи призывает к доступу к пострадавшим от войны общинам",
@@ -256,48 +928,6 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T11:45:16Z",
-      "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
-      "translations": {
-        "ru": {
-          "title": "Колумбийская полиция штурмует супермаркет, чтобы освободить 20 заложников на 17 часов",
-          "summary": "Один боевик был убит в ходе операции по освобождению около 20 покупателей и сотрудников после 17-часового испытания.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "supermarché de la police colombienne pour libérer 20 otages pendant 17 heures",
-          "summary": "Un tireur a été tué dans l'opération pour libérer une vingtaine de clients et d'employés après une épreuve d'otage de 17 heures.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "Supermercado de tormenta de la policía colombiana para liberar 20 rehén durante 17 horas",
-          "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "متاجر عواصف الشرطة الكولومبية لتحرير 20 رهينة لمدة 17 ساعة",
-          "summary": "قُتل أحد المسلحين في العملية ليحرر حوالي 20 متسوقاً وموظفاً بعد متاجر رهائن لمدة 17 ساعة.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "哥伦比亚警方暴风雪超市 释放20名人质17小时",
-          "summary": "一名枪手在17小时的人质折磨后在释放约20名店员和雇员的行动中被杀死.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
       "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
       "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25T10:52:09Z",
@@ -308,7 +938,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
       "translations": {
         "ru": {
           "title": "Huawei признана виновной в краже коммерческой тайны, но оправдана за рэкет",
@@ -333,6 +963,48 @@
         "zh": {
           "title": "华伟犯窃取商业秘密罪 但被判勒索罪无罪",
           "summary": "判决是在纽约进行长达数月的审判之后作出的。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Protesters call on Israel to free Palestinian student held without charge",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25T10:03:42Z",
+      "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3883/live/d69e8c10-e8b7-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
+      "translations": {
+        "ru": {
+          "title": "Протестующие призывают Израиль освободить палестинского студента безвозмездно",
+          "summary": "26-летний Махди Тунси был взят из университетского общежития в начале этого месяца и с тех пор содержится без предъявления обвинений.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les manifestants appellent Israël à libérer l'étudiant palestinien détenu gratuitement",
+          "summary": "Mahdi Tunsi, âgé de 26 ans, a été enlevé de son dortoir universitaire au début du mois et a depuis été détenu gratuitement.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Los manifestantes piden a Israel que libere al estudiante palestino sin cargo",
+          "summary": "Mahdi Tunsi, de 26 años, fue tomado de su dormitorio universitario a principios de este mes y desde entonces se ha mantenido sin cargo.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "يدعو البروتستانت إسرائيل إلى تحرير طالب فلسطيني يحتجز دون مقابل",
+          "summary": "وقد أُخذ ماهدي تونسي، 26، من مهنته الجامعية في وقت سابق من هذا الشهر، وهو محتجز منذ ذلك الحين بدون تهمة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "抗议者呼吁以色列免费关押巴勒斯坦学生。",
+          "summary": "马赫迪·通西(Mahdi Tunsi,26岁)本月早些时候被从他的大学宿舍取走,此后一直被免费关押.",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -375,90 +1047,6 @@
         "zh": {
           "title": "津巴布韦对罗伯特·穆加贝的儿子发出逮捕令,因为错过了开庭日期",
           "summary": "津巴布韦已故前总统罗伯特·穆加贝之子近日遭遇多重法律麻烦.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T07:08:22Z",
-      "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb6d/live/6e173110-e899-11f1-801d-b916df288324.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
-      "translations": {
-        "ru": {
-          "title": "Двое детей из шести погибли после авиакатастрофы у побережья Миссисипи",
-          "summary": "Дайверы обнаружили тела четырех взрослых и двух мальчиков в возрасте 8 и 10 лет в фюзеляже.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "Deux enfants parmi six morts après un accident d'avion au large de la côte du Mississippi",
-          "summary": "Les plongeurs ont trouvé les corps de quatre adultes et deux garçons, âgés de 8 et 10 ans, dans le fuselage, a déclaré la Garde côtière américaine.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "Dos niños entre seis muertos después del accidente aéreo en la costa de Mississippi",
-          "summary": "Divers encontró los cuerpos de cuatro adultos y dos chicos, de 8 y 10 años, en el fuselaje, dijo la Guardia Costera de Estados Unidos.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "طفلان من بين ستة موتى بعد تحطم طائرة على ساحل ميسيسيبي",
-          "summary": "وجد (ديفرز) جثث أربعة من الكبار وطفلين، تتراوح أعمارهم بين 8 و10 سنوات، في النسيج، قال خفر السواحل الأمريكي.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "在密西西比州海岸空难后 六人中有两名儿童丧生",
-          "summary": "美国海岸警卫队说,潜水员在机身中发现了4名成年人和2名8岁和10岁男孩的尸体。",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
-      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T06:00:36Z",
-      "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d025/live/0cb03100-e741-11f1-802a-678be58471bb.png",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
-      "translations": {
-        "ru": {
-          "title": "Спустя четыре года после крушения огромного астероида космический корабль вернулся, чтобы оценить ущерб.",
-          "summary": "Миссия изучает астероид, намеренно сбитый с курса сталкивающимся космическим кораблем.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "Quatre ans après un énorme accident d'astéroïde, un vaisseau spatial est revenu pour évaluer les dommages",
-          "summary": "La mission étudie un astéroïde délibérément renversé par un vaisseau en collision.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "Cuatro años después de un enorme accidente de asteroides, una nave espacial ha regresado para evaluar el daño",
-          "summary": "La misión está estudiando un asteroide deliberadamente derribado por una nave espacial colisionante.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "بعد أربع سنوات من تحطم الكويكب الضخم، عادت مركبة فضائية الآن لتقييم الضرر",
-          "summary": "المُهمّة تُدرسُ a كويكب مُتعمد أَسقطَ مِنْ المسارِ مِن قِبل a مركبة فضائية متطوّرة.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "巨型小行星坠毁四年后 一艘飞船已经返回评估损坏情况",
-          "summary": "该任务正在研究一颗小行星被一个碰撞航天器故意撞断航线.",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -518,7 +1106,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
       "translations": {
         "ru": {
           "title": "Китайская космическая миссия стартовала с первым пакистанским астронавтом на борту",
@@ -602,7 +1190,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
       "translations": {
         "ru": {
           "title": "Ложь, маскировка и сумки для серфинга: как ревнивый полицейский Сиднея пытался скрыть двойное убийство",
@@ -644,7 +1232,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
       "translations": {
         "ru": {
           "title": "Томас Маркл обвиняется в США в хранении изображений сексуального насилия над детьми",
@@ -686,7 +1274,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
       "translations": {
         "ru": {
           "title": "Спасение Трампом Хуана из Nvidia несет политические риски",
@@ -728,7 +1316,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
+      "imageCheckedAt": "2026-11-26T00:19:13Z",
       "translations": {
         "ru": {
           "title": "Рост цен на продукты питания в Индии",
@@ -770,7 +1358,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Выстрел в лицо в 15: Жизнь, разрушенная десятилетием конфликта в Камеруне",
@@ -807,7 +1394,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Столкновение политических взглядов отражает раскол Испании перед выборами",
@@ -849,7 +1435,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Моя семья умерла в Украине. Моя мама обвинила войска Зеленского - правда сложная",
@@ -881,48 +1466,6 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "US preparing to unveil plan for new tariffs on global trading partners",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25T00:38:01Z",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T11:36:53Z",
-      "translations": {
-        "ru": {
-          "title": "США готовятся представить план новых тарифов для глобальных торговых партнеров",
-          "summary": "Новые пошлины ударят по многим крупнейшим торговым партнерам Америки, включая Китай и ЕС.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "Les États-Unis se préparent à dévoiler leur plan de nouveaux tarifs sur les partenaires commerciaux mondiaux",
-          "summary": "Les nouveaux prélèvements toucheraient un grand nombre des plus grands partenaires commerciaux américains, y compris la Chine et l'UE.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "Estados Unidos se prepara para revelar un plan para nuevos aranceles sobre socios comerciales globales",
-          "summary": "Los nuevos impuestos golpearían a muchos de los mayores socios comerciales de Estados Unidos, incluyendo China y la UE.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "الولايات المتحدة تستعد لوضع خطة لكشف تعريفات جديدة على الشركاء التجاريين العالميين",
-          "summary": "الجذام الجديدة ستضرب العديد من أكبر شركاء أمريكا التجاريين بما فيهم الصين والاتحاد الأوروبي",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "美国准备公布全球贸易伙伴新关税计划",
-          "summary": "新税将打击美国许多最大的贸易伙伴,包括中国和欧盟。",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
       "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
       "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24T23:05:11Z",
@@ -933,7 +1476,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Связанная с Китаем сеть использует подделки ИИ, чтобы очернить кандидатов на выборах в Тайване, сообщает BBC Verify",
@@ -975,7 +1517,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Эти северокорейцы говорят, что за ними шпионили, избивали и сажали в тюрьму за то, что они христиане.",
@@ -1017,7 +1558,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Стая индеек преследует женщину на тротуаре Массачусетса",
@@ -1385,7 +1925,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "World News in Brief: Вакцинный кризис в Йемене, помощь Украине, еще один сотрудник БАПОР убит",
@@ -1422,7 +1961,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "Десятилетия успехов в борьбе со СПИДом могут рухнуть, поскольку финансирование борьбы с ВИЧ истощается",
@@ -1464,7 +2002,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-25T16:08:33Z",
       "translations": {
         "ru": {
           "title": "«Слишком много неудач»: последний призыв заместителя главы ООН прекратить насилие в отношении женщин",
@@ -3787,22 +4324,10 @@
       "image": "",
       "flagCode": "CHE",
       "locationLabel": "Geneva, Switzerland"
-    },
-    {
-      "source": "who",
-      "publisher": "World Health Organization",
-      "title": "World leaders renew commitment to protect the world from future pandemics",
-      "url": "https://www.who.int/news/item/25-09-2026-world-leaders-renew-commitment-to-protect-the-world-from-future-pandemics",
-      "published": "2026-09-25T00:00:00Z",
-      "summary": "Member states renewed commitments on pandemic preparedness during the UN General Assembly week, according to WHO.",
-      "category": "multilateral",
-      "image": "",
-      "flagCode": "USA",
-      "locationLabel": "New York, United States"
     }
   ],
   "status": "partial",
-  "media_count": 56,
+  "media_count": 64,
   "sources": [
     "un",
     "bbc",
