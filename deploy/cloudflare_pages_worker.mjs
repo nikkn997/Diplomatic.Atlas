@@ -29,7 +29,7 @@ export default {
       const data=state[name];if(data)sources[name]={updated_at:data.updated_at||null,status:data.status||null,count:Array.isArray(data.items)?data.items.length:Object.keys(data.countries||{}).length};
       else if(base.sources?.[name])sources[name]=base.sources[name];
     }
-    const material=JSON.stringify([base.fingerprint,...Object.entries(sources).map(([k,v])=>[k,v.updated_at,v.count,v.status])]);
+    const material=JSON.stringify([base.fingerprint,...Object.entries(state.research||{}).map(([k,v])=>[k,v.updated_at,v.status,v.items?.length]),...Object.entries(sources).map(([k,v])=>[k,v.updated_at,v.count,v.status])]);
     const hash=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(material));
     const fingerprint=Array.from(new Uint8Array(hash),x=>x.toString(16).padStart(2,'0')).join('');
     return response(JSON.stringify({...base,trigger:'cloudflare-cron',fingerprint,sources,checked_at:state.checked_at||null,failed_sources:state.failed_sources||[],research:Object.fromEntries(Object.entries(state.research||{}).map(([k,v])=>[k,{status:v.status,checked_at:v.checked_at,count:v.items?.length||0}]))}), 'application/json; charset=utf-8',head);

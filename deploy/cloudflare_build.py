@@ -6,6 +6,7 @@ import json
 import os
 import pathlib
 import re
+import struct
 import shutil
 import subprocess
 import sys
@@ -60,10 +61,10 @@ assert '</body>' in html
 # Supply a visible initial heading until the SPA replaces the body.
 if '<h1' not in html.lower():
     html=html.replace('<body>','<body><main id="atlas-initial" style="padding:2rem"><h1>Diplomatic Atlas</h1><p>International relations research and education.</p><a href="./#research">Research Library</a></main>',1)
-html=html.replace('src/live.js"','src/live.js?v=20261125-home18"')
-html=html.replace('</head>','<link rel="stylesheet" href="src/atlas_extra.css?v=20261125-18">\n</head>')
-html=html.replace('</body>','<script src="src/atlas_extra.js?v=20261125-18"></script>\n</body>')
-html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261125-home18"></script>\n</body>',1)
+html=html.replace('src/live.js"','src/live.js?v=20261126-stability19"')
+html=html.replace('</head>','<link rel="stylesheet" href="src/atlas_extra.css?v=20261126-19">\n</head>')
+html=html.replace('</body>','<script src="src/atlas_extra.js?v=20261126-19"></script>\n</body>')
+html=html.replace('</body>','<script src="src/live_intelligence.js?v=20261126-stability19"></script>\n</body>',1)
 # Only the selected production project is eligible for indexing.
 primary = os.environ.get('ATLAS_PRIMARY_HOST') == '1'
 canonical = 'https://diplomatic-atlas.pages.dev/'
@@ -73,7 +74,7 @@ if primary:
     for name in ('research-studio.html','sitemap.xml'):
         path = SITE/name
         path.write_text(path.read_text(encoding='utf-8').replace(old,canonical),encoding='utf-8')
-html=re.sub(r'src/app\.js(?:\?v=[^" ]+)?(?=")','src/app.js?v=20261125-18',html)
+html=re.sub(r'src/app\.js(?:\?v=[^" ]+)?(?=")','src/app.js?v=20261126-19',html)
 # SEO: public project name and current scope, independent of hidden Studio.
 description='Diplomatic Atlas is an independent international relations platform with a world atlas, diplomatic events, UN voting records, country data and research tools.'
 html=html.replace('Diplomatic Atlas: independent international relations research with a world atlas, UN voting records, diplomatic events and a Research Studio.',description)
@@ -82,6 +83,15 @@ html=html.replace('<a href="./research-studio.html">Explore Research Studio</a>'
 html=re.sub(r'(<script type="application/ld\+json">)(.*?)(</script>)',lambda m: m.group(1)+json.dumps({**json.loads(m.group(2)),'name':'Diplomatic Atlas','alternateName':'DiplomaticAtlas','description':description},ensure_ascii=False)+m.group(3),html,count=1,flags=re.S)
 assert 'and a Research Studio.' not in html
 assert 'DiplomaticAtlas' in html
+# Stable favicon files reuse the existing Diplomatic Atlas brand.
+icon=(SITE/'assets/icons/icon-192.png').read_bytes()
+assert icon[:8]==b'\x89PNG\r\n\x1a\n'
+width,height=struct.unpack('>II',icon[16:24])
+assert width==height==192
+(SITE/'favicon.png').write_bytes(icon)
+(SITE/'favicon.ico').write_bytes(struct.pack('<HHHBBBBHHII',0,1,1,width,height,0,0,1,32,len(icon),22)+icon)
+shutil.copy2(SITE/'assets/images/mark.svg',SITE/'favicon.svg')
+html=re.sub(r'<link rel="icon"[^>]*>','<link rel="icon" type="image/png" sizes="192x192" href="/favicon.png">\n  <link rel="icon" type="image/svg+xml" sizes="any" href="/favicon.svg">\n  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">',html,count=1)
 page.write_text(html,encoding='utf-8')
 (SITE/'research-studio.html').write_text('<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url=./"><title>Diplomatic Atlas</title></head><body><a href="./">Diplomatic Atlas</a></body></html>',encoding='utf-8')
 xml=ET.parse(SITE/'sitemap.xml')
@@ -92,12 +102,12 @@ for node in list(xml.getroot()):
 xml.write(SITE/'sitemap.xml',encoding='utf-8',xml_declaration=True)
 # Live metadata must be network-first, including when an earlier service worker is installed.
 sw=SITE/'service-worker.js'
-swtext=re.sub(r"const CACHE='[^']+';", "const CACHE='diplomatic-atlas-static-home18';",sw.read_text(encoding='utf-8'))
+swtext=re.sub(r"const CACHE='[^']+';", "const CACHE='diplomatic-atlas-static-stability19';",sw.read_text(encoding='utf-8'))
 swtext=swtext.replace('if(dynamic||freshAssets||event.request.mode',"if(dynamic||freshAssets||url.pathname.endsWith('/refresh-status.json')||url.pathname.endsWith('/live_intelligence.js')||event.request.mode")
 swtext=swtext.replace("if(dynamic||freshAssets||", "if(dynamic||freshAssets||url.pathname.endsWith('/data/research-live.json')||url.pathname.includes('/src/atlas_extra.')||")
 sw.write_text(swtext,encoding='utf-8')
 release=SITE/'data/release.js'
-release.write_text(release.read_text(encoding='utf-8').replace('v1.12','v1.18').replace('v1.13','v1.18'),encoding='utf-8')
+release.write_text(release.read_text(encoding='utf-8').replace('v1.12','v1.19').replace('v1.13','v1.19'),encoding='utf-8')
 for name in ('globe.js','studio.js','app.js','live_intelligence.js','live.js','atlas_extra.js'):
     subprocess.run(['node','--check',str(SITE/'src'/name)],check=True)
 ET.parse(SITE/'sitemap.xml')
@@ -121,7 +131,7 @@ for name in ('liveNews','liveEvents','indicators'):
     status['sources'][name]={'updated_at':data.get('updated_at'),'status':data.get('status'),'count':len(data.get('items',data.get('countries',{})))}
 (SITE/'refresh-status.json').write_text(json.dumps(status,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 PUBLIC.mkdir(exist_ok=True)
-for name in ('index.html','manifest.webmanifest','service-worker.js','research-studio.html','refresh-status.json'):
+for name in ('index.html','manifest.webmanifest','service-worker.js','research-studio.html','refresh-status.json','favicon.png','favicon.svg','favicon.ico'):
     shutil.copy2(SITE/name,PUBLIC/name)
 for name in ('assets','data','src'):
     shutil.copytree(SITE/name,PUBLIC/name,dirs_exist_ok=True)
@@ -150,4 +160,7 @@ headers='' if primary else '/*\n  X-Robots-Tag: noindex\n'
 headers+='/refresh-status.json\n  Cache-Control: no-cache\n  X-Robots-Tag: noindex\n/data/*\n  Cache-Control: no-cache\n  X-Robots-Tag: noindex\n/service-worker.js\n  Cache-Control: no-cache\n'
 (PUBLIC/'_headers').write_text(headers,encoding='utf-8')
 assert (PUBLIC/'src/globe.js').is_file()
+assert (PUBLIC/'favicon.png').stat().st_size>100
+assert '/favicon.png' in (PUBLIC/'index.html').read_text(encoding='utf-8')
+subprocess.run(['node',str(ROOT/'deploy/test_stability.mjs')],check=True,cwd=ROOT)
 print('Cloudflare preview build ready in public/. Live endpoints use Cloudflare KV; original GitHub deployment unaffected.')
