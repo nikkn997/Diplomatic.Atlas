@@ -1,44 +1,39 @@
 {
-  "updated_at": "2026-11-26T12:34:24Z",
+  "updated_at": "2026-11-26T18:38:44Z",
   "items": [
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death at 65",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T12:33:23Z",
-      "summary": "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2990/live/c4071ed0-e981-11f1-99b6-a35a62fa4264.jpg",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T17:54:22Z",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
-          "title": "Гитарист Duran Duran Энди Тейлор умер в возрасте 65 лет",
-          "summary": "Музыкант, который был соавтором некоторых из самых больших хитов группы, лечился от рака простаты.",
+          "title": "В Кувейте погибли двое итальянцев, Иран отрицает свою ответственность",
+          "summary": "По данным министерства иностранных дел Италии, пара была техническими специалистами немецкой компании Rheinmetall.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "fr": {
-          "title": "Duran Duran Le guitariste Andy Taylor meurt à 65 ans",
-          "summary": "Le musicien, qui a co-écrit certains des plus grands succès du groupe, avait été traité pour le cancer de la prostate.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "Guitarra Duran Andy Taylor muere de 65 años",
-          "summary": "El músico, que co-escribió algunos de los mayores éxitos de la banda, había sido tratado por cáncer de próstata.",
+          "title": "Deux Italiens tués en grève au Koweït, l'Iran niant toute responsabilité",
+          "summary": "Selon le ministère italien des Affaires étrangères, la paire était composée de techniciens pour la société allemande Rheinmetall.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "ar": {
-          "title": "(دوران دوران) الغيتاري (آندي تايلور) يموت بعمر 65",
-          "summary": "الموسيقي، الذي شارك في كتابة بعض من أكبر ضربات الفرقة، تم علاجه لسرطان البروستات.",
+          "title": "إيطاليان قُتلا في إضراب في الكويت، حيث إن إيران تنكر المسؤولية",
+          "summary": "الزوجان كانا تقنيين لشركة (رينميتال) الألمانية وفقاً لوزارة إيطاليا الخارجية",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "zh": {
-          "title": "杜兰·杜兰吉他手安迪·泰勒去世 65岁",
-          "summary": "音乐家,共同编剧乐队的一些最大点击率,曾因前列腺癌接受治疗.",
+          "title": "由于伊朗否认责任,两名意大利人在科威特的罢工中丧生",
+          "summary": "据意大利外交部称,这对夫妇是德国Rheinmetall公司的技术人员。",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -46,41 +41,41 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T11:27:42Z",
-      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/87e9/live/68ba1950-e978-11f1-acd8-af22a7ebb474.jpg",
+      "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T17:38:56Z",
+      "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
-          "title": "Дизельный танкер, перевозивший до 7000 тонн раковин возле Ибицы, убил одного человека",
-          "summary": "Возможный экологический ущерб по-прежнему оценивается Службой спасения моря Испании.",
+          "title": "Самолет FedEx перелетел взлетно-посадочную полосу Майами, что привело к кратковременной приостановке полетов в аэропорту",
+          "summary": "Короткая остановка была сделана накануне Дня благодарения в США, одного из самых оживленных дней в году.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "fr": {
-          "title": "Un camion-citerne transportant jusqu'à 7 000 tonnes d'éviers près d'Ibiza, tuant un",
-          "summary": "Les dommages environnementaux éventuels sont encore évalués par le service espagnol de sauvetage maritime.",
+          "title": "L'avion FedEx dépasse la piste de Miami, entraînant une brève suspension des vols à l'aéroport",
+          "summary": "La brève escale a eu lieu à la veille des vacances de Thanksgiving aux États-Unis, l'un des jours de voyage les plus fréquentés de l'année.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "es": {
-          "title": "Tanque diesel que transporta hasta 7.000 toneladas de fregaderos cerca de Ibiza, matando a uno",
-          "summary": "El posible daño ambiental sigue siendo evaluado por el servicio de rescate marítimo de España.",
+          "title": "El avión FedEx supera la pista de Miami, causando una breve suspensión de vuelos en el aeropuerto",
+          "summary": "La breve parada de tierra llegó en vísperas de las vacaciones de los Estados Unidos de Acción de Gracias, uno de los días de viaje más concurridos del año.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "ar": {
-          "title": "ناقلة ديزل تحمل ما يصل إلى 000 7 طن من البواليع قرب إيبيزا، مما أدى إلى مقتل واحد",
-          "summary": "الضرر البيئي المحتمل لا يزال يتم تقييمه من قبل دائرة الإنقاذ البحرية في إسبانيا.",
+          "title": "طائرة من طراز FedEx تحلق فوق مجرى ميامي، مما تسبب في تعليق رحلات جوية قصيرة في المطار",
+          "summary": "لقد جاء التوقف الأرضي القصير عشية عطلة عيد الشكر الأمريكية، واحدة من أكثر أيام السفر حافلة في السنة.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "zh": {
-          "title": "在Ibiza附近装载多达7 000吨水槽的柴油油轮,造成1人死亡",
-          "summary": "西班牙海上救援部门仍在评估可能的环境损害。",
+          "title": "FedEx飞机飞越迈阿密跑道,造成机场航班短暂暂停",
+          "summary": "短暂的地下车站是在美国感恩节假期前夕,是一年中最繁忙的旅行日之一.",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -88,17 +83,17 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
       "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T11:21:50Z",
-      "summary": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents to leave the area.",
+      "published": "2026-11-26T16:21:19Z",
+      "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/579b/live/12356f50-e985-11f1-bb43-d1b6102e3b60.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Семь раненых, четверо критически настроены после взрыва на нефтеперерабатывающем заводе в Бангкоке",
@@ -130,6 +125,374 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T15:23:17Z",
+      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "translations": {
+        "ru": {
+          "title": "Новый договор между Великобританией и ЕС имеет пункт о прекращении на 10 лет, понимает BBC",
+          "summary": "Тексты договоров будут опубликованы сегодня во второй половине дня, наряду с законодательством, направленным на принятие основной части сделки.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le nouveau traité entre le Royaume-Uni et l'UE a une clause de résiliation de 10 ans, BBC comprend",
+          "summary": "Le texte des traités sera publié cet après-midi, parallèlement à la législation visant à promulguer la majeure partie de l'accord.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Nuevo tratado Reino Unido-UE tiene cláusula de terminación de 10 años, BBC entiende",
+          "summary": "El texto de los tratados se publicará esta tarde, junto con la legislación diseñada para promulgar la mayor parte del acuerdo.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "معاهدة جديدة بين المملكة المتحدة والاتحاد الأوروبي تتضمن حكماً بالإنهاء لمدة عشر سنوات، وتدرك شركة BBC",
+          "summary": "وسيُنشر نص المعاهدات بعد ظهر هذا اليوم، إلى جانب التشريع المصمم لسن الجزء الأكبر من الاتفاق.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "英国-欧盟新条约有10年终止条款 BBC理解",
+          "summary": "今天下午将公布条约案文,以及旨在颁布大部分交易的立法。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T15:17:18Z",
+      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "translations": {
+        "ru": {
+          "title": "Дизельный танкер, перевозивший до 7000 тонн раковин возле Ибицы, убил одного человека",
+          "summary": "Возможный экологический ущерб по-прежнему оценивается Службой спасения моря Испании.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Un camion-citerne transportant jusqu'à 7 000 tonnes d'éviers près d'Ibiza, tuant un",
+          "summary": "Les dommages environnementaux éventuels sont encore évalués par le service espagnol de sauvetage maritime.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Tanque diesel que transporta hasta 7.000 toneladas de fregaderos cerca de Ibiza, matando a uno",
+          "summary": "El posible daño ambiental sigue siendo evaluado por el servicio de rescate marítimo de España.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ناقلة ديزل تحمل ما يصل إلى 000 7 طن من البواليع قرب إيبيزا، مما أدى إلى مقتل واحد",
+          "summary": "الضرر البيئي المحتمل لا يزال يتم تقييمه من قبل دائرة الإنقاذ البحرية في إسبانيا.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "在Ibiza附近装载多达7 000吨水槽的柴油油轮,造成1人死亡",
+          "summary": "西班牙海上救援部门仍在评估可能的环境损害。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T14:44:26Z",
+      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "translations": {
+        "ru": {
+          "title": "Жерар Депардье предстанет перед судом за предполагаемое изнасилование актрисы в 2018 году",
+          "summary": "Парижский апелляционный суд постановил, что Депардье предстанет перед судом за предполагаемое изнасилование Шарлотты Арнольд.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Gérard Depardieu sera jugé pour viol présumé d'actrice en 2018, règlement judiciaire",
+          "summary": "Une cour d'appel de Paris décide que Depardieu sera jugé pour le viol présumé de Charlotte Arnould.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Gérard Depardieu para ser juzgado por presunta violación de la actriz en 2018, reglas judiciales",
+          "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "Gérard Depardieu被控2018年强奸女演员接受审判,法庭规则",
+          "summary": "巴黎上诉法院的Depardieu规则将因指控Charlotte Arnould被强奸而受到审判。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T14:35:22Z",
+      "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b19/live/49e2b830-e995-11f1-9d1c-4dcc8fcde666.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "translations": {
+        "ru": {
+          "title": "Беременный американский заключенный сбежал из тюрьмы после назначения врача",
+          "summary": "Ребекка Тейлор был заключен в тюрьму в Нью-Мексико за многочисленные кражи и кражи со взломом.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le détenu en détention aux États-Unis s'échappe en véhicule pénitentiaire après un rendez-vous médical",
+          "summary": "Rébecca Taylor avait été emprisonné au Nouveau-Mexique pour vol et cambriolage.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El recluso estadounidense embarazada escapa en el vehículo de prisión después de la cita médica",
+          "summary": "Rebecca Taylor había sido encarcelado en Nuevo México por múltiples cargos de robo y robo.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "سجين أمريكي يهرب من سيارة السجن بعد تعيين طبي",
+          "summary": "ريبيكا تايلور سجن في نيو مكسيكو بتهمة سرقة وسرقة متعددة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "美国怀孕的囚犯在接受医疗后在监狱车里越狱",
+          "summary": "丽贝卡 Taylor因多次盗窃和盗窃罪在新墨西哥被监禁。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T12:33:23Z",
+      "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7c5d/live/e49fa530-e996-11f1-b880-15b494ba858d.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "translations": {
+        "ru": {
+          "title": "Гитарист Duran Duran Энди Тейлор умер в возрасте 65 лет",
+          "summary": "Музыкант, который был соавтором некоторых из самых больших хитов группы, лечился от рака простаты.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Duran Duran Le guitariste Andy Taylor meurt à 65 ans",
+          "summary": "Le musicien, qui a co-écrit certains des plus grands succès du groupe, avait été traité pour le cancer de la prostate.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Guitarra Duran Andy Taylor muere de 65 años",
+          "summary": "El músico, que co-escribió algunos de los mayores éxitos de la banda, había sido tratado por cáncer de próstata.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "(دوران دوران) الغيتاري (آندي تايلور) يموت بعمر 65",
+          "summary": "الموسيقي، الذي شارك في كتابة بعض من أكبر ضربات الفرقة، تم علاجه لسرطان البروستات.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "杜兰·杜兰吉他手安迪·泰勒去世 65岁",
+          "summary": "音乐家,共同编剧乐队的一些最大点击率,曾因前列腺癌接受治疗.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+      "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T12:16:06Z",
+      "summary": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e387/live/8aafd3d0-e98f-11f1-9d1c-4dcc8fcde666.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "translations": {
+        "ru": {
+          "title": "Египетские власти арестовали водителя за крушение танкера, в результате которого погиб 31 человек",
+          "summary": "Чиновники говорят, что мужчина признался, что путешествовал на скорости и подрезал топливный грузовик, когда он обгонял трафик.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les autorités égyptiennes arrêtent un automobiliste sur l'accident du pétrolier qui a tué 31",
+          "summary": "Les officiels disent que l'homme a avoué avoir voyagé à vitesse et coupé le camion de carburant alors qu'il surpassait la circulation.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Las autoridades egipcias detienen a motorista sobre un accidente de tanque que mató a 31",
+          "summary": "Los oficiales dicen que el hombre confesó que viajaba a velocidad y cortaba el camión de combustible mientras tomaba el tráfico.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "السلطات المصرية اعتقلت سائق سيارة بسبب حادث تحطم ناقلة",
+          "summary": "يقول المسؤولون أن الرجل اعترف بالسفر بسرعة وقطع شاحنة الوقود بينما كان يتخطى حركة المرور",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "埃及当局因油轮坠毁逮捕驾驶员,",
+          "summary": "官员们说,这名男子供认了行驶速度快,在超速通行时剪断了油车.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "‘Come right now’: How a crisis centre in Samarkand helps women escape violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168878",
+      "published": "2026-11-26T12:00:00Z",
+      "summary": "Irina* paced the apartment. Her husband had come home drunk again, and she knew the beatings would follow.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "translations": {
+        "ru": {
+          "title": "«Приходите прямо сейчас»: Кризисный центр в Самарканде помогает женщинам избежать насилия",
+          "summary": "Ирина* расхаживала по квартире. Ее муж снова пришел домой пьяным, и она знала, что последуют побои.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "«Venez maintenant: Comment un centre de crise à Samarkand aide les femmes à échapper à la violence",
+          "summary": "Irina* a accéléré l'appartement. Son mari était revenu à la maison soûl, et elle savait que les coups suivraient.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "“Ven ahora mismo”: Cómo un centro de crisis en Samarcanda ayuda a las mujeres a escapar de la violencia",
+          "summary": "Irina* marcó el apartamento. Su marido había vuelto a casa borracho otra vez, y sabía que las palizas seguirían.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "‘تعال الآن‘: How a crisis centre in Samarkand helps women escape violence",
+          "summary": "(إيرينا) عجلت الشقة زوجها عاد ثملاً مجدداً وعلمت أن الضربات ستتبع",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "\" 现在就来 \" : 撒马尔罕危机中心如何帮助妇女摆脱暴力",
+          "summary": "伊丽娜* 加快了公寓的步伐。 她丈夫又喝醉回家,她知道殴打会随之而来。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Maritime trade stagnates amid geopolitical uncertainty",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168884",
+      "published": "2026-11-26T12:00:00Z",
+      "summary": "Seaborne trade that underpins the global economy continues to slow, while disruption from conflict and climate-related factors is hitting least-developed economies and small island nations hardest, UN economists said on Thursday.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "translations": {
+        "ru": {
+          "title": "Морская торговля застопорилась на фоне геополитической неопределенности",
+          "summary": "Морская торговля, которая лежит в основе мировой экономики, продолжает замедляться, в то время как разрушения от конфликтов и факторов, связанных с климатом, сильнее всего ударяют по наименее развитым экономикам и малым островным государствам, заявили экономисты ООН в четверг.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le commerce maritime stagne dans l'incertitude géopolitique",
+          "summary": "Les échanges maritimes qui sous-tendent l'économie mondiale continuent de ralentir, tandis que les perturbations dues aux conflits et aux facteurs climatiques frappent les économies les moins développées et les petits pays insulaires le plus durement, ont déclaré les économistes de l'ONU jeudi.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El comercio marítimo se estanca en medio de la incertidumbre geopolítica",
+          "summary": "El comercio marítimo que sustenta la economía mundial sigue disminuyendo, mientras que la perturbación de los conflictos y los factores relacionados con el clima está golpeando las economías menos desarrolladas y las pequeñas naciones insulares más difíciles, dijeron los economistas de las Naciones Unidas el jueves.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ركود التجارة البحرية وسط عدم التيقن الجيوسياسي",
+          "summary": "ولا تزال التجارة المنقولة بحرا التي يقوم عليها الاقتصاد العالمي بطيئة، في حين أن الانقطاع عن الصراعات والعوامل المتصلة بالمناخ يضرب الاقتصادات الأقل نموا والدول الجزرية الصغيرة الأصعب، قال الاقتصاديون في الأمم المتحدة يوم الخميس.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "海洋贸易在地缘政治不确定性中停滞不前",
+          "summary": "联合国经济学家星期四说,支撑全球经济的海上贸易继续减缓,而冲突和气候相关因素的破坏正在对最不发达国家和小岛屿发展中国家造成最严重的打击。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168883",
+      "published": "2026-11-26T12:00:00Z",
+      "summary": "United Nations peacekeepers in the Democratic Republic of the Congo (DRC) have stepped up efforts to protect civilians in Ebola-hit Ituri province following renewed armed clashes in Djugu territory.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "translations": {
+        "ru": {
+          "title": "ДР Конго: миротворцы усиливают защиту гражданского населения на фоне боев в Итури",
+          "summary": "Миротворцы Организации Объединенных Наций в Демократической Республике Конго (ДРК) активизировали усилия по защите гражданских лиц в провинции Итури, пострадавшей от Эболы, после возобновления вооруженных столкновений на территории Джугу.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "RD Congo : Les pacificateurs renforcent la protection civile dans les combats en Ituri",
+          "summary": "Les forces de maintien de la paix des Nations Unies en République démocratique du Congo (RDC) ont intensifié leurs efforts pour protéger les civils dans la province d'Ituri touchée par Ebola à la suite de nouveaux affrontements armés sur le territoire de Djugu.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "DR Congo: Los Pacificadores intensifican la protección civil en medio de los combates en Ituri",
+          "summary": "El personal de mantenimiento de la paz de las Naciones Unidas en la República Democrática del Congo (RDC) ha intensificado sus esfuerzos para proteger a los civiles de la provincia de Ebola-hit Ituri tras nuevos enfrentamientos armados en el territorio de Djugu.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "DR 刚果:和平卫士在伊图里战斗中加强平民保护",
+          "summary": "在朱古县再次发生武装冲突之后,联合国在刚果民主共和国的维和人员已加紧努力,保护受埃博拉袭击的伊图里省的平民。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
       "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
       "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T11:00:39Z",
@@ -140,7 +503,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Надежда на миллионы, поскольку более дешевый джеб для профилактики ВИЧ достигает Африки",
@@ -224,7 +587,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Мьянма отказывается выполнять часть решения МКЮ о геноциде",
@@ -266,7 +629,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Политический деятель ХАМАС и его жена среди восьми палестинцев, погибших в результате израильских ударов по Газе",
@@ -298,41 +661,41 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T09:59:14Z",
-      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg",
+      "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T09:49:42Z",
+      "summary": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1ce/live/37520f50-e97b-11f1-a094-5fdc692f3e33.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
-          "title": "Новый договор между Великобританией и ЕС имеет пункт о прекращении на 10 лет, понимает BBC",
-          "summary": "Тексты договоров будут опубликованы сегодня во второй половине дня, наряду с законодательством, направленным на принятие основной части сделки.",
+          "title": "Политика и пик-а-бу в австралийском парламенте, когда сенатор приносит ребенка на работу",
+          "summary": "Сенатор Лидия Торп развлекала 6-месячную Аалию, когда ее мама, сенатор Фатима Пайман, участвовала в дебатах по законопроекту о безопасности в Интернете.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "fr": {
-          "title": "Le nouveau traité entre le Royaume-Uni et l'UE a une clause de résiliation de 10 ans, BBC comprend",
-          "summary": "Le texte des traités sera publié cet après-midi, parallèlement à la législation visant à promulguer la majeure partie de l'accord.",
+          "title": "La politique et l'intérêt au Parlement australien alors que le sénateur amène le bébé au travail",
+          "summary": "Sénateur Lidia Thorpe a tenu Aaliyah de 6 mois à l'aise, alors que sa mère, la sénatrice Fatima Payman, participait à un débat sur un projet de loi sur la sécurité en ligne.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "es": {
-          "title": "Nuevo tratado Reino Unido-UE tiene cláusula de terminación de 10 años, BBC entiende",
-          "summary": "El texto de los tratados se publicará esta tarde, junto con la legislación diseñada para promulgar la mayor parte del acuerdo.",
+          "title": "La política y el peek-a-boo en el parlamento australiano como senador lleva al bebé a trabajar",
+          "summary": "Senador Lidia Thorpe mantuvo entretenido a Aaliyah, como su Senadora Fátima Payman, participó en un debate de la cuenta de seguridad en línea.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "ar": {
-          "title": "معاهدة جديدة بين المملكة المتحدة والاتحاد الأوروبي تتضمن حكماً بالإنهاء لمدة عشر سنوات، وتدرك شركة BBC",
-          "summary": "وسيُنشر نص المعاهدات بعد ظهر هذا اليوم، إلى جانب التشريع المصمم لسن الجزء الأكبر من الاتفاق.",
+          "title": "السياسة والتبول في البرلمان الأسترالي كعضو في مجلس الشيوخ يجلب الطفل للعمل",
+          "summary": "السيناتور (ليديا) (ثورب) أبقت (الية) في السادسة من الشهر مستمتعاً، كما شاركت أمها السيناتور (فاطمة بيمان) في مناقشة حول مشروع قانون السلامة على الإنترنت.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "zh": {
-          "title": "英国-欧盟新条约有10年终止条款 BBC理解",
-          "summary": "今天下午将公布条约案文,以及旨在颁布大部分交易的立法。",
+          "title": "当参议员带孩子上班时,澳大利亚议会的政治和偷窥",
+          "summary": "利迪亚参议员 Thorpe保持了6个月的Aaliyah娱乐,因为她的母亲参议员Fatima Payman参加了网上安全法案辩论.",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -350,7 +713,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "США одобрили план SpaceX отправить в космос миллион спутников данных",
@@ -392,7 +755,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Аляскинская летающая команда высадила индюков на День благодарения в отдаленные районы",
@@ -434,7 +797,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Смертельный пожар в Каире унес жизни десятков человек",
@@ -476,7 +839,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Два показа пакистанского телешоу отменены в Индии",
@@ -518,7 +881,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Гвинея приказала жителям очистить столицу спустя несколько месяцев после обрушения мусорной свалки",
@@ -550,48 +913,6 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T07:34:47Z",
-      "summary": "The brief stoppage came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
-      "translations": {
-        "ru": {
-          "title": "Самолет FedEx перелетел взлетно-посадочную полосу Майами, что привело к кратковременной приостановке полетов в аэропорту",
-          "summary": "Короткая остановка была сделана накануне Дня благодарения в США, одного из самых оживленных дней в году.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "L'avion FedEx dépasse la piste de Miami, entraînant une brève suspension des vols à l'aéroport",
-          "summary": "La brève escale a eu lieu à la veille des vacances de Thanksgiving aux États-Unis, l'un des jours de voyage les plus fréquentés de l'année.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "El avión FedEx supera la pista de Miami, causando una breve suspensión de vuelos en el aeropuerto",
-          "summary": "La breve parada de tierra llegó en vísperas de las vacaciones de los Estados Unidos de Acción de Gracias, uno de los días de viaje más concurridos del año.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "طائرة من طراز FedEx تحلق فوق مجرى ميامي، مما تسبب في تعليق رحلات جوية قصيرة في المطار",
-          "summary": "لقد جاء التوقف الأرضي القصير عشية عطلة عيد الشكر الأمريكية، واحدة من أكثر أيام السفر حافلة في السنة.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "FedEx飞机飞越迈阿密跑道,造成机场航班短暂暂停",
-          "summary": "短暂的地下车站是在美国感恩节假期前夕,是一年中最繁忙的旅行日之一.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
       "title": "Thirteen dead as mine disaster highlights illegal hunt for gold",
       "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T07:31:24Z",
@@ -602,7 +923,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Тринадцать погибших в результате минной катастрофы выделяют незаконную охоту за золотом",
@@ -644,7 +965,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "ДР Конго требует ответов на угрозы угандийского генерала",
@@ -686,7 +1007,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Отчаянные призывы женщин в камере смертников в Иране после протестов",
@@ -728,7 +1049,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Би-би-си столкнулась с немцем, подозреваемым в снабжении банд мигрантов небольшими лодками",
@@ -770,7 +1091,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Немецкий торговец лодками, подозреваемый в поставках контрабандных банд Канала, находит BBC",
@@ -970,6 +1291,48 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
+      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T00:23:27Z",
+      "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8024/live/53498270-e8e4-11f1-a3b9-79c60ec9ab33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "translations": {
+        "ru": {
+          "title": "Политический мейнстрим Франции рискует провалом президентских выборов без четкого кандидата",
+          "summary": "Крайне правые и крайне левые кандидаты доминируют на выборах в преддверии президентских выборов в следующем году.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le courant politique de la France risque la décâcle présidentielle sans candidat clair",
+          "summary": "Les candidats de droite et de gauche dominent les sondages avant l'élection présidentielle de l'année prochaine.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "La corriente política de Francia arriesga el debate presidencial sin ningún candidato claro",
+          "summary": "Los candidatos a la derecha dura y a la izquierda dominan las elecciones presidenciales del próximo año.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "\"العمل السياسي لـ \"فرنسا يُخاطر بالتصويت الرئاسي بدون مرشح واضح",
+          "summary": "المرشّحون المُحقّون والذوي الصّعب يهيمنون على الإنتخابات قبل الانتخابات الرئاسية للعام القادم",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "法国的政治主流 总统的投票有崩溃的危险 没有明确的候选人",
+          "summary": "在明年的总统选举之前,以右倾和左倾候选人为主导。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
       "title": "Has global jihadism failed, or is it simply changing shape?",
       "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T00:22:18Z",
@@ -980,7 +1343,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
+      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Глобальный джихадизм потерпел неудачу или он просто меняет форму?",
@@ -1022,7 +1385,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
       "translations": {
         "ru": {
           "title": "Реконструкция была призвана улучшить эти дома в Гонконге - это закончилось пожаром, который убил 168 человек.",
@@ -1190,7 +1552,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T12:34:24Z",
       "translations": {
         "ru": {
           "title": "Космический корабль NASA столкнулся с астероидом - и что произошло дальше",
@@ -5464,7 +5825,7 @@
     }
   ],
   "status": "partial",
-  "media_count": 92,
+  "media_count": 98,
   "sources": [
     "un",
     "bbc",
