@@ -1,44 +1,296 @@
 {
-  "updated_at": "2026-11-27T01:56:45Z",
+  "updated_at": "2026-11-27T10:40:11Z",
   "items": [
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "Putting survivors at the centre of gender-based violence services",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168885",
+      "published": "2026-11-27T12:00:00Z",
+      "summary": "Reaching out for help can be an enormous step for survivors of gender-based violence (GBV), and what happens after walking through the doors of a support service can shape the path towards recovery and safety",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "translations": {
+        "ru": {
+          "title": "Помещение выживших в центр служб по борьбе с гендерным насилием",
+          "summary": "Обращение за помощью может стать огромным шагом для жертв гендерного насилия, и то, что происходит после прохождения через двери службы поддержки, может сформировать путь к восстановлению и безопасности.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Mettre les survivants au centre des services de lutte contre la violence sexiste",
+          "summary": "Faire appel à l'aide peut être un pas énorme pour les victimes de violence sexiste et ce qui se passe après avoir franchi les portes d'un service de soutien peut orienter la voie vers la récupération et la sécurité",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Poner a los supervivientes en el centro de los servicios de violencia por razón de género",
+          "summary": "Alcanzar la ayuda puede ser un paso enorme para los sobrevivientes de la violencia de género (GBV), y lo que sucede después de caminar por las puertas de un servicio de apoyo puede dar forma al camino hacia la recuperación y la seguridad",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "وضع الناجين في مركز خدمات العنف الجنساني",
+          "summary": "ويمكن أن يكون الوصول إلى المساعدة خطوة هائلة للناجين من العنف القائم على نوع الجنس، وما يحدث بعد المشي عبر أبواب خدمة الدعم يمكن أن يشكل الطريق نحو الانتعاش والسلامة",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "将幸存者置于性别暴力服务中心",
+          "summary": "寻求帮助对于性别暴力的幸存者来说是一个巨大的步骤,在走过支助服务的门后发生的事情可以决定恢复和安全的道路。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T01:45:30Z",
-      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T10:26:28Z",
+      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/627c/live/2d067240-ea4b-11f1-b220-b9f21129b546.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
-          "title": "Правящая коалиция Новой Зеландии не имеет парламентского большинства на одно место",
-          "summary": "Правящий блок, возглавляемый Национальной партией, не достиг большинства, необходимого для управления.",
+          "title": "Сотни тысяч людей остались без электричества после того, как шторм обрушился на США в День благодарения",
+          "summary": "Пенсильвания и соседние штаты по-прежнему сильно пострадали в пятницу после того, как оба побережья пострадали от ветра и дождя.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "fr": {
-          "title": "La coalition au pouvoir de la Nouvelle-Zélande manque de majorité parlementaire d'un siège",
-          "summary": "Le bloc dirigeant de droite dirigé par le Parti national est resté en deçà de la majorité nécessaire pour gouverner.",
+          "title": "Des centaines de milliers de personnes encore sans énergie après les tempêtes ont frappé les États-Unis sur Thanksgiving",
+          "summary": "La Pennsylvanie et les États voisins restent gravement touchés vendredi après que les deux côtes ont été ébranlées par le vent et la pluie.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "es": {
-          "title": "La coalición gobernante de Nueva Zelanda no tiene mayoría parlamentaria por un asiento",
-          "summary": "El bloque gobernante de derecha liderado por el Partido Nacional se ha quedado corto de la mayoría necesaria para gobernar.",
+          "title": "Cientos de miles todavía sin poder después de las tormentas golpearon a Estados Unidos en Acción de Gracias",
+          "summary": "Pensilvania y los estados vecinos siguen estando gravemente afectados el viernes después de que ambas costas fueran arraigadas con viento y lluvia.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "ar": {
-          "title": "تحالف النيوزيلندي الحاكم يقصر عن الأغلبية البرلمانية بمقعد واحد",
-          "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+          "title": "مئات الآلاف ما زالوا بلا طاقة بعد أن ضربتنا العواصف في عيد الشكر",
+          "summary": "ولا تزال بنسلفانيا والدول المجاورة متأثرة بشدة يوم الجمعة بعد أن أُصيبت السواحل بالرياح والأمطار.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "zh": {
-          "title": "新西兰执政联盟未能以一个席位获得议会多数",
-          "summary": "国民党领导的争取正义的统治集团没有达到治理所需的多数.",
+          "title": "在感恩节暴风雨袭击美国后仍有数十万人失去动力",
+          "summary": "宾夕法尼亚州和邻近州在两个海岸被风和雨刮倒后,星期五仍然受到严重影响.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T09:07:48Z",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "translations": {
+        "ru": {
+          "title": "США слишком сосредоточены на Ближнем Востоке и недостаточно сильно подталкивают Россию, говорит Зеленский",
+          "summary": "Президент Украины выражает недовольство США и говорит, что это «странно», что Трамп назвал Владимира Путина другом.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les États-Unis se sont trop concentrés sur le Moyen-Orient et n'ont pas poussé la Russie assez fort, dit Zelensky à la BBC",
+          "summary": "Le président ukrainien exprime sa frustration envers les États-Unis et dit que c'est \"étrange\" Trump a décrit Vladimir Poutine comme un ami.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "EE.UU. demasiado centrado en Medio Oriente y no empujar Rusia lo suficientemente duro, Zelensky dice BBC",
+          "summary": "El presidente de Ucrania expresa frustración con Estados Unidos y dice que es \"extraño\" que Trump ha descrito a Vladimir Putin como amigo.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الولايات المتحدة مركزة جدا على الشرق الأوسط ولا تدفع روسيا بقوة كافية، زيلينسكي يقول BBC",
+          "summary": "\"أصوات رئيس أوكرانيا محبطة مع الولايات المتحدة و تقول أن \"ستراني ترامب وصف فلاديمير بوتين كصديق",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "美国过于关注中东,",
+          "summary": "乌克兰总统对美国表示沮丧,并称这是\"怪异的\"特朗普形容弗拉基米尔·普京为朋友.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+      "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T08:58:08Z",
+      "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f0c/live/9028aca0-ea3f-11f1-9fc4-ef897a334b75.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "translations": {
+        "ru": {
+          "title": "Военные лидеры Гвинеи-Бисау откладывают возвращение к гражданскому правлению до 2028 года",
+          "summary": "Объявление было сделано через год после военного переворота с его лидерами, обещающими вернуться к гражданскому правлению в течение 12 месяцев.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les dirigeants militaires de la Guinée-Bissau retardent le retour au pouvoir civil jusqu'en 2028",
+          "summary": "L'annonce intervient un an après un coup d'État militaire et ses dirigeants promettent un retour au pouvoir civil dans les 12 mois.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Los líderes militares de Guinea-Bissau retrasan el regreso al gobierno civil hasta 2028",
+          "summary": "El anuncio llega un año después de un golpe militar con sus líderes que prometen un regreso al gobierno civil dentro de 12 meses.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "قادة غينيا - بيساو يؤخرون العودة إلى الحكم المدني حتى عام 2028",
+          "summary": "ويأتي الإعلان بعد عام من الانقلاب العسكري مع قادته، ويبشر بالعودة إلى الحكم المدني في غضون 12 شهرا.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "几内亚比绍的军事领导人将恢复文官统治推迟到2028年",
+          "summary": "这一宣布是在军事政变一年之后作出的,其领导人承诺在12个月内恢复文官统治。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T08:13:43Z",
+      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b15/live/1e1b2100-8200-11ef-a56e-130bd491f2ab.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "translations": {
+        "ru": {
+          "title": "Миллионы жен в Южной Азии не защищены от изнасилования в браке",
+          "summary": "Более 100 стран запретили супружеское изнасилование, но большая часть Южной Азии этого не сделала.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Des millions d'épouses en Asie du Sud non protégées contre le viol conjugal - étude",
+          "summary": "Plus de 100 pays ont interdit le viol conjugal, mais une grande partie de l'Asie du Sud ne l'a pas fait.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Millones de esposas en Asia del Sur desprotegidas de violación marital - estudio",
+          "summary": "Más de 100 países han prohibido la violación marital, pero una gran parte del Asia meridional no lo ha hecho.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ملايين الزوجات في جنوب آسيا غير محمية من الاغتصاب الزوجي - دراسة",
+          "summary": "وقد قام أكثر من 100 بلد بحظر الاغتصاب في إطار الزواج، ولكن جزءا كبيرا من جنوب آسيا لم يفعل ذلك.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "南亚数百万没有受到婚内强奸保护的妻子-研究",
+          "summary": "100多个国家宣布婚内强奸为非法,但南亚大部分国家没有这样做。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T06:09:31Z",
+      "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "translations": {
+        "ru": {
+          "title": "«Это невозможно»: Молодежь Испании в жилье накануне воскресных выборов",
+          "summary": "Европейский корреспондент Ник Бик (Nick Beake) беседует с одной парой, разлученной высокой арендной платой в Валенсии.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "C'est impossible. Les jeunes espagnols sur le logement avant les élections de dimanche",
+          "summary": "Nick Beake, correspondant de l'Europe, parle à un couple tenu à part par des loyers élevés à Valence.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Es imposible: Los jóvenes españoles en vivienda por delante de las elecciones del domingo",
+          "summary": "El corresponsal de Europa Nick Beake habla con una pareja mantenida por altos alquileres en Valencia.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "مستحيل شباب إسبانيا في السكن قبل انتخابات الأحد",
+          "summary": "(أوروبا) المراسل (نيك بيك) يتحدث إلى زوجين يفصلان عن بعضهما بالإيجارات المرتفعة في (فالنسيا)",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "\"这是不可能的\": 西班牙年轻人在星期日选举前在住房上",
+          "summary": "欧洲记者尼克·比克(Nick Beake)在瓦伦西亚与一对因高租金而被隔开的夫妇交谈.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T06:04:51Z",
+      "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "translations": {
+        "ru": {
+          "title": "Внутри Саудовской Аравии атаки хуситов проверяют имидж безопасности королевства",
+          "summary": "Несмотря на забастовки, рынки и рестораны в Эр-Рияде остаются занятыми, поскольку жители выражают доверие правительству, чтобы защитить их.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "En Arabie Saoudite, les attaques de Houthi testent l'image de sécurité du royaume",
+          "summary": "Malgré les grèves, les marchés et les restaurants de Riyad restent occupés car les résidents expriment leur confiance dans le gouvernement pour les protéger.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Dentro de Arabia Saudita, Houthi ataca la imagen de seguridad del reino",
+          "summary": "A pesar de las huelgas, mercados y restaurantes en Riad siguen ocupados mientras los residentes expresan confianza en el gobierno para protegerlos.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "داخل المملكة العربية السعودية، يهاجم هوثى صورة المملكة",
+          "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "在沙特阿拉伯境内,胡塞的攻击考验着王国的安全形象",
+          "summary": "尽管罢工,利雅得的市场和餐馆仍然繁忙,因为居民表示信任政府保护他们.",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -48,15 +300,15 @@
       "publisher": "BBC News",
       "title": "Major Thanksgiving storm brings flooding, flight delays across US",
       "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T00:52:11Z",
+      "published": "2026-11-27T05:15:26Z",
       "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5163/live/6a7c75a0-ea2f-11f1-b33b-b39c81e690e4.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Самолет FedEx перелетел взлетно-посадочную полосу Майами, что привело к кратковременной приостановке полетов в аэропорту",
@@ -88,7 +340,49 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T03:28:15Z",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "translations": {
+        "ru": {
+          "title": "Правящая коалиция Новой Зеландии не имеет парламентского большинства на одно место",
+          "summary": "Правящий блок, возглавляемый Национальной партией, не достиг большинства, необходимого для управления.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La coalition au pouvoir de la Nouvelle-Zélande manque de majorité parlementaire d'un siège",
+          "summary": "Le bloc dirigeant de droite dirigé par le Parti national est resté en deçà de la majorité nécessaire pour gouverner.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "La coalición gobernante de Nueva Zelanda no tiene mayoría parlamentaria por un asiento",
+          "summary": "El bloque gobernante de derecha liderado por el Partido Nacional se ha quedado corto de la mayoría necesaria para gobernar.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "تحالف النيوزيلندي الحاكم يقصر عن الأغلبية البرلمانية بمقعد واحد",
+          "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "新西兰执政联盟未能以一个席位获得议会多数",
+          "summary": "国民党领导的争取正义的统治集团没有达到治理所需的多数.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T00:48:11Z",
       "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
@@ -98,7 +392,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Полиция разрушила мою жизнь, говорит кенийский мужчина, ошибочно осужденный за нападение на британскую пару",
@@ -130,7 +424,7 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
       "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T00:47:43Z",
       "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
@@ -140,7 +434,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Запланированное возвращение шейха Хасины, приговоренного к смертной казни, ставит Бангладеш на грань - и Индию в тупик",
@@ -182,7 +476,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Часы моего отца остановились в тот момент, когда он умер - я нашел их в пепле пожара в Гонконгской башне.",
@@ -214,59 +508,17 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T22:49:27Z",
-      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
-      "translations": {
-        "ru": {
-          "title": "США слишком сосредоточены на Ближнем Востоке и недостаточно сильно подталкивают Россию, говорит Зеленский",
-          "summary": "Президент Украины выражает недовольство США и говорит, что это «странно», что Трамп назвал Владимира Путина другом.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "Les États-Unis se sont trop concentrés sur le Moyen-Orient et n'ont pas poussé la Russie assez fort, dit Zelensky à la BBC",
-          "summary": "Le président ukrainien exprime sa frustration envers les États-Unis et dit que c'est \"étrange\" Trump a décrit Vladimir Poutine comme un ami.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "EE.UU. demasiado centrado en Medio Oriente y no empujar Rusia lo suficientemente duro, Zelensky dice BBC",
-          "summary": "El presidente de Ucrania expresa frustración con Estados Unidos y dice que es \"extraño\" que Trump ha descrito a Vladimir Putin como amigo.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "الولايات المتحدة مركزة جدا على الشرق الأوسط ولا تدفع روسيا بقوة كافية، زيلينسكي يقول BBC",
-          "summary": "\"أصوات رئيس أوكرانيا محبطة مع الولايات المتحدة و تقول أن \"ستراني ترامب وصف فلاديمير بوتين كصديق",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "美国过于关注中东,",
-          "summary": "乌克兰总统对美国表示沮丧,并称这是\"怪异的\"特朗普形容弗拉基米尔·普京为朋友.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
       "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
       "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T22:06:20Z",
       "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e73/live/90642570-ea33-11f1-99b6-a35a62fa4264.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Зеленский задает вопросы о «странной дружбе» Трампа и Путина в интервью BBC",
@@ -308,7 +560,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Дизельный танкер, перевозивший до 7000 тонн раковин возле Ибицы, убил одного человека",
@@ -350,7 +602,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "В Кувейте погибли двое итальянцев, Иран отрицает свою ответственность",
@@ -381,13 +633,13 @@
       "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T19:26:16Z",
       "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cda3/live/d6364450-ea2b-11f1-a094-5fdc692f3e33.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Крыши оторваны и улицы под водой из-за суровой погоды в США",
@@ -429,7 +681,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Семь раненых, четверо критически настроены после взрыва на нефтеперерабатывающем заводе в Бангкоке",
@@ -507,13 +759,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T14:44:26Z",
       "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a8a/live/bc4d6fb0-ea2f-11f1-b33b-b39c81e690e4.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Жерар Депардье предстанет перед судом за предполагаемое изнасилование актрисы в 2018 году",
@@ -550,7 +802,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Беременный американский заключенный сбежал из тюрьмы после назначения врача",
@@ -592,7 +844,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Гитарист Duran Duran Энди Тейлор умер в возрасте 65 лет",
@@ -634,7 +886,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Египетские власти арестовали водителя за крушение танкера, в результате которого погиб 31 человек",
@@ -676,7 +928,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "«Приходите прямо сейчас»: Кризисный центр в Самарканде помогает женщинам избежать насилия",
@@ -718,7 +970,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Морская торговля застопорилась на фоне геополитической неопределенности",
@@ -760,7 +1012,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "ДР Конго: миротворцы усиливают защиту гражданского населения на фоне боев в Итури",
@@ -797,7 +1049,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Надежда на миллионы, поскольку более дешевый джеб для профилактики ВИЧ достигает Африки",
@@ -881,7 +1133,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Мьянма отказывается выполнять часть решения МКЮ о геноциде",
@@ -923,7 +1175,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Политический деятель ХАМАС и его жена среди восьми палестинцев, погибших в результате израильских ударов по Газе",
@@ -965,7 +1217,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Политика и пик-а-бу в австралийском парламенте, когда сенатор приносит ребенка на работу",
@@ -1049,7 +1301,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Аляскинская летающая команда высадила индюков на День благодарения в отдаленные районы",
@@ -1217,7 +1468,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Тринадцать погибших в результате минной катастрофы выделяют незаконную охоту за золотом",
@@ -1259,7 +1509,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "ДР Конго требует ответов на угрозы угандийского генерала",
@@ -3236,6 +3485,20 @@
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
+    },
+    {
+      "source": "wto",
+      "publisher": "World Trade Organization",
+      "title": "Services domestic regulation disciplines enter into force for Kazakhstan",
+      "url": "https://www.wto.org/english/news_e/news26_e/jssdr_25nov26_566_e.htm",
+      "published": "2026-11-25T00:00:00Z",
+      "summary": "On 25 November, Kazakhstan notified WTO members that, following conclusion of its domestic approval procedures, the disciplines on services domestic regulation had taken legal effect and had been incorporated into Kazakhstan's schedule under the General Agr...",
+      "image": "",
+      "category": "news",
+      "locationLabel": "World Trade Organization",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": ""
     },
     {
       "source": "bbc",
@@ -6115,7 +6378,7 @@
     }
   ],
   "status": "partial",
-  "media_count": 105,
+  "media_count": 110,
   "sources": [
     "un",
     "bbc",
