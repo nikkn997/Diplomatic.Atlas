@@ -1,6 +1,342 @@
 {
-  "updated_at": "2026-11-27T10:40:11Z",
+  "updated_at": "2026-11-27T19:39:37Z",
   "items": [
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T18:52:33Z",
+      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Мы не могли так легко сдаться: Марширующие группы пытаются покрыть расходы после парада в честь Дня благодарения",
+          "summary": "Бурная погода в Нью-Йорке побудила организаторов отодвинуть парад Мэйси на два дня, оставив некоторых музыкантов в тупике.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "On ne pouvait pas abandonner si facilement. Marching bandes brouillés pour couvrir les coûts après Thanksgiving défilé réorganisé",
+          "summary": "La tempête à New York a incité les organisateurs à repousser le défilé de Macy de deux jours, laissant des musiciens coincés.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "\"No podíamos renunciar tan fácilmente\": Las bandas de Marching se mueven para cubrir los costos después del desfile de Acción de Gracias reorganizado",
+          "summary": "El tiempo tormentoso en la ciudad de Nueva York llevó a los organizadores a empujar el desfile de Macy por dos días, dejando a algunos músicos atrapados.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "لم نستطع الاستسلام بهذه السهولة فرق المطاردة تهتز لتغطية التكاليف بعد إعادة ترتيب عرض عيد الشكر",
+          "summary": "طقس العاصفة في مدينة (نيويورك) دفع منظمين لسحب موكب (مايسي) قبل يومين",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "\"我们不能轻易放弃\": 游行乐队在感恩节游行后为支付费用而摇摆不定",
+          "summary": "纽约市的风暴天气促使组织者将梅西的游行推后两天——让一些音乐家陷入困境.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T18:42:50Z",
+      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Утомленный войной, но без признаков отступления, Киеву грозит еще одна карательная зима",
+          "summary": "Украина готовится к еще одной разрушительной зиме, поскольку остаются вопросы: чем все это закончится?",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Las de la guerre mais sans signe de recul, Kyiv fait face à un autre hiver punissant",
+          "summary": "L'Ukraine s'installe pour un autre hiver dévastateur alors que les questions persistent : comment tout finira-t-elle ?",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "cansado de la guerra pero sin señales de retroceso, Kyiv enfrenta otro invierno que castiga",
+          "summary": "Ucrania se asienta en otro invierno devastador mientras persisten las preguntas: ¿cómo terminará todo?",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "نوبة حرب لكن بدون أي أثر للتراجع، يواجه (كييف) عاقبة الشتاء",
+          "summary": "وتستقر أوكرانيا في شتاء مدمر آخر مع استمرار الأسئلة: كيف سينتهي كل شيء؟",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "厌倦战争,但没有退缩的迹象 基辅面临又一个受惩罚的冬天",
+          "summary": "随着问题的持续,乌克兰又进入了另一个毁灭性的冬季:它将如何结束?",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T18:00:40Z",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "США слишком сосредоточены на Ближнем Востоке и недостаточно сильно подталкивают Россию, говорит Зеленский",
+          "summary": "Президент Украины выражает недовольство США и говорит, что это «странно», что Трамп назвал Владимира Путина другом.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les États-Unis se sont trop concentrés sur le Moyen-Orient et n'ont pas poussé la Russie assez fort, dit Zelensky à la BBC",
+          "summary": "Le président ukrainien exprime sa frustration envers les États-Unis et dit que c'est \"étrange\" Trump a décrit Vladimir Poutine comme un ami.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "EE.UU. demasiado centrado en Medio Oriente y no empujar Rusia lo suficientemente duro, Zelensky dice BBC",
+          "summary": "El presidente de Ucrania expresa frustración con Estados Unidos y dice que es \"extraño\" que Trump ha descrito a Vladimir Putin como amigo.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الولايات المتحدة مركزة جدا على الشرق الأوسط ولا تدفع روسيا بقوة كافية، زيلينسكي يقول BBC",
+          "summary": "\"أصوات رئيس أوكرانيا محبطة مع الولايات المتحدة و تقول أن \"ستراني ترامب وصف فلاديمير بوتين كصديق",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "美国过于关注中东,",
+          "summary": "乌克兰总统对美国表示沮丧,并称这是\"怪异的\"特朗普形容弗拉基米尔·普京为朋友.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T17:19:31Z",
+      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Лидер кенийского культа Судного дня осужден за 123 смерти",
+          "summary": "Пол Маккензи признан виновным в убийстве своих последователей через несколько недель после того, как был заключен в тюрьму за массовое убийство детей.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le chef du culte kényan condamné pour 123 morts supplémentaires",
+          "summary": "Paul Mackenzie est reconnu coupable d'avoir tué ses disciples, des semaines après avoir été emprisonné pour le meurtre massif d'enfants.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Kenian Doomsday cult leader convicted over further 123 deaths",
+          "summary": "Paul Mackenzie es declarado culpable de matar a sus seguidores, semanas después de ser encarcelado por el asesinato masivo de niños.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "زعيم طائفة الكينيين المحكوم عليه أكثر من 123 حالة وفاة",
+          "summary": "بول ماكنزي مذنب بقتل أتباعه بعد أسابيع من سجنه بتهمة القتل الجماعي للأطفال",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "肯尼亚末日邪教领袖又被判123人死亡",
+          "summary": "Paul Mackenzie被判犯有杀害追随者的罪行 在因大规模谋杀儿童而入狱数周后",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T16:53:46Z",
+      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Верховный суд Канады в значительной степени поддерживает запрет Квебека на религиозные символы для государственных служащих.",
+          "summary": "Закон столкнулся с юридическими проблемами со стороны ряда групп, включая женщин-мусульманок, сикхов и католических учителей, которые утверждали, что он нарушает их основные права.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La Cour suprême du Canada confirme largement l'interdiction québécoise des symboles religieux pour les fonctionnaires",
+          "summary": "La loi fait l ' objet de contestations juridiques de la part de divers groupes, dont des enseignantes musulmanes, sikhes et catholiques, qui affirment qu ' elle viole leurs droits fondamentaux.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "La primera corte de Canadá defiende en gran medida la prohibición de Quebec sobre símbolos religiosos para funcionarios públicos",
+          "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "المحكمة العليا في كندا تدعم إلى حد كبير حظر كيبيك على الرموز الدينية للموظفين العموميين",
+          "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "加拿大的最高法院主要支持魁北克禁止公务员使用宗教标志",
+          "summary": "法律面临一系列群体的法律挑战,包括女性穆斯林、锡克教和天主教教师,他们认为法律侵犯了她们的基本权利。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T15:54:15Z",
+      "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/23bb/live/01c67d00-ea73-11f1-a828-d384c0290f6b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Бразилия отказалась от Макрона, назвав его мясо «легированным»",
+          "summary": "Президент Франции сделал этот комментарий, выступая перед представителями французского сельского хозяйства, через несколько месяцев после того, как ЕС запретил бразильскую говядину и птицу.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le Brésil repousse Macron en appelant sa viande « dopée »",
+          "summary": "Le président de la France a fait ce commentaire en s'adressant aux représentants de l'agriculture française, des mois après que l'UE ait interdit la viande bovine et les produits avicoles du Brésil.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Brasil vuelve a empujar a Macron llamando a su carne 'doped'",
+          "summary": "El presidente de Francia hizo el comentario mientras hablaba con representantes de la agricultura francesa, meses después de que la UE prohibiera los productos de carne y avícola de Brasil.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "البرازيل تضغط مرة أخرى على ماكرون تنادي لحمها 'مفعلة '",
+          "summary": "رئيس فرنسا أدلى بالتعليق بينما كان يتحدث إلى ممثلي الزراعة الفرنسية، بعد أشهر من حظر الاتحاد الأوروبي لحم البقر ومنتجات الدواجن البرازيلية.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "巴西推回了Macron,称其肉“被吃”",
+          "summary": "在欧盟禁止巴西牛肉和家禽产品数月后,法国总统在与法国农耕代表谈话时发表评论.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T13:38:07Z",
+      "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab4e/live/3ac58820-ea60-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Редких черепах нашли в багаже в аэропорту Амстердама",
+          "summary": "Рептилии, находящиеся под угрозой исчезновения, были связаны клейкой лентой, чтобы предотвратить их перемещение, говорят чиновники.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Rares tortues trouvées à l'intérieur des bagages à l'aéroport d'Amsterdam",
+          "summary": "Les reptiles menacés étaient liés avec du ruban adhésif pour les empêcher de bouger, disent les officiels.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Tortugas raras encontradas dentro del equipaje en el aeropuerto de Amsterdam",
+          "summary": "Los reptiles en peligro estaban vinculados con cinta adhesiva para evitar que se movieran, dicen los funcionarios.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "سلحفاة مطاطية وجدت داخل الأمتعة في مطار أمستردام",
+          "summary": "الزواحف المهددة بالانقراض كانت مرتبطة بالشريط اللاصق لمنعهم من الحركة، ويقول المسؤولون",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "阿姆斯特丹机场行李内发现的稀有乌龟",
+          "summary": "官员说,濒危爬行动物被胶带绑住以防止移动。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "un",
+      "publisher": "UN News",
+      "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+      "published": "2026-11-27T12:00:00Z",
+      "summary": "Serious funding cuts are severely weakening protection for refugee and stateless women and girls and others at risk of gender-based violence (GBV), like Mariam, who survived a decade of captivity and rape at the hands of Boko Haram militia.",
+      "image": "",
+      "category": "news",
+      "locationLabel": "UN News",
+      "flagCode": "",
+      "imageCredit": "",
+      "imageType": "",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "16 дней активизма: УВКБ ООН предупреждает о значительном сокращении финансирования жизненно важных работ по защите",
+          "summary": "Серьезные сокращения финансирования серьезно ослабляют защиту женщин и девочек из числа беженцев и лиц без гражданства и других лиц, подвергающихся риску насилия по признаку пола, таких как Мариам, которая пережила десятилетие плена и изнасилования от рук боевиков Боко Харам.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "16 jours d ' activisme : le HCR met en garde contre de profondes réductions de financement des activités vitales de protection",
+          "summary": "De graves réductions de financement affaiblissent considérablement la protection des femmes et des filles réfugiées et apatrides et d'autres personnes exposées à la violence sexiste, comme Mariam, qui ont survécu à une décennie de captivité et de viol aux mains de la milice Boko Haram.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "16 Días de activismo: el ACNUR advierte sobre los recortes de fondos profundos a la labor de protección vital",
+          "summary": "Los recortes graves de financiación están debilitando gravemente la protección de las mujeres y las niñas refugiadas y apátridas y otros que corren el riesgo de violencia por motivos de género, como Mariam, que sobrevivió a una década de cautiverio y violación a manos de la milicia Boko Haram.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "16 يوماً من النشاط: تحذر المفوضية من التخفيضات الكبيرة في التمويل إلى أعمال الحماية الحيوية",
+          "summary": "وتؤدي التخفيضات الخطيرة في التمويل إلى إضعاف حماية اللاجئين وعديمي الجنسية من النساء والفتيات وغيرهن المعرضات للعنف القائم على نوع الجنس، مثل ماريام، الذين نجوا من عقد من الأسر والاغتصاب على أيدي ميليشيا بوكو حرام.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "16天积极性:难民署警告说,要大力削减保护工作的资金",
+          "summary": "严重的资金削减正在严重削弱对难民和无国籍妇女和女童以及面临性别暴力风险的其他人(如Mariam)的保护,因为Mariam在博科哈拉姆民兵十年的囚禁和强奸中幸存下来。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
     {
       "source": "un",
       "publisher": "UN News",
@@ -14,7 +350,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
           "title": "Помещение выживших в центр служб по борьбе с гендерным насилием",
@@ -39,6 +375,127 @@
         "zh": {
           "title": "将幸存者置于性别暴力服务中心",
           "summary": "寻求帮助对于性别暴力的幸存者来说是一个巨大的步骤,在走过支助服务的门后发生的事情可以决定恢复和安全的道路。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T11:44:40Z",
+      "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Экс-руководитель СМИ признался, что переживший сексуальное насилие над детьми в Австралии «снова хочет быть изнасилованным»",
+          "summary": "Бывший руководитель СМИ Мердока был подслушен на мероприятии, посвященном тому, как была одета Грейс Тэйм.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'ex-exécutif des médias admet avoir dit que la survivante australienne de la violence sexuelle envers les enfants « semble être violée à nouveau »",
+          "summary": "L'ancien directeur des médias de Murdoch a été entendu lors d'un événement faisant référence à la façon dont Grace Tame était habillée.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Ex-media executive admits saying Australian child sex abuse survivor ' looking to be raped again'",
+          "summary": "El ex ejecutivo de los medios de Murdoch fue escuchado en un evento refiriéndose a la forma en que Grace Tame estaba vestida.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "مدير تنفيذي سابق يعترف بقول الناجيون من إيذاء جنسي في أستراليا",
+          "summary": "لقد سمع المدير التنفيذي السابق لـ (موردوك) في حدث يشير إلى الطريقة التي كانت ترتدي بها (غرايس تام)",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "前媒体主管承认澳洲儿童性虐待幸存者\"看起来又被强奸了\".",
+          "summary": "前默多克媒体高管在一次提到格蕾丝·塔梅穿戴方式的活动中被偷听.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+      "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T11:22:02Z",
+      "summary": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f21/live/5d0dee20-ea85-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Экс-губернатор Кении осужден на 25 лет за убийство беременной девушки",
+          "summary": "Беременная студентка была убита после того, как покинула отель с журналистом, с которым она связалась, чтобы обсудить свой роман с губернатором.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'ex-gouverneur kényan a été emprisonné pendant 25 ans pour le meurtre de sa copine enceinte",
+          "summary": "L'étudiante enceinte a été assassinée après avoir quitté un hôtel avec une journaliste qu'elle avait contactée pour discuter de son affaire avec le gouverneur.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Ex gobernador de Kenia encarcelado durante 25 años por el asesinato de novia embarazada",
+          "summary": "The pregnant student was killed after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "حاكم (كينيان) السابق سجن لـ25 سنة على جريمة قتل خليلة حامل",
+          "summary": "لقد قُتل الطالبة الحامل بعد مغادرتها فندقاً مع صحفي اتصلت به لمناقشة علاقتها مع الحاكم",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "前肯尼亚州长因怀孕女友谋杀案入狱25年",
+          "summary": "这名怀孕的学生在与她联系的记者离开旅馆与州长讨论她的外遇后被杀害。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T10:39:31Z",
+      "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Уганда выведет войска из города ДР Конго на фоне дипломатического скандала",
+          "summary": "Армия Уганды помогает конголезским военным бороться с исламистской группировкой боевиков на востоке страны.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Ouganda retirer les troupes de la ville de RD Congo au milieu de la ligne diplomatique",
+          "summary": "L'armée ougandaise aide les militaires congolais à combattre un groupe militant islamiste dans l'est du pays.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Uganda retira tropas de la ciudad del DR Congo en medio de la fila diplomática",
+          "summary": "El ejército ugandés está ayudando a los militares congoleños a luchar contra un grupo militante islamista en el este del país.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "乌干达在外交战线上从刚果民主军撤出部队",
+          "summary": "乌干达军队正在帮助刚果军方打击该国东部的一个伊斯兰激进团体。",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -88,41 +545,41 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T09:07:48Z",
-      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+      "title": "Clashes mar European games as Macron condemns violence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T10:24:24Z",
+      "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f8ac/live/48727800-e9e5-11f1-ab41-f1f84c0c758a.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
-          "title": "США слишком сосредоточены на Ближнем Востоке и недостаточно сильно подталкивают Россию, говорит Зеленский",
-          "summary": "Президент Украины выражает недовольство США и говорит, что это «странно», что Трамп назвал Владимира Путина другом.",
+          "title": "Столкновения на европейских играх: Макрон осуждает насилие",
+          "summary": "Жестокие столкновения омрачают ряд европейских футбольных матчей в четверг вечером, когда президент Франции Эммануэль Макрон осуждает проблемы на домашней игре Марселя против Левски Софии.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "fr": {
-          "title": "Les États-Unis se sont trop concentrés sur le Moyen-Orient et n'ont pas poussé la Russie assez fort, dit Zelensky à la BBC",
-          "summary": "Le président ukrainien exprime sa frustration envers les États-Unis et dit que c'est \"étrange\" Trump a décrit Vladimir Poutine comme un ami.",
+          "title": "Clashes mar Jeux européens comme Macron condamne la violence",
+          "summary": "Des affrontements violents ont eu lieu jeudi soir sur un certain nombre de matchs de football européens, le président français Emmanuel Macron condamnant les ennuis lors du match de Marseille contre Levski Sofia.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "es": {
-          "title": "EE.UU. demasiado centrado en Medio Oriente y no empujar Rusia lo suficientemente duro, Zelensky dice BBC",
-          "summary": "El presidente de Ucrania expresa frustración con Estados Unidos y dice que es \"extraño\" que Trump ha descrito a Vladimir Putin como amigo.",
+          "title": "Clashes mar Juegos europeos como Macron condena la violencia",
+          "summary": "Los enfrentamientos violentos mar una serie de partidos de fútbol europeos el jueves por la noche, con el presidente francés Emmanuel Macron condenando problemas en el juego de Marsella contra Levski Sofía.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "ar": {
-          "title": "الولايات المتحدة مركزة جدا على الشرق الأوسط ولا تدفع روسيا بقوة كافية، زيلينسكي يقول BBC",
-          "summary": "\"أصوات رئيس أوكرانيا محبطة مع الولايات المتحدة و تقول أن \"ستراني ترامب وصف فلاديمير بوتين كصديق",
+          "title": "المباريات الأوروبية كما يدين ماكرون العنف",
+          "summary": "اشتباكات عنيفة قامت بعدد من مباراة كرة القدم الأوروبية ليلة الخميس مع الرئيس الفرنسي (إيمانويل ماكرون) يدين المتاعب في لعبة منزل (مارسيلي) ضد (ليفسكي صوفيا)",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "zh": {
-          "title": "美国过于关注中东,",
-          "summary": "乌克兰总统对美国表示沮丧,并称这是\"怪异的\"特朗普形容弗拉基米尔·普京为朋友.",
+          "title": "Macron谴责暴力,",
+          "summary": "法国总统埃马纽埃尔·麦克龙谴责马赛主场对阵列夫斯基·索非亚的麻烦。",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -140,7 +597,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
           "title": "Военные лидеры Гвинеи-Бисау откладывают возвращение к гражданскому правлению до 2028 года",
@@ -182,7 +639,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
           "title": "Миллионы жен в Южной Азии не защищены от изнасилования в браке",
@@ -214,17 +671,101 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
-      "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T06:09:31Z",
-      "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b6e8/live/fb20a6d0-e9cb-11f1-99b6-a35a62fa4264.jpg",
+      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T07:28:10Z",
+      "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d573/live/2b6db3a0-e9b8-11f1-8d2a-f5d2aabc11cb.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Бывший начальник полиции Италии отверг обвинения в мафиозном расследовании перед смертью",
+          "summary": "Содержание восьмистраничного письма Джанни Де Дженнаро было раскрыто через несколько дней после того, как его тело было найдено в его доме в Тоскане.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'ancien chef de police italien a rejeté les allégations de la mafia avant la mort",
+          "summary": "Le contenu d'une lettre de huit pages de Gianni De Gennaro a été révélé quelques jours après que son corps ait été trouvé à sa maison en Toscane.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El ex jefe de policía de Italia rechazó acusaciones de investigación de la mafia antes de la muerte",
+          "summary": "El contenido de una carta de ocho páginas de Gianni De Gennaro han sido revelados días después de que su cuerpo fue encontrado en su casa Toscana.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "رئيس شرطة إيطاليا السابق رفض إدعاءات التحقيق قبل الوفاة",
+          "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "意大利前警察局长驳回黑手党死亡前的调查指控",
+          "summary": "Gianni De Gennaro在托斯卡纳家中发现尸体几天后,他写了一封长达8页的信件。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "EU leaders fail to bridge budget splits as talks stall",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T06:11:55Z",
+      "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a83/live/c35a2570-ea0f-11f1-8868-df2967876f4c.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Лидеры ЕС не смогли преодолеть бюджетные расколы, поскольку переговоры зашли в тупик",
+          "summary": "Помощь Украине была в числе споров, поскольку члены ЕС надеются завершить переговоры к концу года.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les dirigeants de l'UE ne parviennent pas à combler les écarts budgétaires alors que les négociations s'arrêtent",
+          "summary": "L'aide à l'Ukraine faisait partie des différends, les membres de l'UE espérant conclure les pourparlers d'ici la fin de l'année.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Los líderes de la UE no logran cerrar las divisiones presupuestarias mientras las conversaciones se estancan",
+          "summary": "La ayuda para Ucrania fue una de las controversias, ya que los miembros de la UE esperan concluir conversaciones para finales de año.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "فشل قادة الاتحاد الأوروبي في سد انقسامات الميزانية مع توقف المحادثات",
+          "summary": "وكانت المعونة المقدمة إلى أوكرانيا من بين المنازعات حيث يأمل أعضاء الاتحاد الأوروبي في اختتام المحادثات بحلول نهاية العام.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "欧盟领导人未能弥合预算因谈判停滞而导致的分歧。",
+          "summary": "对乌克兰的援助是有争议的问题之一,因为欧盟成员国希望在年底前结束会谈。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T06:09:31Z",
+      "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4834/live/cb627900-ea8e-11f1-99b6-a35a62fa4264.png",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
           "title": "«Это невозможно»: Молодежь Испании в жилье накануне воскресных выборов",
@@ -266,7 +807,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
           "title": "Внутри Саудовской Аравии атаки хуситов проверяют имидж безопасности королевства",
@@ -291,6 +832,132 @@
         "zh": {
           "title": "在沙特阿拉伯境内,胡塞的攻击考验着王国的安全形象",
           "summary": "尽管罢工,利雅得的市场和餐馆仍然繁忙,因为居民表示信任政府保护他们.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T06:03:39Z",
+      "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5a0/live/2d2b3d80-ea39-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Лидеры сталкиваются в финальных дебатах на выборах в Испании, поскольку жилье доминирует в схватке",
+          "summary": "Борьба, с которой многие сталкиваются при покупке дома, была самой большой проблемой горькой кампании.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les dirigeants s'affrontent dans le dernier débat électoral en Espagne alors que le logement domine",
+          "summary": "La lutte de nombreux visages dans l'achat d'une maison a été le plus grand problème d'une campagne amère.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Líderes chocan en el debate final de las elecciones de España como la vivienda domina go-in",
+          "summary": "La lucha que muchos enfrentan al comprar un hogar ha sido el mayor problema de una campaña amarga.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "تصادم القادة في المناقشة النهائية لانتخابات أسبانيا حيث يهيمنون على الإسكان",
+          "summary": "الكفاح الكثير من الوجه في شراء منزل كان أكبر مسألة حملة مريرة",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "由于住房占据主导地位,领导人在最后的西班牙选举辩论中发生冲突",
+          "summary": "许多人在购买住房时面对的斗争是一场苦战的最大问题。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+      "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T05:54:38Z",
+      "summary": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6fe1/live/e746c130-ea16-11f1-bb90-c99309416892.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Убийца грибов Эрин Паттерсон подала апелляцию в Верховный суд",
+          "summary": "Эрин Паттерсон отбывает пожизненное заключение за отравление родственников токсическим грибным обедом в 2023 году.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le meurtrier des champignons Erin Patterson lance le dernier appel de la Haute Cour",
+          "summary": "Erin Patterson est en prison pour avoir empoisonné ses parents avec un déjeuner de champignons toxiques en 2023.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El asesino de hongos Erin Patterson lanza el último recurso del Tribunal Superior",
+          "summary": "Erin Patterson está sirviendo vida en prisión por envenenar a sus familiares con un almuerzo de setas tóxico en 2023.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "(القاتل (إرين باترسون",
+          "summary": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom food in 2023.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "蘑菇杀人犯Erin Patterson 发布最高法院最后上诉",
+          "summary": "艾琳·帕特森因2023年用有毒蘑菇午餐毒害亲戚而服刑终身.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Venezuela to scrap law that bars opposition from public office",
+      "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T05:35:10Z",
+      "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6616/live/f53c94f0-ea1f-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "translations": {
+        "ru": {
+          "title": "Венесуэла отменяет закон, запрещающий оппозиции занимать государственные должности",
+          "summary": "Законодательство подверглось критике за возможность политических преследований с момента его введения два года назад.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le Venezuela supprime la loi qui empêche l'opposition de la fonction publique",
+          "summary": "La législation a été critiquée pour avoir permis la persécution politique depuis son introduction il y a deux ans.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Venezuela a la ley que prohíbe la oposición de la oficina pública",
+          "summary": "La legislación ha sido criticada por permitir la persecución política desde que se introdujo hace dos años.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "فنـزويلا لخرق القانون الذي يمنع المعارضة من المناصب العامة",
+          "summary": "وقد انتُقد التشريع لتمكينه من الاضطهاد السياسي منذ أن بدأ العمل به قبل عامين.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "委内瑞拉废除禁止反对公职的法律",
+          "summary": "这项立法自两年前提出以来,就因允许政治迫害而受到批评。",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -392,7 +1059,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
           "title": "Полиция разрушила мою жизнь, говорит кенийский мужчина, ошибочно осужденный за нападение на британскую пару",
@@ -434,7 +1101,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
           "title": "Запланированное возвращение шейха Хасины, приговоренного к смертной казни, ставит Бангладеш на грань - и Индию в тупик",
@@ -476,7 +1143,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
           "title": "Часы моего отца остановились в тот момент, когда он умер - я нашел их в пепле пожара в Гонконгской башне.",
@@ -518,7 +1185,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
           "title": "Зеленский задает вопросы о «странной дружбе» Трампа и Путина в интервью BBC",
@@ -639,7 +1306,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
           "title": "Крыши оторваны и улицы под водой из-за суровой погоды в США",
@@ -681,7 +1348,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
+      "imageCheckedAt": "2026-11-27T19:39:37Z",
       "translations": {
         "ru": {
           "title": "Семь раненых, четверо критически настроены после взрыва на нефтеперерабатывающем заводе в Бангкоке",
@@ -844,7 +1511,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Гитарист Duran Duran Энди Тейлор умер в возрасте 65 лет",
@@ -928,7 +1594,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "«Приходите прямо сейчас»: Кризисный центр в Самарканде помогает женщинам избежать насилия",
@@ -970,7 +1635,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Морская торговля застопорилась на фоне геополитической неопределенности",
@@ -1012,7 +1676,6 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "ДР Конго: миротворцы усиливают защиту гражданского населения на фоне боев в Итури",
@@ -1217,7 +1880,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T10:40:11Z",
       "translations": {
         "ru": {
           "title": "Политика и пик-а-бу в австралийском парламенте, когда сенатор приносит ребенка на работу",
@@ -6211,174 +6873,10 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": ""
-    },
-    {
-      "source": "geneva_meetings",
-      "publisher": "UN Geneva Meetings",
-      "title": "Human Rights Committee Adopts Reports on Follow-Up to Concluding Observations Concerning Bolivia, Iraq, Luxembourg, Togo and Uruguay",
-      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/human-rights-committee-adopts-reports-follow-concluding",
-      "published": "2026-11-05T17:20:59Z",
-      "summary": "The Human Rights Committee today adopted reports on follow-up to concluding observations concerning Bolivia, Iraq, Luxembourg, Togo and Uruguay. Yvonne Donders, Committee Expert and the Special Rapporteur on follow-up to concluding observations, said that a...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva Meetings",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "geneva_meetings",
-      "publisher": "UN Geneva Meetings",
-      "title": "In Dialogue with Pakistan, Experts of the Committee on Economic, Social and Cultural Rights Welcome Law Raising the Age of Marriage to 18, Ask about Bonded Labour and Rebuilding Efforts after the 2022 and 2025 Floods",
-      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/dialogue-pakistan-experts-committee-economic-social-and-cultural",
-      "published": "2026-11-04T14:52:36Z",
-      "summary": "The Committee on Economic, Social and Cultural Rights today concluded its review of the second periodic report of Pakistan under the International Covenant on Economic, Social and Cultural Rights, with Committee Experts welcoming the State’s 2025 legal amen...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva Meetings",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "geneva_meetings",
-      "publisher": "UN Geneva Meetings",
-      "title": "Committee on Economic, Social and Cultural Rights Commends Eswatini’s HIV Response, Raises Questions on the 2021 Civil Unrest and High Rates of Youth Unemployment",
-      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/committee-economic-social-and-cultural-rights-commends-eswatinis",
-      "published": "2026-11-03T15:26:49Z",
-      "summary": "The Committee on Economic, Social and Cultural Rights today concluded its review of the initial report of Eswatini on the State party’s efforts to implement the provisions of the International Covenant on Economic, Social and Cultural Rights, with Committee...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva Meetings",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "worldbank",
-      "publisher": "World Bank",
-      "title": "More and Better Jobs Key to Putting Poverty Reduction Back on Track",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/26/more-and-better-jobs-key-to-putting-poverty-reduction-back-on-track",
-      "published": "2026-10-26T00:00:00Z",
-      "summary": "World Bank analysis highlighted job creation as central to sustainable poverty reduction.",
-      "category": "economy",
-      "image": "",
-      "flagCode": "",
-      "locationLabel": "Washington, United States"
-    },
-    {
-      "source": "worldbank",
-      "publisher": "World Bank",
-      "title": "World Bank Group launches first digital strategy to expand access and create jobs",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
-      "published": "2026-10-20T00:00:00Z",
-      "summary": "The World Bank Group launched its first digital strategy in Seoul, focused on digital access, services, skills and jobs.",
-      "category": "economy",
-      "image": "",
-      "flagCode": "KOR",
-      "locationLabel": "Seoul, Republic of Korea"
-    },
-    {
-      "source": "imf",
-      "publisher": "International Monetary Fund",
-      "title": "IMF IMFC Press Briefing",
-      "url": "https://mediacenter.imf.org/news/imf-imfc-press-briefing/s/6c812df6-f0e8-4a3b-b663-22c9e888b440",
-      "published": "2026-10-17T00:00:00Z",
-      "summary": "At the IMF Annual Meeting in Bangkok, the IMFC chair and IMF managing director addressed growth, debt, conflicts and AI-related policy risks.",
-      "category": "economy",
-      "image": "",
-      "flagCode": "THA",
-      "locationLabel": "Bangkok, Thailand"
-    },
-    {
-      "source": "imf",
-      "publisher": "International Monetary Fund",
-      "title": "IMF Western Hemisphere Press Briefing",
-      "url": "https://mediacenter.imf.org/news/imf-western-hemisphere-press-briefing/s/72a4399e-0926-434c-826e-e684bfa95b3d",
-      "published": "2026-10-16T00:00:00Z",
-      "summary": "The IMF’s Western Hemisphere Department briefed from Bangkok on regional growth, inflation, trade, investment and debt pressures.",
-      "category": "economy",
-      "image": "",
-      "flagCode": "THA",
-      "locationLabel": "Bangkok, Thailand"
-    },
-    {
-      "source": "imf",
-      "publisher": "International Monetary Fund",
-      "title": "IMF Fiscal Monitor Press Briefing",
-      "url": "https://mediacenter.imf.org/news/imf-fiscal-monitor-press-briefing/s/a86f20e4-944a-44d2-8453-aaac954ee802",
-      "published": "2026-10-16T00:00:00Z",
-      "summary": "The IMF Fiscal Affairs Department outlined rising fiscal risks, energy-shock pressures and tax reform priorities at the Bangkok meetings.",
-      "category": "economy",
-      "image": "",
-      "flagCode": "THA",
-      "locationLabel": "Bangkok, Thailand"
-    },
-    {
-      "source": "imf",
-      "publisher": "International Monetary Fund",
-      "title": "IMF Middle East and Central Asia Department Press Briefing",
-      "url": "https://mediacenter.imf.org/news/imf-middle-east-and-central-asia-department-press-briefing/s/56766665-b5a3-4df2-8fd0-5c79b8bd9a97",
-      "published": "2026-10-15T00:00:00Z",
-      "summary": "An IMF press briefing in Bangkok covered growth, inflation and regional vulnerability across the Middle East and Central Asia.",
-      "category": "economy",
-      "image": "",
-      "flagCode": "THA",
-      "locationLabel": "Bangkok, Thailand"
-    },
-    {
-      "source": "imf",
-      "publisher": "International Monetary Fund",
-      "title": "IMF Asia Pacific Department Press Briefing",
-      "url": "https://mediacenter.imf.org/news/imf-asia-pacific-department-press-briefing/s/bbb3be9e-4560-44ee-9467-a437b643d42e",
-      "published": "2026-10-15T00:00:00Z",
-      "summary": "The IMF’s Asia and Pacific Department briefed from Bangkok on regional resilience, technology-driven growth and policy priorities.",
-      "category": "economy",
-      "image": "",
-      "flagCode": "THA",
-      "locationLabel": "Bangkok, Thailand"
-    },
-    {
-      "source": "who",
-      "publisher": "World Health Organization",
-      "title": "New WHO technical package to help countries improve health data for COVID-19 response and beyond",
-      "url": "https://www.who.int/news/item/27-08-2020-new-who-technical-package-health-data-for-covid-19-response",
-      "published": "2026-10-10T07:49:45Z",
-      "summary": "Today, as part of its commitment to strengthening health information systems and improving health[1], especially in the context of the COVID-19 pandemic, WHO announced a new approach to improving access to life-saving data: the SCORE for Health Data Technic...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "World Health Organization",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "who",
-      "publisher": "World Health Organization",
-      "title": "WHO releases new guidance to prevent heat-related illness at mass gatherings",
-      "url": "https://www.who.int/news/item/30-09-2026-who-releases-new-guidance-to-prevent-heat-related-illness-at-mass-gatherings",
-      "published": "2026-09-30T00:00:00Z",
-      "summary": "WHO published evidence-based guidance to help organizers prevent and manage heat-related illness at mass gatherings as extreme heat risks intensify.",
-      "category": "health",
-      "image": "",
-      "flagCode": "CHE",
-      "locationLabel": "Geneva, Switzerland"
-    },
-    {
-      "source": "who",
-      "publisher": "World Health Organization",
-      "title": "WHO reports latest global trends in cholera, meningitis and plague",
-      "url": "https://www.who.int/news/item/29-09-2026-who-reports-latest-global-trends-in-cholera--meningitis-and-plague",
-      "published": "2026-09-29T00:00:00Z",
-      "summary": "WHO updated the global picture for cholera, meningitis and plague, highlighting disease surveillance and response needs.",
-      "category": "health",
-      "image": "",
-      "flagCode": "CHE",
-      "locationLabel": "Geneva, Switzerland"
     }
   ],
   "status": "partial",
-  "media_count": 110,
+  "media_count": 125,
   "sources": [
     "un",
     "bbc",
