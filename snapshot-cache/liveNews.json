@@ -1,39 +1,44 @@
 {
-  "updated_at": "2026-11-26T18:38:44Z",
+  "updated_at": "2026-11-27T01:56:45Z",
   "items": [
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T17:54:22Z",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T01:45:30Z",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
-          "title": "В Кувейте погибли двое итальянцев, Иран отрицает свою ответственность",
-          "summary": "По данным министерства иностранных дел Италии, пара была техническими специалистами немецкой компании Rheinmetall.",
+          "title": "Правящая коалиция Новой Зеландии не имеет парламентского большинства на одно место",
+          "summary": "Правящий блок, возглавляемый Национальной партией, не достиг большинства, необходимого для управления.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "fr": {
-          "title": "Deux Italiens tués en grève au Koweït, l'Iran niant toute responsabilité",
-          "summary": "Selon le ministère italien des Affaires étrangères, la paire était composée de techniciens pour la société allemande Rheinmetall.",
+          "title": "La coalition au pouvoir de la Nouvelle-Zélande manque de majorité parlementaire d'un siège",
+          "summary": "Le bloc dirigeant de droite dirigé par le Parti national est resté en deçà de la majorité nécessaire pour gouverner.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "La coalición gobernante de Nueva Zelanda no tiene mayoría parlamentaria por un asiento",
+          "summary": "El bloque gobernante de derecha liderado por el Partido Nacional se ha quedado corto de la mayoría necesaria para gobernar.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "ar": {
-          "title": "إيطاليان قُتلا في إضراب في الكويت، حيث إن إيران تنكر المسؤولية",
-          "summary": "الزوجان كانا تقنيين لشركة (رينميتال) الألمانية وفقاً لوزارة إيطاليا الخارجية",
+          "title": "تحالف النيوزيلندي الحاكم يقصر عن الأغلبية البرلمانية بمقعد واحد",
+          "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
           "method": "Argos Translate (machine translation; unofficial)"
         },
         "zh": {
-          "title": "由于伊朗否认责任,两名意大利人在科威特的罢工中丧生",
-          "summary": "据意大利外交部称,这对夫妇是德国Rheinmetall公司的技术人员。",
+          "title": "新西兰执政联盟未能以一个席位获得议会多数",
+          "summary": "国民党领导的争取正义的统治集团没有达到治理所需的多数.",
           "method": "Argos Translate (machine translation; unofficial)"
         }
       }
@@ -41,17 +46,17 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
       "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T17:38:56Z",
-      "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/260a/live/9b64fe90-e9ac-11f1-859a-37130cd3a1d7.jpg",
+      "published": "2026-11-27T00:52:11Z",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg",
       "category": "news",
       "locationLabel": "BBC News",
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Самолет FedEx перелетел взлетно-посадочную полосу Майами, что привело к кратковременной приостановке полетов в аэропорту",
@@ -83,6 +88,337 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
+      "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T00:48:11Z",
+      "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cfa/live/2eeecd70-e99f-11f1-b880-15b494ba858d.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "translations": {
+        "ru": {
+          "title": "Полиция разрушила мою жизнь, говорит кенийский мужчина, ошибочно осужденный за нападение на британскую пару",
+          "summary": "Улики британского полицейского помогли осудить Али Кололо за нападение в 2011 году на кенийский курорт Ламу.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Met Police a ruiné ma vie, dit l'homme kenyan condamné à tort pour attaque contre un couple britannique",
+          "summary": "Des preuves d'un policier britannique ont aidé Ali Kololo à condamner une attaque de 2011 dans la station balnéaire kényane de Lamu.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "La policía de Met arruinó mi vida, dice que el hombre de Kenia fue condenado injustamente por atacar a la pareja británica.",
+          "summary": "Las pruebas de un oficial de policía británico ayudaron a condenar a Ali Kololo en un ataque de 2011 en el complejo keniano de Lamu.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "شرطة (ميت) دمرت حياتي، تقول أن الرجل الكيني حكم عليه خطأً بالهجوم على زوجين من (المملكة المتحدة)",
+          "summary": "وساعدت أدلة من ضابط شرطة بريطاني في إدانة علي كولولو على هجوم وقع في عام 2011 في منتجع لامو الكيني.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "Met Police毁了我的生活 说肯尼亚人因攻击英国夫妇而被判错误",
+          "summary": "一名英国警察在2011年肯尼亚拉穆度假村的袭击中帮助将阿里·科洛洛定罪。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Death-sentenced Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T00:47:43Z",
+      "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe82/live/56152150-e9af-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "translations": {
+        "ru": {
+          "title": "Запланированное возвращение шейха Хасины, приговоренного к смертной казни, ставит Бангладеш на грань - и Индию в тупик",
+          "summary": "Декабрьский план возвращения премьер-министра углубляет напряженность в Дакка-Дели и рискует новыми волнениями.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le retour prévu de Sheikh Hasina, condamné à mort, met le Bangladesh sur le bord - et l'Inde dans une impasse",
+          "summary": "Le plan de retour du Premier ministre évincé en décembre approfondit les tensions de Dhaka-Delhi et risque de nouveaux troubles.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El regreso planeado de Sheikh Hasina puso a Bangladesh al borde de la muerte - y la India en un bind",
+          "summary": "El plan de llegada de diciembre del primer ministro derrocado profundiza las tensiones de Dhaka-Delhi y corre el riesgo de disturbios frescos.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "عودة الشيخ (هاسينا) المُخطط لها تضع (بنغلادش) على الحافة، و(الهند) في مأزق",
+          "summary": "خطة رئيس الوزراء الغائبة في كانون الأول يعمق توترات داكا ديلهي ويخاطر باضطرابات جديدة",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "被判处死刑的谢赫·哈西娜计划回国 令孟加拉国陷入困境 印度陷入困境",
+          "summary": "被推翻的总理12月返乡计划加深了达卡-德尔希的紧张局势,并面临新的动荡。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T23:03:16Z",
+      "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "translations": {
+        "ru": {
+          "title": "Часы моего отца остановились в тот момент, когда он умер - я нашел их в пепле пожара в Гонконгской башне.",
+          "summary": "Город отмечает год с тех пор, как огромное пламя прорвало семь многоквартирных домов, убив 168 человек.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La montre de mon père s'est arrêtée dès qu'il est mort.",
+          "summary": "La ville marque un an depuis qu'un énorme incendie a détruit sept immeubles, tuant 168 personnes.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El reloj de mi padre paró el momento en que murió, lo encontré en las cenizas del incendio de la torre de Hong Kong",
+          "summary": "La ciudad marca un año desde que un enorme incendio atravesó siete bloques de apartamentos, matando a 168 personas.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ساعة والدي توقفت لحظة وفاته وجدتها في رماد برج هونغ كونغ",
+          "summary": "تصادف المدينة عامًا منذ أن مزق نصلًا كبيرًا خلال سبع شقق سكنية، مما أدى إلى مقتل 168 شخصاً.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "我爸爸的手表在他死的时候就停了 我在香港塔火的灰烬里找到的",
+          "summary": "这座城市标志着一个巨大的大火撕毁七个公寓街区,造成168人死亡的一年.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T22:49:27Z",
+      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "translations": {
+        "ru": {
+          "title": "США слишком сосредоточены на Ближнем Востоке и недостаточно сильно подталкивают Россию, говорит Зеленский",
+          "summary": "Президент Украины выражает недовольство США и говорит, что это «странно», что Трамп назвал Владимира Путина другом.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Les États-Unis se sont trop concentrés sur le Moyen-Orient et n'ont pas poussé la Russie assez fort, dit Zelensky à la BBC",
+          "summary": "Le président ukrainien exprime sa frustration envers les États-Unis et dit que c'est \"étrange\" Trump a décrit Vladimir Poutine comme un ami.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "EE.UU. demasiado centrado en Medio Oriente y no empujar Rusia lo suficientemente duro, Zelensky dice BBC",
+          "summary": "El presidente de Ucrania expresa frustración con Estados Unidos y dice que es \"extraño\" que Trump ha descrito a Vladimir Putin como amigo.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "الولايات المتحدة مركزة جدا على الشرق الأوسط ولا تدفع روسيا بقوة كافية، زيلينسكي يقول BBC",
+          "summary": "\"أصوات رئيس أوكرانيا محبطة مع الولايات المتحدة و تقول أن \"ستراني ترامب وصف فلاديمير بوتين كصديق",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "美国过于关注中东,",
+          "summary": "乌克兰总统对美国表示沮丧,并称这是\"怪异的\"特朗普形容弗拉基米尔·普京为朋友.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T22:06:20Z",
+      "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5957/live/94851140-e9e4-11f1-ab41-f1f84c0c758a.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "translations": {
+        "ru": {
+          "title": "Зеленский задает вопросы о «странной дружбе» Трампа и Путина в интервью BBC",
+          "summary": "Президент Украины заявил Би-би-си, что к российскому Владимиру Путину нельзя относиться как к другу.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Zelensky questionne l'amitié entre Trump et Putin dans l'interview de la BBC",
+          "summary": "Le président ukrainien dit à la BBC que le Russe Vladimir Poutine ne devrait pas être traité comme un ami.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Zelensky cuestiona la amistad de Trump-Putin en la entrevista de la BBC",
+          "summary": "El presidente ucraniano le dice a la BBC que el ruso Vladimir Putin no debe ser tratado como amigo.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "(زيلينسكي) أسئلة عن صداقة (ترامب بوتين) في مقابلة (بي بي سي)",
+          "summary": "الرئيس الأوكراني يقول للبي بي سي أن فلاديمير بوتين روسيا لا يجب أن يعامل كصديق",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "泽连斯基在BBC的采访中质疑特朗普与普丁的友谊 'range' Trump-Putin friends",
+          "summary": "乌克兰总统告诉英国广播公司,俄罗斯的弗拉基米尔·普京不应被当作朋友对待.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T22:01:22Z",
+      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "translations": {
+        "ru": {
+          "title": "Дизельный танкер, перевозивший до 7000 тонн раковин возле Ибицы, убил одного человека",
+          "summary": "Возможный экологический ущерб по-прежнему оценивается Службой спасения моря Испании.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Un camion-citerne transportant jusqu'à 7 000 tonnes d'éviers près d'Ibiza, tuant un",
+          "summary": "Les dommages environnementaux éventuels sont encore évalués par le service espagnol de sauvetage maritime.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Tanque diesel que transporta hasta 7.000 toneladas de fregaderos cerca de Ibiza, matando a uno",
+          "summary": "El posible daño ambiental sigue siendo evaluado por el servicio de rescate marítimo de España.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ناقلة ديزل تحمل ما يصل إلى 000 7 طن من البواليع قرب إيبيزا، مما أدى إلى مقتل واحد",
+          "summary": "الضرر البيئي المحتمل لا يزال يتم تقييمه من قبل دائرة الإنقاذ البحرية في إسبانيا.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "在Ibiza附近装载多达7 000吨水槽的柴油油轮,造成1人死亡",
+          "summary": "西班牙海上救援部门仍在评估可能的环境损害。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T21:17:53Z",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ece/live/c83dee70-e9f4-11f1-9c56-b1b6306ef9e3.png",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "translations": {
+        "ru": {
+          "title": "В Кувейте погибли двое итальянцев, Иран отрицает свою ответственность",
+          "summary": "По данным министерства иностранных дел Италии, пара была техническими специалистами немецкой компании Rheinmetall.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Deux Italiens tués en grève au Koweït, l'Iran niant toute responsabilité",
+          "summary": "Selon le ministère italien des Affaires étrangères, la paire était composée de techniciens pour la société allemande Rheinmetall.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "إيطاليان قُتلا في إضراب في الكويت، حيث إن إيران تنكر المسؤولية",
+          "summary": "الزوجان كانا تقنيين لشركة (رينميتال) الألمانية وفقاً لوزارة إيطاليا الخارجية",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "由于伊朗否认责任,两名意大利人在科威特的罢工中丧生",
+          "summary": "据意大利外交部称,这对夫妇是德国Rheinmetall公司的技术人员。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26T19:26:16Z",
+      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e81d/live/7ff7f4c0-e9cd-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
+      "translations": {
+        "ru": {
+          "title": "Крыши оторваны и улицы под водой из-за суровой погоды в США",
+          "summary": "Сотни тысяч людей пострадали от штормов в стране, когда начинаются праздничные выходные.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Regarder: Toits arrachés et rues sous l'eau que le temps violent frappe États-Unis",
+          "summary": "Des centaines de milliers de personnes ont été touchées par des tempêtes dans le pays au moment où commence le week-end de fête de l'Action de grâces.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Mira: Roofs arrancados y calles bajo el agua como el clima severo golpea a EE.UU.",
+          "summary": "Cientos de miles han sido afectados por tormentas en el país mientras comienza el fin de semana de vacaciones de Acción de Gracias.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "مشاهده: تمزقت رووفس و شوارع تحت الماء بينما يضرب الطقس الحاد",
+          "summary": "وقد تأثر مئات الألوف بالعواصف في البلد مع بداية عطلة نهاية الأسبوع في عيد الشكر.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "当严酷天气袭击美国时,",
+          "summary": "随着感恩节假日周末的开始,该国已有数十万人受到风暴影响.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
       "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
       "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T16:21:19Z",
@@ -93,7 +429,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Семь раненых, четверо критически настроены после взрыва на нефтеперерабатывающем заводе в Бангкоке",
@@ -135,7 +471,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Новый договор между Великобританией и ЕС имеет пункт о прекращении на 10 лет, понимает BBC",
@@ -167,48 +503,6 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26T15:17:18Z",
-      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg",
-      "category": "news",
-      "locationLabel": "BBC News",
-      "flagCode": "",
-      "imageCredit": "BBC News",
-      "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
-      "translations": {
-        "ru": {
-          "title": "Дизельный танкер, перевозивший до 7000 тонн раковин возле Ибицы, убил одного человека",
-          "summary": "Возможный экологический ущерб по-прежнему оценивается Службой спасения моря Испании.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "fr": {
-          "title": "Un camion-citerne transportant jusqu'à 7 000 tonnes d'éviers près d'Ibiza, tuant un",
-          "summary": "Les dommages environnementaux éventuels sont encore évalués par le service espagnol de sauvetage maritime.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "es": {
-          "title": "Tanque diesel que transporta hasta 7.000 toneladas de fregaderos cerca de Ibiza, matando a uno",
-          "summary": "El posible daño ambiental sigue siendo evaluado por el servicio de rescate marítimo de España.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "ar": {
-          "title": "ناقلة ديزل تحمل ما يصل إلى 000 7 طن من البواليع قرب إيبيزا، مما أدى إلى مقتل واحد",
-          "summary": "الضرر البيئي المحتمل لا يزال يتم تقييمه من قبل دائرة الإنقاذ البحرية في إسبانيا.",
-          "method": "Argos Translate (machine translation; unofficial)"
-        },
-        "zh": {
-          "title": "在Ibiza附近装载多达7 000吨水槽的柴油油轮,造成1人死亡",
-          "summary": "西班牙海上救援部门仍在评估可能的环境损害。",
-          "method": "Argos Translate (machine translation; unofficial)"
-        }
-      }
-    },
-    {
-      "source": "bbc",
-      "publisher": "BBC News",
       "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
       "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26T14:44:26Z",
@@ -219,7 +513,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Жерар Депардье предстанет перед судом за предполагаемое изнасилование актрисы в 2018 году",
@@ -256,7 +550,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Беременный американский заключенный сбежал из тюрьмы после назначения врача",
@@ -298,7 +592,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Гитарист Duran Duran Энди Тейлор умер в возрасте 65 лет",
@@ -340,7 +634,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Египетские власти арестовали водителя за крушение танкера, в результате которого погиб 31 человек",
@@ -382,7 +676,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "«Приходите прямо сейчас»: Кризисный центр в Самарканде помогает женщинам избежать насилия",
@@ -424,7 +718,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Морская торговля застопорилась на фоне геополитической неопределенности",
@@ -466,7 +760,7 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": "",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "ДР Конго: миротворцы усиливают защиту гражданского населения на фоне боев в Итури",
@@ -503,7 +797,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Надежда на миллионы, поскольку более дешевый джеб для профилактики ВИЧ достигает Африки",
@@ -587,7 +881,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Мьянма отказывается выполнять часть решения МКЮ о геноциде",
@@ -629,7 +923,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Политический деятель ХАМАС и его жена среди восьми палестинцев, погибших в результате израильских ударов по Газе",
@@ -671,7 +965,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Политика и пик-а-бу в австралийском парламенте, когда сенатор приносит ребенка на работу",
@@ -713,7 +1007,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "США одобрили план SpaceX отправить в космос миллион спутников данных",
@@ -755,7 +1049,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Аляскинская летающая команда высадила индюков на День благодарения в отдаленные районы",
@@ -881,7 +1175,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Гвинея приказала жителям очистить столицу спустя несколько месяцев после обрушения мусорной свалки",
@@ -923,7 +1217,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "Тринадцать погибших в результате минной катастрофы выделяют незаконную охоту за золотом",
@@ -965,7 +1259,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
+      "imageCheckedAt": "2026-11-27T01:56:45Z",
       "translations": {
         "ru": {
           "title": "ДР Конго требует ответов на угрозы угандийского генерала",
@@ -1007,7 +1301,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Отчаянные призывы женщин в камере смертников в Иране после протестов",
@@ -1049,7 +1342,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Би-би-си столкнулась с немцем, подозреваемым в снабжении банд мигрантов небольшими лодками",
@@ -1091,7 +1383,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Немецкий торговец лодками, подозреваемый в поставках контрабандных банд Канала, находит BBC",
@@ -1301,7 +1592,6 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-26T18:38:44Z",
       "translations": {
         "ru": {
           "title": "Политический мейнстрим Франции рискует провалом президентских выборов без четкого кандидата",
@@ -5825,7 +6115,7 @@
     }
   ],
   "status": "partial",
-  "media_count": 98,
+  "media_count": 105,
   "sources": [
     "un",
     "bbc",
