@@ -1,10 +1,215 @@
 {
-  "updated_at": "2026-11-28T02:12:05Z",
+  "updated_at": "2026-11-28T10:30:19Z",
   "items": [
     {
       "source": "bbc",
       "publisher": "BBC News",
-      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T10:14:37Z",
+      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb14/live/1c031d10-eb16-11f1-90b9-a9d17de9c0bd.png",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
+      "translations": {
+        "ru": {
+          "title": "Семь студентов погибли и почти 100 получили ранения в результате взрыва в Афганистане",
+          "summary": "Представитель министерства внутренних дел Афганистана говорит, что взрыв был вызван неосторожностью на складе взрывчатых веществ неподалеку.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Sept étudiants tués et près de 100 blessés lors d'une explosion en Afghanistan, dit le fonctionnaire",
+          "summary": "Un porte-parole du ministère de l'Intérieur afghan dit que l'explosion a été causée par la négligence dans un dépôt d'explosifs à proximité.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Siete estudiantes muertos y casi 100 heridos en explosión en Afganistán, dice oficial",
+          "summary": "Un portavoz del ministerio interior de Afganistán dice que la explosión fue causada por descuido en un depósito de explosivos cerca.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "سبعة طلاب قتلوا وحوالي 100 مصاب في انفجار في أفغانستان، يقول مسؤول",
+          "summary": "متحدث باسم وزارة الخارجية لأفغانستان يقول أن الإنفجار سببه عدم الإهتمام في مستودع متفجرات قريب",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "阿富汗爆炸造成七名学生死亡和近百人受伤,",
+          "summary": "阿富汗内政部的一名发言人说,爆炸是由于附近一个爆炸物库的疏忽造成的。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T07:31:14Z",
+      "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
+      "translations": {
+        "ru": {
+          "title": "Австралийский борец Бронсон Рид умер в возрасте 38 лет",
+          "summary": "Для 38-летнего австралийца, который выжил благодаря своей беременной жене Пейдж, их дочери.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le lutteur australien Bronson Reed meurt à 38 ans, dit WWE",
+          "summary": "Des hommages ont été faits pour l'Australien de 38 ans qui a survécu à sa femme enceinte, Paige, leur fille.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "El luchador australiano Bronson Reed muere de 38 años, WWE dice",
+          "summary": "Los tributos han inundado para el australiano de 38 años que sobrevivió su esposa embarazada, Paige, su hija.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "المصارع الأسترالي (برونسون ريد) يموت بعمر 38 عاماً",
+          "summary": "لقد غرقت (تريببوت) في حالة استرالية تبلغ من العمر 38 عاماً والتي نجت من زوجته الحامل (بايدج) وابنتها",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "澳大利亚摔跤手布朗森·里德38岁去世 WWE说",
+          "summary": "向38岁的澳大利亚人致敬 他的女儿佩奇怀孕后幸存下来",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T06:52:05Z",
+      "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
+      "translations": {
+        "ru": {
+          "title": "Два сотрудника погибли в результате израильского удара по медицинской клинике в Газе, сообщает MSF",
+          "summary": "Израильские военные заявили, что они нанесли удар по «террористам ХАМАСа», который был осужден Всемирной организацией здравоохранения.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Deux membres du personnel tués en grève israélienne sur la clinique médicale de Gaza, dit MSF",
+          "summary": "L'armée israélienne dit qu'elle a ciblé des « terroristes du Hamas » dans la grève qui a été condamnée par l'Organisation mondiale de la santé.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Dos funcionarios muertos en huelga israelí en la clínica médica de Gaza, dice MSF",
+          "summary": "El ejército israelí dice que atacó a \"terroristas hamas\" en la huelga condenada por la Organización Mundial de la Salud.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "在以色列袭击加沙医疗诊所时,",
+          "summary": "以色列军方说,这次袭击的目标是“哈马斯恐怖分子”,世界卫生组织谴责了这次袭击。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T04:19:16Z",
+      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
+      "translations": {
+        "ru": {
+          "title": "Восемь человек погибли при крушении перуанского военного вертолета",
+          "summary": "Пилот был единственным выжившим во время спасательной операции в отдаленном районе, известном контрабандой наркотиков.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Huit morts dans un accident d'hélicoptère militaire péruvien",
+          "summary": "Le pilote a été le seul survivant de l'accident lors d'une mission de sauvetage dans une zone éloignée connue pour le trafic de drogue.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Ocho muertos en helicóptero militar peruano",
+          "summary": "El piloto fue el único sobreviviente del accidente durante una misión de rescate en una zona remota conocida por el narcotráfico.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ثمانية قتلى في حادث تحطم طائرة هليكوبتر عسكرية في بيرو",
+          "summary": "كان الطيار الناجي الوحيد من الحادثة أثناء مهمة إنقاذ في منطقة نائية معروفة بالاتجار بالمخدرات",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "秘鲁军用直升机坠毁造成8人死亡",
+          "summary": "飞行员是这次空难的唯一幸存者,在因贩毒而出名的偏远地区执行救援任务。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T04:13:45Z",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
+      "translations": {
+        "ru": {
+          "title": "Турецкие чиновники \"уничтожили\" прооппозиционный телеканал, сообщил владелец телеканала Би-би-си",
+          "summary": "Штаб-квартира Halk TV подверглась рейду в прошлом месяце, что стало последним в серии репрессивных мер против новостных источников, считающихся критическими по отношению к правительству.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La chaîne de télévision \"destroyée\" pro-opposition, le propriétaire dit BBC",
+          "summary": "Le quartier général de Halk TV a été attaqué le mois dernier, la dernière d'une série de répressions sur des sources d'information jugées critiques pour le gouvernement.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Funcionarios turcos 'destruidos' canal de televisión pro-oposición, el propietario dice BBC",
+          "summary": "El cuartel general de Halk TV fue allanado el mes pasado, el último en una serie de represión de fuentes de noticias consideradas críticas del gobierno.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "مسؤولون تركيون \"قناة تلفزيونية مؤيدة للعرض\" المالك يخبر \"بي بي سي\"",
+          "summary": "كان مقر تلفاز \"هالك\" غاراً في الشهر الماضي، آخرها في سلسلة من التصدعات على مصادر الأخبار التي تعتبر حاسمة للحكومة.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "土耳其官员“破坏”支持反对的电视频道,",
+          "summary": "哈尔克电视台的总部上个月遭到突袭,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Nigeria's acting legend who was loved across Africa and beyond",
       "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-28T01:20:35Z",
       "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
@@ -14,7 +219,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "«Окончательно трудный человек» Нигерии стал онлайн-мемом",
@@ -56,7 +261,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "«Продавец ядов» Кеннет Лоу извинился перед семьями своих жертв",
@@ -98,7 +303,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Индийская королева Тамаша, фанаты которой заплатили за шоу, которого никогда не было",
@@ -140,7 +345,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Клиника переоценивает людей с СДВГ и аутизмом, но критики опасаются, что это может усугубить стигму.",
@@ -177,7 +382,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "За впечатляющим подъемом Китая голоса, которые бросили ему вызов, говорят, что их заглушают.",
@@ -219,7 +424,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Премьер-министр Испании и его соперники сплотили сторонников в финальном туре голосования",
@@ -303,7 +508,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Мы не могли так легко сдаться: Марширующие группы пытаются покрыть расходы после парада в честь Дня благодарения",
@@ -345,7 +550,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Утомленный войной, но без признаков отступления, Киеву грозит еще одна карательная зима",
@@ -387,7 +592,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "США слишком сосредоточены на Ближнем Востоке и недостаточно сильно подталкивают Россию, говорит Зеленский",
@@ -429,7 +634,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Лидер кенийского культа Судного дня осужден за 123 смерти",
@@ -471,7 +676,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Верховный суд Канады в значительной степени поддерживает запрет Квебека на религиозные символы для государственных служащих.",
@@ -513,7 +718,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Сильные штормы на День благодарения оставляют дороги затопленными, а деревья упали",
@@ -597,7 +802,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Редких черепах нашли в багаже в аэропорту Амстердама",
@@ -970,7 +1175,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Миллионы жен в Южной Азии не защищены от изнасилования в браке",
@@ -1012,7 +1217,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Бывший начальник полиции Италии отверг обвинения в мафиозном расследовании перед смертью",
@@ -1096,7 +1301,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "«Это невозможно»: Молодежь Испании в жилье накануне воскресных выборов",
@@ -1516,7 +1721,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Зеленский задает вопросы о «странной дружбе» Трампа и Путина в интервью BBC",
@@ -1637,7 +1842,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Крыши оторваны и улицы под водой из-за суровой погоды в США",
@@ -2584,7 +2789,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Би-би-си столкнулась с немцем, подозреваемым в снабжении банд мигрантов небольшими лодками",
@@ -4493,7 +4698,7 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z"
+      "imageCheckedAt": "2026-11-28T10:30:19Z"
     },
     {
       "source": "bbc",
@@ -5640,7 +5845,7 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Бразилия просит комиссию по спорам о дополнительных пошлинах, введенных Соединенными Штатами",
@@ -6381,7 +6586,7 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z"
+      "imageCheckedAt": "2026-11-28T10:30:19Z"
     },
     {
       "source": "wto",
@@ -6396,7 +6601,7 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "imageCheckedAt": "2026-11-28T10:30:19Z",
       "translations": {
         "ru": {
           "title": "Меры по содействию торговле помогают компенсировать рост новых торговых ограничений G20",
@@ -6438,7 +6643,6 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "ЕС начинает расследование в отношении некоторых композитных материалов",
@@ -6480,7 +6684,6 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Совещание группы по сельскому хозяйству взвешивает тенденции в мировой торговле продуктами питания",
@@ -7033,78 +7236,10 @@
       "image": "",
       "flagCode": "",
       "locationLabel": "Antalya, Türkiye"
-    },
-    {
-      "source": "worldbank",
-      "publisher": "World Bank",
-      "title": "World Bank Group Explores Regulated Stablecoins to Modernize Payments",
-      "url": "https://www.worldbank.org/en/news/press-release/2026/11/17/world-bank-group-explores-regulated-stablecoins-to-modernize-payments-redirect-res",
-      "published": "2026-11-17T00:00:00Z",
-      "summary": "The World Bank Group announced that it would explore regulated stablecoin infrastructure for development-related payments.",
-      "category": "economy",
-      "image": "",
-      "flagCode": "",
-      "locationLabel": "Washington, United States"
-    },
-    {
-      "source": "wto",
-      "publisher": "World Trade Organization",
-      "title": "New trade-restrictive measures surge but WTO members step up trade facilitation efforts",
-      "url": "https://www.wto.org/english/news_e/news26_e/tmwto_17nov26_552_e.htm",
-      "published": "2026-11-17T00:00:00Z",
-      "summary": "The pace of newly-introduced tariffs and other non-facilitating measures rose sharply in the first half of 2026, while the stockpile of such measures reached a record level, according to the WTO Director-General's latest annual overview of developments in t...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "World Trade Organization",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "ungeneva",
-      "publisher": "UN Geneva",
-      "title": "Committee against Torture Opens Eighty-Fifth Session in Geneva",
-      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-contre-la-torture-ouvre-les-travaux-de-sa-85e-session",
-      "published": "2026-11-16T11:46:58Z",
-      "summary": "The Committee against Torture this morning opened its eighty-fifth session, which is being held in Geneva from 16 November to 5 December. During the session, the Committee will review efforts by Angola, Belize, Norway and the Republic of Moldova to implemen...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "ungeneva",
-      "publisher": "UN Geneva",
-      "title": "New Permanent Representative of Israel Presents Credentials to the Director-General of the United Nations Office at Geneva",
-      "url": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/11/new-permanent-representative-israel-presents",
-      "published": "2026-11-16T08:48:51Z",
-      "summary": "Jonathan Peled, the new Permanent Representative of Israel to the United Nations Office at Geneva, today presented his credentials to Tatiana Valovaya, the Director-General of the United Nations Office at Geneva.Prior to his appointment in Geneva, Mr. Peled...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "wto",
-      "publisher": "World Trade Organization",
-      "title": "DDG Nordquist: Global trade is adapting, not retreating",
-      "url": "https://www.wto.org/english/news_e/news26_e/ddgjn_16nov26_555_e.htm",
-      "published": "2026-11-16T00:00:00Z",
-      "summary": "Global trade has demonstrated remarkable resilience despite geopolitical tensions, supply chain disruptions and trade restrictions, with businesses adapting through diversification and new trading partnerships, Deputy Director-General DJ Nordquist said at t...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "World Trade Organization",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
     }
   ],
   "status": "partial",
-  "media_count": 136,
+  "media_count": 141,
   "sources": [
     "bbc",
     "ungeneva",
