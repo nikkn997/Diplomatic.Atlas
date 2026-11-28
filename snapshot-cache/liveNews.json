@@ -1,12 +1,301 @@
 {
-  "updated_at": "2026-11-27T19:39:37Z",
+  "updated_at": "2026-11-28T02:12:05Z",
   "items": [
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T01:20:35Z",
+      "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c91e/live/0a998920-ea7a-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "translations": {
+        "ru": {
+          "title": "«Окончательно трудный человек» Нигерии стал онлайн-мемом",
+          "summary": "До того, как стать известным в нигерийской киноиндустрии, Эдочи сделал карьеру в области вещания.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "L'ultime homme dur du Nigeria qui devient un meme en ligne",
+          "summary": "Avant de devenir un nom de famille dans l'industrie cinématographique nigériane, Edochie a construit une carrière dans la radiodiffusion.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Nigeria 'ultimo hombre duro' que se convierte en un meme en línea",
+          "summary": "Antes de convertirse en un nombre de hogar en la industria cinematográfica nigeriana, Edochie construyó una carrera en la radiodifusión.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "(نيجيريا) الرجل القوي الذي أصبح ميمة على الإنترنت",
+          "summary": "قبل أن يصبح اسم الأسرة المعيشية في صناعة الأفلام النيجيرية، قام (إدوكي) ببناء مهنة في البث.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "尼日利亚的“第二硬汉”成为网络迷因",
+          "summary": "在成为尼日利亚电影业的户口名之前,埃多奇在广播领域建立了事业.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T00:56:55Z",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "translations": {
+        "ru": {
+          "title": "«Продавец ядов» Кеннет Лоу извинился перед семьями своих жертв",
+          "summary": "Канадец, который признал себя виновным по 14 пунктам обвинения в пособничестве и подстрекательстве к самоубийству в начале этого года, сказал, что он раскаивается в своих действиях.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le « vendeur de poison » Kenneth Law s'excuse devant le tribunal auprès des familles de ses victimes",
+          "summary": "L'homme canadien, qui a plaidé coupable à 14 chefs d'accusation d'aide au suicide et de complicité de suicide plus tôt cette année, a dit qu'il était remords pour ses actions.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Kenneth Law disculpa a las familias de sus víctimas",
+          "summary": "El hombre canadiense, que se declaró culpable de 14 cargos de ayuda y apología del suicidio a principios de este año, dijo que estaba resentido por sus acciones.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "قانون (كينيث) للبائع السم يعتذر في المحكمة لعائلات ضحاياه",
+          "summary": "وقال الرجل الكندي، الذي اعترف بالذنب لـ 14 تهمة للمساعدة والإحراج عن الانتحار في وقت سابق من هذا العام، إنه ندم على أفعاله.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "\"Poison卖家\"肯尼斯法在法庭上向受害者家属道歉",
+          "summary": "加拿大人对今年早些时候的14项协助和教唆自杀罪表示认罪,说他对自己的行为感到悔恨.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T00:50:11Z",
+      "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcbd/live/d9f6b7b0-e97b-11f1-acd8-af22a7ebb474.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "translations": {
+        "ru": {
+          "title": "Индийская королева Тамаша, фанаты которой заплатили за шоу, которого никогда не было",
+          "summary": "Новый болливудский флим освещает замечательную жизнь танцора и певца Витабхаи Нараянгаонкара.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "La reine Tamasha indienne dont les fans ont payé pour un spectacle qui n'est jamais arrivé",
+          "summary": "Un nouveau Bollywood met en lumière la vie remarquable de la danseuse et chanteuse Vithabhai Narayangaonkar.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "La reina india 'Tamasha' cuyos fans pagaron por un espectáculo que nunca sucedió",
+          "summary": "Un nuevo punto débil Bollywood ilumina la notable vida de bailarina y cantante Vithabhai Narayangaonkar.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "ملكة (تاماشا) الهندية التي دفع مشجعوها مقابل عرض لم يحدث",
+          "summary": "(بوليوود) جديد يضيء الأضواء على الحياة الرائعة للراقص والمغني (فيثاباي ناريانغاونكار)",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "印度\"塔玛莎女王\"的粉丝们为一场从未发生的演出付出了代价",
+          "summary": "新的宝莱坞花样闪耀,",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28T00:05:17Z",
+      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "translations": {
+        "ru": {
+          "title": "Клиника переоценивает людей с СДВГ и аутизмом, но критики опасаются, что это может усугубить стигму.",
+          "summary": "Хотя многие люди находят диагноз СДВГ или аутизм, финансируемая правительством клиника в Швеции переоценивает людей, которые считают, что он не отражает их.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Une clinique réévalue les personnes atteintes de TDAH et de diagnostics d'autisme - mais les critiques craignent qu'elle n'aggrave la stigmatisation",
+          "summary": "Bien que de nombreuses personnes trouvent un diagnostic de TDAH ou d'autisme affirmant, une clinique financée par le gouvernement en Suède réévalue les personnes qui estiment qu'elle ne les reflète pas.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Una clínica está revaluando a las personas con TDAH y diagnósticos de autismo - pero los críticos temen que podría profundizar el estigma",
+          "summary": "Mientras que muchas personas encuentran un diagnóstico para el TDAH o autismo afirmando, una clínica financiada por el gobierno en Suecia está reevaluando a las personas que sienten que no las refleja.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "一个诊所正在重新评估患有自闭症(ADHD)和自闭症(自闭症)的患者,",
+          "summary": "虽然许多人发现ADHD或自闭症被诊断为确诊,但瑞典政府资助的诊所却在重新评估那些觉得不反映这些症状的人。",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T23:02:35Z",
+      "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c091/live/9ead0190-ea44-11f1-9fc4-ef897a334b75.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "translations": {
+        "ru": {
+          "title": "За впечатляющим подъемом Китая голоса, которые бросили ему вызов, говорят, что их заглушают.",
+          "summary": "Огромное влияние Китая теперь также имеет изгиб мягкой силы. Критики и диссиденты говорят, что их голоса заглушаются.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Derrière la montée spectaculaire de la Chine, les voix qui l'ont défiée disent qu'elles sont noyées",
+          "summary": "L'immense poids de la Chine a également la flexibilité de la puissance douce. Les critiques et les dissidents disent que leurs voix sont noyées.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Detrás del espectacular ascenso de China, voces que lo desafiaron dicen que se están ahogando",
+          "summary": "El inmenso clout de China ahora también tiene el flex de poder suave. Los críticos y disidentes dicen que sus voces están siendo ahogadas.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "وراء ارتفاع الصين المدهش، الأصوات التي تحدّاها تقول أنّهم يغرقون",
+          "summary": "صين جلطة هائلة الآن أيضاً لديها شعلة من الطاقة الناعمة النقاد والمنشقين يقولون أن أصواتهم تغرق",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "在中国壮观的崛起背后 反抗的声音说他们被淹死了",
+          "summary": "中国的巨大影响力现在也有软实力的弹性. 批评者和持不同政见者表示,他们的声音正在被淹死.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T21:55:53Z",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "translations": {
+        "ru": {
+          "title": "Премьер-министр Испании и его соперники сплотили сторонников в финальном туре голосования",
+          "summary": "Премьер-министр Педро Санчес хочет бросить вызов опросам, а его главные соперники обвиняют его в том, что он не говорит правду и в «предательстве».",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Le Premier ministre espagnol et les rivaux rallient les supporters en finale pour les votes",
+          "summary": "Le Premier ministre Pedro Sánchez veut défier les sondages, et ses principaux rivaux l'accusent de ne pas dire la vérité et de «beurre».",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Los pilotos españoles y rivales se reúnen en última instancia para votar",
+          "summary": "El primer ministro Pedro Sánchez quiere desafiar las encuestas, y sus principales rivales lo acusan de no decir la verdad y la \"traición\".",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "المؤيدون النهائيون للأصوات",
+          "summary": "رئيس الوزراء (بيدرو سانشيز) يريد أن يتحدى الإنتخابات و منافسيه الرئيسيون يتهمونه بعدم قول الحقيقة و \"الخير\"",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "西班牙首相和对手在最后投票中聚集支持者",
+          "summary": "总理佩德罗·桑切斯(Pedro Sánchez)想藐视民意调查,他的主要对手指责他不讲真话,并\"背叛\".",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T20:34:45Z",
+      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "translations": {
+        "ru": {
+          "title": "Танкер, перевозящий 7000 тонн дизельного топлива, будет отбуксирован с Ибицы",
+          "summary": "Есть опасения по поводу крупного разлива нефти с Ибицы, но топливные баки корабля до сих пор не повреждены.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "Bateau-citerne de 7 000 tonnes de diesel à remorquer d'Ibiza",
+          "summary": "On craint un déversement important de pétrole au large d'Ibiza, mais les réservoirs de carburant du navire sont jusqu'à présent intacts.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Tanque tripulado que transporta 7.000 toneladas de diesel para ser remolcado lejos de Ibiza",
+          "summary": "Hay temores de un importante derrame de petróleo de Ibiza, pero los tanques de combustible de la nave están intactos.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "صهاريج محمولة بـ 7000 طن من الديزل لتُسحب بعيداً عن إيبيزا",
+          "summary": "هناك مخاوف من تسرب كبير للنفط قبالة إيبيزا ولكن خزانات وقود السفينة سليمة حتى الآن.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "装有7 000吨柴油的罐装油箱,可拖离伊比萨",
+          "summary": "人们担心伊比萨有重大石油溢出,但舰只的燃料箱至今完好无损.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
     {
       "source": "bbc",
       "publisher": "BBC News",
       "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
       "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27T18:52:33Z",
+      "published": "2026-11-27T20:06:31Z",
       "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
       "category": "news",
@@ -14,7 +303,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Мы не могли так легко сдаться: Марширующие группы пытаются покрыть расходы после парада в честь Дня благодарения",
@@ -56,7 +345,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Утомленный войной, но без признаков отступления, Киеву грозит еще одна карательная зима",
@@ -98,7 +387,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "США слишком сосредоточены на Ближнем Востоке и недостаточно сильно подталкивают Россию, говорит Зеленский",
@@ -140,7 +429,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Лидер кенийского культа Судного дня осужден за 123 смерти",
@@ -182,7 +471,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Верховный суд Канады в значительной степени поддерживает запрет Квебека на религиозные символы для государственных служащих.",
@@ -214,6 +503,48 @@
     {
       "source": "bbc",
       "publisher": "BBC News",
+      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27T16:46:47Z",
+      "summary": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8b3/live/b600e9f0-ea81-11f1-a094-5fdc692f3e33.jpg",
+      "category": "news",
+      "locationLabel": "BBC News",
+      "flagCode": "",
+      "imageCredit": "BBC News",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
+      "translations": {
+        "ru": {
+          "title": "Сильные штормы на День благодарения оставляют дороги затопленными, а деревья упали",
+          "summary": "Сотни тысяч людей остались без электричества после того, как суровая погода обрушилась на оба побережья США во время праздника Благодарения.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "fr": {
+          "title": "De graves tempêtes d'Action de grâce laissent des routes inondées et des arbres tombés",
+          "summary": "Des centaines de milliers de personnes n'avaient pas le pouvoir après que le temps a frappé les deux côtes des États-Unis pendant les vacances de Thanksgiving.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "es": {
+          "title": "Severas tormentas de acción de gracias dejan caminos inundados y árboles caídos",
+          "summary": "Cientos de miles de personas estaban sin poder después de que el clima severo golpeó ambas costas de los Estados Unidos durante las vacaciones de Acción de Gracias.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "ar": {
+          "title": "وتترك عواصف عيد الشكر الخالصة الطرق المغرقة وسقطت الأشجار",
+          "summary": "وكان مئات الآلاف من الناس بلا قوة بعد أن أصاب الطقس الشديد سواحل الولايات المتحدة خلال عطلة عيد الشكر.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        },
+        "zh": {
+          "title": "严重的感恩节风暴使道路淹没,树木倒塌",
+          "summary": "在感恩节假期期间,严重天气袭击了美国两岸,数十万人停电.",
+          "method": "Argos Translate (machine translation; unofficial)"
+        }
+      }
+    },
+    {
+      "source": "bbc",
+      "publisher": "BBC News",
       "title": "Brazil pushes back on Macron calling its meat 'doped'",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27T15:54:15Z",
@@ -224,7 +555,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Бразилия отказалась от Макрона, назвав его мясо «легированным»",
@@ -266,7 +597,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Редких черепах нашли в багаже в аэропорту Амстердама",
@@ -639,7 +970,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Миллионы жен в Южной Азии не защищены от изнасилования в браке",
@@ -681,7 +1012,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Бывший начальник полиции Италии отверг обвинения в мафиозном расследовании перед смертью",
@@ -765,7 +1096,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "«Это невозможно»: Молодежь Испании в жилье накануне воскресных выборов",
@@ -807,7 +1138,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Внутри Саудовской Аравии атаки хуситов проверяют имидж безопасности королевства",
@@ -1185,7 +1516,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Зеленский задает вопросы о «странной дружбе» Трампа и Путина в интервью BBC",
@@ -1306,7 +1637,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
-      "imageCheckedAt": "2026-11-27T19:39:37Z",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Крыши оторваны и улицы под водой из-за суровой погоды в США",
@@ -2253,6 +2584,7 @@
       "flagCode": "",
       "imageCredit": "BBC News",
       "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Би-би-си столкнулась с немцем, подозреваемым в снабжении банд мигрантов небольшими лодками",
@@ -4155,12 +4487,13 @@
       "url": "https://www.wto.org/english/news_e/news26_e/jssdr_25nov26_566_e.htm",
       "published": "2026-11-25T00:00:00Z",
       "summary": "On 25 November, Kazakhstan notified WTO members that, following conclusion of its domestic approval procedures, the disciplines on services domestic regulation had taken legal effect and had been incorporated into Kazakhstan's schedule under the General Agr...",
-      "image": "",
+      "image": "https://www.wto.org/images/img_index/photos/aerial-view-of-trucking-and-delivery-warehouse-2026-09-23-22-18-30-utc_lg.jpg",
       "category": "news",
       "locationLabel": "World Trade Organization",
       "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
+      "imageCredit": "World Trade Organization",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z"
     },
     {
       "source": "bbc",
@@ -5307,6 +5640,7 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Бразилия просит комиссию по спорам о дополнительных пошлинах, введенных Соединенными Штатами",
@@ -6041,12 +6375,13 @@
       "url": "https://www.wto.org/english/news_e/news26_e/agng_23nov26_565_e.htm",
       "published": "2026-11-23T00:00:00Z",
       "summary": "The history of negotiations on export restrictions on food and a proposed special safeguard mechanism (SSM) for developing economies were the focus of meetings of the Committee on Agriculture's negotiations body on 23 November. This was the latest in a seri...",
-      "image": "",
+      "image": "https://www.wto.org/images/img_index/photos/Vegetable_fields_beautiful-morning-view-indonesia-panorama-landscap-2026-09-25-01-40-06-utc_lg.jpg",
       "category": "news",
       "locationLabel": "World Trade Organization",
       "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
+      "imageCredit": "World Trade Organization",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z"
     },
     {
       "source": "wto",
@@ -6061,6 +6396,7 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Меры по содействию торговле помогают компенсировать рост новых торговых ограничений G20",
@@ -6102,6 +6438,7 @@
       "flagCode": "",
       "imageCredit": "World Trade Organization",
       "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "ЕС начинает расследование в отношении некоторых композитных материалов",
@@ -6137,12 +6474,13 @@
       "url": "https://www.wto.org/english/news_e/news26_e/fsec_23nov26_562_e.htm",
       "published": "2026-11-23T00:00:00Z",
       "summary": "Current conditions in global agricultural commodities were the focus of a meeting of the Agricultural Market Information System (AMIS) Global Food Market Information Group, held at WTO headquarters in Geneva on 23-24 November. The AMIS, launched by the G20...",
-      "image": "",
+      "image": "https://www.wto.org/images/img_index/photos/Harvest_farmer-harvesting-grain-with-combine-harvester-on-2026-09-23-13-12-37-utc_lg.jpg",
       "category": "news",
       "locationLabel": "World Trade Organization",
       "flagCode": "",
-      "imageCredit": "",
-      "imageType": "",
+      "imageCredit": "World Trade Organization",
+      "imageType": "publisher-selected page image",
+      "imageCheckedAt": "2026-11-28T02:12:05Z",
       "translations": {
         "ru": {
           "title": "Совещание группы по сельскому хозяйству взвешивает тенденции в мировой торговле продуктами питания",
@@ -6763,122 +7101,11 @@
       "flagCode": "",
       "imageCredit": "",
       "imageType": ""
-    },
-    {
-      "source": "ungeneva",
-      "publisher": "UN Geneva",
-      "title": "Committee on Economic, Social and Cultural Rights Concludes Eightieth Session after Adopting Concluding Observations on Reports of Austria, Eswatini, Mexico and Pakistan",
-      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-des-droits-economiques-sociaux-et-culturels-acheve-sa",
-      "published": "2026-11-13T17:48:28Z",
-      "summary": "The Committee on Economic, Social and Cultural Rights this afternoon concluded its eightieth session after adopting concluding observations on the reports of Austria, Eswatini, Mexico and Pakistan under the International Covenant on Economic, Social and Cul...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "who",
-      "publisher": "World Health Organization",
-      "title": "Member States reiterate commitment to finalize Pandemic Agreement PABS Annex by May 2027",
-      "url": "https://www.who.int/news/item/13-11-2026-member-states-reiterate-commitment-to-finalize-pandemic-agreement-pabs-annex-by-may-2027",
-      "published": "2026-11-13T00:00:00Z",
-      "summary": "Member States reaffirmed their timetable for completing the pathogen access and benefit-sharing annex to the WHO Pandemic Agreement.",
-      "category": "health",
-      "image": "",
-      "flagCode": "",
-      "locationLabel": "Geneva, Switzerland"
-    },
-    {
-      "source": "ungeneva",
-      "publisher": "UN Geneva",
-      "title": "New Permanent Representative of Malawi Presents Credentials to the Director-General of the United Nations Office at Geneva",
-      "url": "https://www.ungeneva.org/en/news-media/presentation-of-credentials/2026/11/new-permanent-representative-malawi-presents",
-      "published": "2026-11-10T11:59:32Z",
-      "summary": "Ambumulire Nellie Itimu Phiri, the new Permanent Representative of Malawi to the United Nations Office at Geneva, today presented her credentials to Tatiana Valovaya, the Director-General of the United Nations Office at Geneva.Prior to her appointment to Ge...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "ungeneva",
-      "publisher": "UN Geneva",
-      "title": "Le nouveau Représentant permanent d’El Salvador présente ses lettres de créance",
-      "url": "https://www.ungeneva.org/fr/news-media/presentation-of-credentials/2026/11/le-nouveau-representant-permanent-del-salvador",
-      "published": "2026-11-10T11:42:52Z",
-      "summary": "M. Agustín Vásquez Gómez a présenté aujourd’hui à Mme Tatiana Valovaya, Directrice générale de l’Office des Nations Unies à Genève, les pouvoirs l’accréditant comme Représentant permanent de la République d’El Salvador auprès de l’Office.Avant sa nomination...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "ungeneva",
-      "publisher": "UN Geneva",
-      "title": "Seventh Review Conference of the High Contracting Parties to the Convention on Certain Conventional Weapons (CCW)",
-      "url": "https://www.ungeneva.org/en/news-media/press-release/2026/11/seventh-review-conference-high-contracting-parties-convention",
-      "published": "2026-11-10T09:29:14Z",
-      "summary": "UNITED NATIONS OFFICE IN GENEVA, 10 November 2026 – The Seventh Review Conference of the High Contracting Parties to the Convention on Certain Conventional Weapons (CCW) will be held at the Palais des Nations in Geneva from 16 - 20 November 2026 under the p...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "ungeneva",
-      "publisher": "UN Geneva",
-      "title": "Human Rights Committee and Committee on Economic, Social and Cultural Rights Celebrate Sixtieth Anniversaries of their Covenants",
-      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/le-comite-des-droits-economiques-sociaux-et-culturels-et-le",
-      "published": "2026-11-06T19:02:23Z",
-      "summary": "The Human Rights Committee and the Committee on Economic, Social and Cultural Rights this afternoon held an event to mark the sixtieth anniversaries of their respective Covenants, the International Covenant on Civil and Political Rightsand the International...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "ungeneva",
-      "publisher": "UN Geneva",
-      "title": "Experts of the Committee on Economic, Social and Cultural Rights Welcome Austria’s Expansion of Housing First Services, Raise Questions on Access to the Labour Market for Asylum Seekers and the Education of Minority Children",
-      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/examen-de-lautriche-au-comite-des-droits-economiques-sociaux-et",
-      "published": "2026-11-06T14:29:02Z",
-      "summary": "The Committee on Economic, Social and Cultural Rights today concluded its consideration of the fifth periodic report of Austria, during which it reviewed the State party’s efforts to implement the International Covenant on Economic, Social and Cultural Righ...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
-    },
-    {
-      "source": "geneva_meetings",
-      "publisher": "UN Geneva Meetings",
-      "title": "Committee on Economic, Social and Cultural Rights Commends Mexico for Progress in Reducing Poverty, Asks about Measures to Protect Human Rights Defenders and Reduce the Gender Wage Gap",
-      "url": "https://www.ungeneva.org/en/news-media/meeting-summary/2026/11/examen-du-mexique-au-comite-des-droits-economiques-sociaux-et",
-      "published": "2026-11-05T19:29:11Z",
-      "summary": "The Committee on Economic, Social and Cultural Rights today concluded its review of the seventh periodic report of Mexico under the International Covenant on Economic, Social and Cultural Rights, with Committee Experts commending the State’s progress in red...",
-      "image": "",
-      "category": "news",
-      "locationLabel": "UN Geneva Meetings",
-      "flagCode": "",
-      "imageCredit": "",
-      "imageType": ""
     }
   ],
   "status": "partial",
-  "media_count": 125,
+  "media_count": 136,
   "sources": [
-    "un",
     "bbc",
     "ungeneva",
     "geneva_meetings",
